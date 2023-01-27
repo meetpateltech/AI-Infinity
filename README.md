@@ -22,6 +22,8 @@
 
 [Krisp](https://krisp.ai/?ref=aiinfinity) - Krisp’s AI removes background voices, noises and echo from all your calls, giving you peace of mind.
 
+[Lalal AI](https://www.lalal.ai/?ref=aiinfinity) - Extract vocal, accompaniment and various instruments from any audio.
+
 [Nonoisy](https://www.nonoisy.com/?ref=aiinfinity) - AI for podcast audio editing.
 
 [Podcast AI](https://podcast.ai/?ref=aiinfinity) - The AI-generated podcast.
@@ -47,6 +49,8 @@
 [Endel](https://endel.io/?ref=aiinfinity) - Personalized soundscapes to help you focus, relax, and sleep.Backed by neuroscience.
 
 [Harmonai](https://www.harmonai.org/?ref=aiinfinity) - open-source generative audio tools to make music production more accessible and fun for everyone.
+
+[Jukebox](https://openai.com/blog/jukebox/?ref=aiinfinity) - A neural net that generates music, including rudimentary singing, as raw audio in a variety of genres and artist styles. 
 
 [Mubert](https://mubert.com/?ref=aiinfinity) - Worldwide copyright-protected AI-generated music via API.
 
