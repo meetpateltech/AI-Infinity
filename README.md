@@ -32,6 +32,31 @@
 
 ### •Music
 
+[Aiva](https://www.aiva.ai/?ref=aiinfinity) - AIVA, the AI music composer that creates original & personalized music for your projects.
+
+[Amper Music](https://www.ampermusic.com/?ref=aiinfinity) - Create the right sound. Define your narrative. Drive emotion with Amper AI.
+
+[Artistator](https://artistator.com/?ref=aiinfinity) - Generate artist names of your favourite music genres.
+
+[Beatoven](https://www.beatoven.ai/?ref=aiinfinity) - Beatoven.ai uses advanced AI music generation techniques to compose unique mood-based music to suit every part of your video or podcast.
+
+[Boomy](https://boomy.com/?ref=aiinfinity) - Create generative music.
+
+[Ecrett Music](https://ecrettmusic.com/?ref=aiinfinity) - Royalty Free Music for Creators.
+
+[Endel](https://endel.io/?ref=aiinfinity) - Personalized soundscapes to help you focus, relax, and sleep.Backed by neuroscience.
+
+[Harmonai](https://www.harmonai.org/?ref=aiinfinity) - open-source generative audio tools to make music production more accessible and fun for everyone.
+
+[Mubert](https://mubert.com/?ref=aiinfinity) - Worldwide copyright-protected AI-generated music via API.
+
+[Natural Language Playlists](https://www.naturallanguageplaylist.com/?ref=aiinfinity) - DALL-E for playlists!
+
+[RIFFUSION](https://www.riffusion.com/?ref=aiinfinity) - Riffusion generates music from text prompts.
+
+[SoundFul](https://soundful.com/?ref=aiinfinity) - AI MUSIC GENERATOR Soundful helps you generate unique, royalty-free tracks at the click of a button.
+
+[Splash](https://www.splashmusic.com/?ref=aiinfinity) - Bringing the joy of music making to everyone.
 
 
 
