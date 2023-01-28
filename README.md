@@ -34,33 +34,33 @@
 
 ### •Music
 
-[Aiva](https://www.aiva.ai/?ref=aiinfinity) - AIVA, the AI music composer that creates original & personalized music for your projects.
+[Aiva](https://aiinfinity.blogspot.com/p/musicaiva.html) - AIVA, the AI music composer that creates original & personalized music for your projects.
 
-[Amper Music](https://www.ampermusic.com/?ref=aiinfinity) - Create the right sound. Define your narrative. Drive emotion with Amper AI.
+[Amper Music](https://aiinfinity.blogspot.com/p/musicamper-music.html) - Create the right sound. Define your narrative. Drive emotion with Amper AI.
 
-[Artistator](https://artistator.com/?ref=aiinfinity) - Generate artist names of your favourite music genres.
+[Artistator](https://aiinfinity.blogspot.com/p/musicartistator.html) - Generate artist names of your favourite music genres.
 
-[Beatoven](https://www.beatoven.ai/?ref=aiinfinity) - Beatoven.ai uses advanced AI music generation techniques to compose unique mood-based music to suit every part of your video or podcast.
+[Beatoven](https://aiinfinity.blogspot.com/p/musicbeatoven.html) - Beatoven.ai uses advanced AI music generation techniques to compose unique mood-based music to suit every part of your video or podcast.
 
-[Boomy](https://boomy.com/?ref=aiinfinity) - Create generative music.
+[Boomy](https://aiinfinity.blogspot.com/p/musicboomy.html) - Create generative music.
 
-[Ecrett Music](https://ecrettmusic.com/?ref=aiinfinity) - Royalty Free Music for Creators.
+[Ecrett Music](https://aiinfinity.blogspot.com/p/musicecrett-music.html) - Royalty Free Music for Creators.
 
-[Endel](https://endel.io/?ref=aiinfinity) - Personalized soundscapes to help you focus, relax, and sleep.Backed by neuroscience.
+[Endel](https://aiinfinity.blogspot.com/p/musicendel.html) - Personalized soundscapes to help you focus, relax, and sleep.Backed by neuroscience.
 
-[Harmonai](https://www.harmonai.org/?ref=aiinfinity) - open-source generative audio tools to make music production more accessible and fun for everyone.
+[Harmonai](https://aiinfinity.blogspot.com/p/musicharmonai.html) - open-source generative audio tools to make music production more accessible and fun for everyone.
 
-[Jukebox](https://openai.com/blog/jukebox/?ref=aiinfinity) - A neural net that generates music, including rudimentary singing, as raw audio in a variety of genres and artist styles. 
+[Jukebox](https://aiinfinity.blogspot.com/p/musicjukebox.html) - A neural net that generates music, including rudimentary singing, as raw audio in a variety of genres and artist styles. 
 
-[Mubert](https://mubert.com/?ref=aiinfinity) - Worldwide copyright-protected AI-generated music via API.
+[Mubert](https://aiinfinity.blogspot.com/p/musicmubert.html) - Worldwide copyright-protected AI-generated music via API.
 
-[Natural Language Playlists](https://www.naturallanguageplaylist.com/?ref=aiinfinity) - DALL-E for playlists!
+[Natural Language Playlists](https://aiinfinity.blogspot.com/p/musicnatural-language-playlists.html) - DALL-E for playlists!
 
-[RIFFUSION](https://www.riffusion.com/?ref=aiinfinity) - Riffusion generates music from text prompts.
+[RIFFUSION](https://aiinfinity.blogspot.com/p/musicriffusion.html) - Riffusion generates music from text prompts.
 
-[SoundFul](https://soundful.com/?ref=aiinfinity) - AI MUSIC GENERATOR Soundful helps you generate unique, royalty-free tracks at the click of a button.
+[SoundFul](https://aiinfinity.blogspot.com/p/musicsoundful.html) - AI MUSIC GENERATOR Soundful helps you generate unique, royalty-free tracks at the click of a button.
 
-[Splash](https://www.splashmusic.com/?ref=aiinfinity) - Bringing the joy of music making to everyone.
+[Splash](https://aiinfinity.blogspot.com/p/musicsplash.html) - Bringing the joy of music making to everyone.
 
 
 
