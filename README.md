@@ -80,6 +80,66 @@ Choose Your Character, Create Magical Avatars.
 
 [Unrealme](https://aiinfinity.blogspot.com/p/avatarsunrealme.html) - Get AI generated images of you.
 
+### •Coding Tools:
+
+[AI CLI](https://aiinfinity.blogspot.com/p/codingai-cli.html) - Get answers for CLI commands from GPT3 right from your terminal.
+
+[AI code reviewer](https://aiinfinity.blogspot.com/p/codingai-code-reviewer.html) - Reviews your code.
+
+[Amazon CodeWhisperer](https://aiinfinity.blogspot.com/p/codingamazon-codewhisperer.html) - Accelerate application development with automatic code recommendations based on the code and comments in your IDE.
+
+[ArtroomAI](https://aiinfinity.blogspot.com/p/codingartroomai.html) - Make beautiful AI generated art without touching a single line of code.
+
+[AskCodi](https://aiinfinity.blogspot.com/p/codingaskcodi.html) - AskCodi is made keeping in mind the needs of developers to avoid redundant tasks, therefore resulting in less time spent on development and more time to execute.
+
+[BlackBox AI](https://aiinfinity.blogspot.com/p/codingblackbox-ai.html) - BLACKBOX is your AI-Powered Coding Assistant so you can {Code} 10X Faster and Better.
+
+[Buildt](https://aiinfinity.blogspot.com/p/codingblackdt.html) - Find, Generate & Replace Anything In Your Code.
+
+[Clippy AI](https://aiinfinity.blogspot.com/p/codingclippy-ai.html) - Clippy AI is a simple wrapper around OpenAI Codex. It allows you to send Codex your current file as well as some instructions in plain-text English.
+
+[Clippy VSCode](https://aiinfinity.blogspot.com/p/codingclippy-vscode.html) - It shows you your mistakes! It's annoying! it moves!
+
+[CodeAssist](https://aiinfinity.blogspot.com/p/codingcodeassist.html) - CodeAssist is an AI assistant / chatbot / copilot for programming. It generates, changes, completes the code and answers questions.
+
+[CodeGeeX](https://aiinfinity.blogspot.com/p/codingcodegeex.html) - A large-scale multilingual code generation model with 13 billion parameters, pre-trained on a large code corpus of more than 20 programming languages. CodeGeeX supports 15+ programming languages for both code generation and translation. CodeGeeX is open source.
+
+[Codeium](https://aiinfinity.blogspot.com/p/codingcodeium.html) - The modern coding superpower.
+
+[Codex](https://aiinfinity.blogspot.com/p/codingcodex.html) - Codex interpret simple commands in natural language and execute them on the user’s behalf—making it possible to build a natural language interface to existing applications.
+
+[Continual](https://aiinfinity.blogspot.com/p/codingcontinual.html) - Continual is an operational AI platform for the modern data stack. Build predictive models that never stop improving without complex engineering.
+
+[Copilot](https://aiinfinity.blogspot.com/p/codingcopilot.html) - GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
+
+[Duino Code Generator](https://aiinfinity.blogspot.com/p/codingduino-code-generator.html) - Let's generate code for Arduino.
+
+[Fig AI](https://aiinfinity.blogspot.com/p/codingfig-ai.html) - Translate English → Bash commands in any shell.
+
+[Fronty](https://aiinfinity.blogspot.com/p/codingfronty.html) - Get the HTML CSS code of your project in no time! AI-Powered tool to create a website in few minutes.Convert image to HTML CSS World's first image to HTML converter.
+
+[Kodezi AI](https://aiinfinity.blogspot.com/p/codingkodezi-ai.html) - Let Kodezi auto generate/correct/comment/optimize your code in seconds.
+
+[Lookup](https://aiinfinity.blogspot.com/p/codinglookup.html) - Import your data, ask questions in plain english, and get answers instantly with the power of AI.
+
+[Maverick](https://aiinfinity.blogspot.com/p/codingmaverick.html) - Maverick focuses on delivering the best code completion on your local machine without reaching out to any APIs or knowledge bases.
+
+[Mutable](https://aiinfinity.blogspot.com/p/codingmutable.html) - Build fast with production quality using AI Accelerated Software Development.
+
+[Programming helper](https://aiinfinity.blogspot.com/p/codingprogramming-helper.html) - Generate code just by typing a text description. AI will create the code for you. Test it now
+
+[Replit](https://aiinfinity.blogspot.com/p/codingreplit.html) - Build software collaboratively from anywhere in the world, on any device, without spending a second on setup.
+
+[Spellbox](https://aiinfinity.blogspot.com/p/codingspellbox.html) - SpellBox uses artificial intelligence to create the code you need from simple prompts. Solve your toughest programming problems with AI in seconds!
+
+[Stenography](https://aiinfinity.blogspot.com/p/codingstenography.html) - Finally. Automatic Documentation.
+
+[Tabnine](https://aiinfinity.blogspot.com/p/codingtabnine.html) - AI assistant for software developers Code faster with whole-line & full-function code completions.
+
+[Testkit](https://aiinfinity.blogspot.com/p/codingtestkit.html) - Browser extension to record entire tests in seconds, run them in the Testkit dashboard or your CI pipeline, and see how Testkit automagically fixes tests for you when they break.
+
+[What the diff](https://aiinfinity.blogspot.com/p/codingwhat-diff.html) - Your AI-powered code review assistant.
+
 ### •Music
 
 [Aiva](https://aiinfinity.blogspot.com/p/musicaiva.html) - AIVA, the AI music composer that creates original & personalized music for your projects.
