@@ -106,6 +106,8 @@ Choose Your Character, Create Magical Avatars.
 
 [Codeium](https://aiinfinity.blogspot.com/p/codingcodeium.html) - The modern coding superpower.
 
+[CodeSquire](https://codesquire.ai/)- Turn your thoughts into code.
+
 [Codex](https://aiinfinity.blogspot.com/p/codingcodex.html) - Codex interpret simple commands in natural language and execute them on the user’s behalf—making it possible to build a natural language interface to existing applications.
 
 [Continual](https://aiinfinity.blogspot.com/p/codingcontinual.html) - Continual is an operational AI platform for the modern data stack. Build predictive models that never stop improving without complex engineering.
@@ -117,6 +119,8 @@ Choose Your Character, Create Magical Avatars.
 [Fig AI](https://aiinfinity.blogspot.com/p/codingfig-ai.html) - Translate English → Bash commands in any shell.
 
 [Fronty](https://aiinfinity.blogspot.com/p/codingfronty.html) - Get the HTML CSS code of your project in no time! AI-Powered tool to create a website in few minutes.Convert image to HTML CSS World's first image to HTML converter.
+
+[Hey,GitHub](https://githubnext.com/projects/hey-github/) - Write code without the keyboard! Difficulty typing? Use your voice to code without spelling things out by talking with GitHub Copilot.
 
 [Kodezi AI](https://aiinfinity.blogspot.com/p/codingkodezi-ai.html) - Let Kodezi auto generate/correct/comment/optimize your code in seconds.
 
