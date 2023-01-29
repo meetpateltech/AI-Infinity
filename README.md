@@ -48,6 +48,8 @@
 
 [Beb](https://aiinfinity.blogspot.com/p/avatarsbeb.html) - Make your own avatars using Al.
 
+[Dreampic AI](https://aiinfinity.blogspot.com/p/avatarsdreampic-ai.html) - Take your personal brand to the next level. Create stunning, personalized images of yourself in a variety of styles.
+
 [Gemsouls](https://aiinfinity.blogspot.com/p/avatarsgemsouls.html) - Gemsouls is an artificial intelligence platform powering virtual characters and their connections to the real world.
 
 [HairGen AI](https://aiinfinity.blogspot.com/p/avatarshairgenai.html) - See your hairline lowered with AI right now.
@@ -79,6 +81,8 @@ Choose Your Character, Create Magical Avatars.
 [Reface](https://aiinfinity.blogspot.com/p/avatarsreface.html) - express yourself online with ai avatar.
 
 [Unrealme](https://aiinfinity.blogspot.com/p/avatarsunrealme.html) - Get AI generated images of you.
+
+[Vana](https://aiinfinity.blogspot.com/p/avatarsvana.html) - "Portrait” by Vana is a generative art studio that can create self-portraits of you in infinite styles.
 
 ### •Coding Tools:
 
@@ -169,6 +173,8 @@ Choose Your Character, Create Magical Avatars.
 [Natural Language Playlists](https://aiinfinity.blogspot.com/p/musicnatural-language-playlists.html) - DALL-E for playlists!
 
 [RIFFUSION](https://aiinfinity.blogspot.com/p/musicriffusion.html) - Riffusion generates music from text prompts.
+
+[SongTell](https://aiinfinity.blogspot.com/p/musicsongtell.html) - The first ever AI-generated song meanings repository.
 
 [SoundFul](https://aiinfinity.blogspot.com/p/musicsoundful.html) - AI MUSIC GENERATOR Soundful helps you generate unique, royalty-free tracks at the click of a button.
 
