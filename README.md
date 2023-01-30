@@ -225,43 +225,43 @@ Switch marketing to autopilot and grow.
 
 ### •Customer Support:
 
-[Adobe Sensei](https://www.adobe.com/in/sensei.html) - Designing and delivering the perfect customer experience can be complicated. Sensei uses AI and machine learning to make it easier.
+[Adobe Sensei](https://aiinfinity.blogspot.com/p/customer-supportadobe-sensei.html) - Designing and delivering the perfect customer experience can be complicated. Sensei uses AI and machine learning to make it easier.
 
-[BotDistrikt](https://www.botdistrikt.com/) - BotDistrikt is a complete chatbot solution for your business.
+[BotDistrikt](https://aiinfinity.blogspot.com/p/customer-supportbotdistrikt.html) - BotDistrikt is a complete chatbot solution for your business.
 
-[Cohere](https://cohere.io/) - Cohere helps CX teams resolve tickets faster while reducing costs, resulting in happier agents and satisfied customers.
+[Cohere](https://aiinfinity.blogspot.com/p/customer-supportcohere.html) - Cohere helps CX teams resolve tickets faster while reducing costs, resulting in happier agents and satisfied customers.
 
-[Delve](https://www.delve.ai/) - Create personas automatically for your business and for your competitor businesses.
+[Delve](https://aiinfinity.blogspot.com/p/customer-supportdelve.html) - Create personas automatically for your business and for your competitor businesses.
 
-[Ebi AI](https://ebi.ai/) - Create your company’s first high performance AI assistant and start delighting customers within 15 minutes; zero coding or technical know-how required.
+[Ebi AI](https://aiinfinity.blogspot.com/p/customer-supportebi-ai.html) - Create your company’s first high performance AI assistant and start delighting customers within 15 minutes; zero coding or technical know-how required.
 
-[echowin](https://echo.win/) - AI Powered Call Management.
+[echowin](https://aiinfinity.blogspot.com/p/customer-supportechowin.html) - AI Powered Call Management.
 
-[Forethought](https://forethought.ai/) - The Leading Generative AI for Customer Support Automation! Meet SupportGPT, the generative AI automation platform that lowers support costs while providing top-tier service in every customer interaction.
+[Forethought](https://aiinfinity.blogspot.com/p/customer-supportforethought.html) - The Leading Generative AI for Customer Support Automation! Meet SupportGPT, the generative AI automation platform that lowers support costs while providing top-tier service in every customer interaction.
 
-[Harvey](https://hiverhq.com/harvey-ai-customer-support) - Leave the time-consuming grunt work to Harvey - Hiver’s AI bot. Focus your attention on the more important tasks.
+[Harvey](https://aiinfinity.blogspot.com/p/customer-supportharvey.html) - Leave the time-consuming grunt work to Harvey - Hiver’s AI bot. Focus your attention on the more important tasks.
 
-[Kaizan](https://kaizan.ai/) - Kaizan automates your tasks using conversation intelligence and highlights what will increase client success and revenue.
+[Kaizan](https://aiinfinity.blogspot.com/p/customer-supportkaizan.html) - Kaizan automates your tasks using conversation intelligence and highlights what will increase client success and revenue.
 
-[Kore AI](https://kore.ai/) - Driving AI-Optimized Customer and Employee Experiences.
+[Kore AI](https://aiinfinity.blogspot.com/p/customer-supportkore-ai.html) - Driving AI-Optimized Customer and Employee Experiences.
 
-[Maya](https://maya.ai/) - AI-driven personalization:customers, banks, and merchants.
+[Maya](https://aiinfinity.blogspot.com/p/customer-supportmaya.html) - AI-driven personalization:customers, banks, and merchants.
 
-[Poly AI](https://poly.ai/) - Customer-Led Conversational Assistants Answer every call immediately, 24/7.
+[Poly AI](https://aiinfinity.blogspot.com/p/customer-supportpoly-ai.html) - Customer-Led Conversational Assistants Answer every call immediately, 24/7.
 
-[Puzzle](https://www.puzzlelabs.ai/) - Bring clarity to your product with an intelligent glossary.
+[Puzzle](https://aiinfinity.blogspot.com/p/customer-supportpuzzle.html) - Bring clarity to your product with an intelligent glossary.
 
-[Quickchat](https://www.quickchat.ai/) - Technology to build AI Assistants that talk like a Human.
+[Quickchat](https://aiinfinity.blogspot.com/p/customer-supportquickchat.html) - Technology to build AI Assistants that talk like a Human.
 
-[Regie](https://www.regie.ai/) - Regie.ai is your all-in-one content creation and management system.
+[Regie](https://aiinfinity.blogspot.com/p/customer-supportregie.html) - Regie.ai is your all-in-one content creation and management system.
 
-[Tiledesk](https://tiledesk.com/) - The all-in-one customer engagement platform! From lead-gen to post-sales, from WhatsApp to your website.With omni-channel live chat and chatbots
+[Tiledesk](https://aiinfinity.blogspot.com/p/customer-supporttiledesk.html) - The all-in-one customer engagement platform! From lead-gen to post-sales, from WhatsApp to your website.With omni-channel live chat and chatbots
 
-[Typewise](https://www.typewise.app/) - AI Writing Solution for Customer Service and Sales teams.
+[Typewise](https://aiinfinity.blogspot.com/p/customer-supporttypewise.html) - AI Writing Solution for Customer Service and Sales teams.
 
-[Vee](https://vee.ai/en/) - effectively implementing business processes for dozens of companies from various industries.
+[Vee](https://aiinfinity.blogspot.com/p/customer-supportvee.html) - effectively implementing business processes for dozens of companies from various industries.
 
-[viable](https://www.askviable.com/) - Save hundreds of hours analyzing feedback.Harness the power of our AI and GPT-3 to automate your qualitative data analysis without compromising quality.
+[viable](https://aiinfinity.blogspot.com/p/customer-supportviable.html) - Save hundreds of hours analyzing feedback.Harness the power of our AI and GPT-3 to automate your qualitative data analysis without compromising quality.
 
 ### •Music
 
