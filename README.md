@@ -223,6 +223,46 @@ Switch marketing to autopilot and grow.
 
 [WordTune](https://aiinfinity.blogspot.com/p/copywritingwordtune.html) - Your thoughts in words! Say exactly what you mean through clear, compelling and authentic writing.
 
+### •Customer Support:
+
+[Adobe Sensei](https://www.adobe.com/in/sensei.html) - Designing and delivering the perfect customer experience can be complicated. Sensei uses AI and machine learning to make it easier.
+
+[BotDistrikt](https://www.botdistrikt.com/) - BotDistrikt is a complete chatbot solution for your business.
+
+[Cohere](https://cohere.io/) - Cohere helps CX teams resolve tickets faster while reducing costs, resulting in happier agents and satisfied customers.
+
+[Delve](https://www.delve.ai/) - Create personas automatically for your business and for your competitor businesses.
+
+[Ebi AI](https://ebi.ai/) - Create your company’s first high performance AI assistant and start delighting customers within 15 minutes; zero coding or technical know-how required.
+
+[echowin](https://echo.win/) - AI Powered Call Management.
+
+[Forethought](https://forethought.ai/) - The Leading Generative AI for Customer Support Automation! Meet SupportGPT, the generative AI automation platform that lowers support costs while providing top-tier service in every customer interaction.
+
+[Harvey](https://hiverhq.com/harvey-ai-customer-support) - Leave the time-consuming grunt work to Harvey - Hiver’s AI bot. Focus your attention on the more important tasks.
+
+[Kaizan](https://kaizan.ai/) - Kaizan automates your tasks using conversation intelligence and highlights what will increase client success and revenue.
+
+[Kore AI](https://kore.ai/) - Driving AI-Optimized Customer and Employee Experiences.
+
+[Maya](https://maya.ai/) - AI-driven personalization:customers, banks, and merchants.
+
+[Poly AI](https://poly.ai/) - Customer-Led Conversational Assistants Answer every call immediately, 24/7.
+
+[Puzzle](https://www.puzzlelabs.ai/) - Bring clarity to your product with an intelligent glossary.
+
+[Quickchat](https://www.quickchat.ai/) - Technology to build AI Assistants that talk like a Human.
+
+[Regie](https://www.regie.ai/) - Regie.ai is your all-in-one content creation and management system.
+
+[Tiledesk](https://tiledesk.com/) - The all-in-one customer engagement platform! From lead-gen to post-sales, from WhatsApp to your website.With omni-channel live chat and chatbots
+
+[Typewise](https://www.typewise.app/) - AI Writing Solution for Customer Service and Sales teams.
+
+[Vee](https://vee.ai/en/) - effectively implementing business processes for dozens of companies from various industries.
+
+[viable](https://www.askviable.com/) - Save hundreds of hours analyzing feedback.Harness the power of our AI and GPT-3 to automate your qualitative data analysis without compromising quality.
+
 ### •Music
 
 [Aiva](https://aiinfinity.blogspot.com/p/musicaiva.html) - AIVA, the AI music composer that creates original & personalized music for your projects.
