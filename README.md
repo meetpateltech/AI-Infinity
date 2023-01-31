@@ -297,39 +297,39 @@ Switch marketing to autopilot and grow.
 
 ### •Text To Speech:
 
-[Ad Auris](https://play.ad-auris.com/?ref=aiinfinity) - Create a playlist of articles and listen to them on Spotify, Apple Podcasts, and Google Podcasts.
+[Ad Auris](https://aiinfinity.blogspot.com/p/text2speechad-auris.html) - Create a playlist of articles and listen to them on Spotify, Apple Podcasts, and Google Podcasts.
 
-[Article Audio](https://article.audio/?ref=aiinfinity) - Convert Articles To Audio.
+[Article Audio](https://aiinfinity.blogspot.com/p/text2speech-article-audio.html) - Convert Articles To Audio.
 
-[Ask my Book](https://askmybook.com/?ref=aiinfinity) - This is an experiment in using AI to make my book's content more accessible.
+[Ask my Book](https://aiinfinity.blogspot.com/p/text2speechask-my-book.html) - This is an experiment in using AI to make my book's content more accessible.
 
-[Audioread](https://audioread.com/?ref=aiinfinity) - Turn your reads
+[Audioread](https://aiinfinity.blogspot.com/p/text2speechaudioread.html) - Turn your reads
 into podcasts.Listen to any article, PDF, email,etc in your podcast app.
 
-[ConvAI](https://www.convai.com/?ref=aiinfinity) - Easy to use, Conversational AI APIs for Speech Recognition, Language Understanding and generation, and Text To Speech to design your games and speech enabled applications.
+[ConvAI](https://aiinfinity.blogspot.com/p/text2speechconvai.html) - Easy to use, Conversational AI APIs for Speech Recognition, Language Understanding and generation, and Text To Speech to design your games and speech enabled applications.
 
-[Coqui](https://coqui.ai/?ref=aiinfinity) - Direct emotive, generative AI voices for video games, post-production, dubbing and much more…
+[Coqui](https://aiinfinity.blogspot.com/p/text2speechcoqui.html) - Direct emotive, generative AI voices for video games, post-production, dubbing and much more…
 
-[Descript](https://www.descript.com/overdub?ref=aiinfinity) - Descript's Overdub lets you create a text-to-speech model of your voice or select one from our ultra-realistic stock voices.
+[Descript](https://aiinfinity.blogspot.com/p/text2speechdescript.html) - Descript's Overdub lets you create a text-to-speech model of your voice or select one from our ultra-realistic stock voices.
 
-[ElevenLabs](https://beta.elevenlabs.io/) - The most realistic and versatile AI speech software, ever. Eleven brings the most compelling, rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling.
+[ElevenLabs](https://aiinfinity.blogspot.com/p/text2speechelevenlabs.html) - The most realistic and versatile AI speech software, ever. Eleven brings the most compelling, rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling.
 
-[FakeYou](https://fakeyou.com/?ref=aiinfinity) - Use FakeYou deep fake tech to say stuff with your favorite characters.
+[FakeYou](https://aiinfinity.blogspot.com/p/text2speechfakeyou.html) - Use FakeYou deep fake tech to say stuff with your favorite characters.
 
-[Listnr](https://www.listnr.tech/?ref=aiinfinity) - AI enabled Text to Voice Generator AI Voice Generator with over 600+ voiceovers in 80+ language.
+[Listnr](https://aiinfinity.blogspot.com/p/text2speechlistnr.html) - AI enabled Text to Voice Generator AI Voice Generator with over 600+ voiceovers in 80+ language.
 
-[Murf AI](https://murf.ai/?ref=aiinfinity) - Go from text to speech with a versatile AI voice generator.
+[Murf AI](https://aiinfinity.blogspot.com/p/text2speechmurfai.html) - Go from text to speech with a versatile AI voice generator.
 
-[Play ht](https://play.ht/?ref=aiinfinity) - Generate realistic Text to Speech (TTS) audio using our online AI Voice Generator and the best synthetic voices. Instantly convert text in to natural-sounding speech and download as MP3 and WAV audio files.
+[Play ht](https://aiinfinity.blogspot.com/p/text2speechplay-ht.html) - Generate realistic Text to Speech (TTS) audio using our online AI Voice Generator and the best synthetic voices. Instantly convert text in to natural-sounding speech and download as MP3 and WAV audio files.
 
-[Resemble AI](https://www.resemble.ai/?ref=aiinfinity) - AI Voice Generator that sounds real. Create speech-to-speech and text-to-speech AI voices with Resemble's realtime voice cloning software.
+[Resemble AI](https://aiinfinity.blogspot.com/p/text2speech-resemble-ai.html) - AI Voice Generator that sounds real. Create speech-to-speech and text-to-speech AI voices with Resemble's realtime voice cloning software.
 
-[Speechify](https://speechify.com/?ref=aiinfinity) - Power through docs, articles, PDFs, email — anything you read — by listening with our leading text-to-speech reader.
+[Speechify](https://aiinfinity.blogspot.com/p/text2speechspeechify.html) - Power through docs, articles, PDFs, email — anything you read — by listening with our leading text-to-speech reader.
 
-[Symbl AI](https://symbl.ai/?ref=aiinfinity) - Integrate real-time speech-to-text and context understanding, powered by advanced deep learning models, to enable live captioning, track user intents, generate summaries and more from unstructured conversation data.   
+[Symbl AI](https://aiinfinity.blogspot.com/p/text2speechsymbl-ai.html) - Integrate real-time speech-to-text and context understanding, powered by advanced deep learning models, to enable live captioning, track user intents, generate summaries and more from unstructured conversation data.   
 
-[Uberduck](https://uberduck.ai/?ref=aiinfinity) - Make AI voiceovers with 5,000+ expressive voices.
+[Uberduck](https://aiinfinity.blogspot.com/p/text2speechuberduck.html) - Make AI voiceovers with 5,000+ expressive voices.
 
-[Wellsaidlabs](https://wellsaidlabs.com/?ref=aiinfinity) - Beautiful voices at your fingertips with text-to-speech that captivates.
+[Wellsaidlabs](https://aiinfinity.blogspot.com/p/text2speechwellsaidlabs.html) - Beautiful voices at your fingertips with text-to-speech that captivates.
 
 
