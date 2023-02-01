@@ -263,6 +263,55 @@ Switch marketing to autopilot and grow.
 
 [viable](https://aiinfinity.blogspot.com/p/customer-supportviable.html) - Save hundreds of hours analyzing feedback.Harness the power of our AI and GPT-3 to automate your qualitative data analysis without compromising quality.
 
+Email Assistant:
+
+[ChatGPT Writer](https://chatgptwriter.ai/) - Free Chrome extension to generate entire emails and messages using ChatGPT AI. All sites are supported and enhanced support for Gmail.
+
+[Creatext](https://www.creatext.ai/) - Creatext finds information about your prospects on the entire Internet and AI-generates personalized text snippets.
+
+[DraftLab](https://draftlab.ai/) - Your Gmail copilot.Powered by AI.Write better emails faster. Reach Inbox Zero 10x faster with the DraftLab Chrome extension for Gmail.
+
+[Effortless Email](https://effortless-email.com/) - QUICKLY TURN BULLET POINTS WRITTEN IN ONE LANGUAGE INTO A FULL EMAIL IN A DIFFERENT LANGUAGE.WRITE EMAILS FASTER!
+
+[Ellie](https://tryellie.com/) - Meet Ellie, your AI email assistant! Ellie learns from your writing style and crafts replies as if they were written by you.
+
+[GETitOUT](https://getitout.io/) - Meet GETitOUT’s Persona Generator: Extract personas from competitors. Generate professional texts. Then paste them into all your websites, emails, and marketing tools.
+
+[HoppyCopy](https://www.hoppycopy.co/) - Save countless hours writing. Use AI to generate powerful copy for hundreds of different email marketing campaigns, drips, newsletters and more—in seconds ⚡
+
+[Instantly](https://instantly.ai/) - Instantly helps you scale your outreach campaigns through unlimited email sending accounts, unlimited warmup, and smart AI.
+
+[Ipso AI](https://ipso.ai/) - Schedule meetings 100x faster! AI assistant that manages calendars & drafts emails based on your unique preferences, powered by GPT-3
+
+[Lavender](https://www.lavender.ai/) - Lavender helps you get more replies in less time. It's everything you need to personalize faster, write more impactful emails, coach, and improve.
+
+[Luna](https://getluna.dev/) - Automated messages are dead these days. Get more replies on your cold emails with Luna - World's first software application that uses AI to suggest new high-quality leads every day and send them the personal emails they deserve.
+
+[Magicreach](https://www.magicreach.ai/) - Personalized emails get more replies. But you send many emails and you don’t have time.Reach aggregates the info you need and suggests personalized icebreakers for each lead.Personalize more emails and boost replies.
+
+[MateAI](https://www.mateai.io/) - Generate Copy and Design for your email campaigns, faster.
+
+[Mentioned](https://mentioned.ai/) - scan your content to identify people and companies you've mentioned, then, send email campaigns to let them know.
+
+[Ortto](https://ortto.com/artificial-intelligence-marketing/) - Journeys made simple.Your customer data,messaging,and analytics working together.
+
+[Outplayhq](https://outplayhq.com/) - 3x your sales meetings, not your budget
+
+[ParagraphAI](https://paragraphai.com/) - AI writing software drafts responses to emails, messages, comments, and more in seconds. Save time on otherwise tedious tasks and enjoy your newfound downtime.
+
+[Pipl AI](https://pipl.ai/) - It is hard to send cold emails at scale. We make it a breeze. Connect unlimited inboxes, enjoy free warm-up for ALL your accounts, built-in email validation and data cleansing, AI-powered sequence & template writer and much more…
+
+[PolitePost](https://politepost.net/) - Rewriting your emails with AI to be courteous/professional/polite/safe for work 
+
+[Postaga](https://postaga.com/) - No one likes to receive template emails. Postaga’s all-in-one outreach platform helps you build personalized outreach campaigns, with AI-powered tools to connect you with the right people.
+
+[Quicklines](https://www.quicklines.ai/) - Quicklines helps you 
+create personalized cold emails that get more replies at scale.
+
+[Regie](https://www.regie.ai/) - Regie.ai is your all-in-one content creation and management system.
+
+[Reply IO](https://reply.io/sales-email-assistant/) - Generate human-like sales emails in seconds! Sales Email Assistant by Reply.io is an AI-powered tool that helps you create 100% human-like emails in seconds while focusing on personalization.
+
 ### •Music
 
 [Aiva](https://aiinfinity.blogspot.com/p/musicaiva.html) - AIVA, the AI music composer that creates original & personalized music for your projects.
