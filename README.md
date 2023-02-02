@@ -6,7 +6,7 @@
 
 ### Categories :
 
-### •Audio
+### •Audio:
 
 [Adobe Audition](https://aiinfinity.blogspot.com/p/audioadobe-audition.html) - Create, mix and design sound effects with the industry’s best digital audio editing software.
 
@@ -331,7 +331,19 @@ create personalized cold emails that get more replies at scale.
 
 [VisualHound](https://visualhound.com/) - Prototype your fashion design ideas with AI.
 
-### •Music
+### •Gift Ideas:
+
+[Cool Gift Ideas](https://www.coolgiftideas.io/) - Give the perfect gift! Discover creative gift ideas for anyone based on who they are.
+
+[Elf Help](https://www.elfhelp.ai/) - Elf Help is your ultimate gift-giving assistant, offering creative and personalized suggestions for everyone on your list, all for free.
+
+[Giftastic AI](https://giftastic.ai/) - Describe the person you want the gift for as accurately as possible, and we recommend suitable and personalized gifts for your special one!
+
+[Gifts Genie](https://gen.gifts/) - Describe your loved one's interests!
+
+[Suggest Gift](https://suggest.gift/) - AI Powered Gift Suggestions!
+
+### •Music:
 
 [Aiva](https://aiinfinity.blogspot.com/p/musicaiva.html) - AIVA, the AI music composer that creates original & personalized music for your projects.
 
