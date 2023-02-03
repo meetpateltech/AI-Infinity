@@ -263,6 +263,65 @@ Switch marketing to autopilot and grow.
 
 [viable](https://aiinfinity.blogspot.com/p/customer-supportviable.html) - Save hundreds of hours analyzing feedback.Harness the power of our AI and GPT-3 to automate your qualitative data analysis without compromising quality.
 
+### •Developer Tools:
+
+[AutoRegex](https://www.autoregex.xyz/) - Effortless conversions from English to Regex! Regex is difficult to write and comprehend to the average human. 
+
+[Chatbotkit](https://chatbotkit.com/) - The simplest way to buildadvanced AI chat bots.
+Platform makes it easy for developers and non-developers alike to build chatbots that can communicate with users in natural language
+
+[Convai](https://www.convai.com/) - Design your conversation based Characters and Speech based games.
+
+[CSM](https://csm.ai/) - Common Sense Machines provides APIs, interfaces, and open source software to translate multi-modal inputs and experiences into a digital simulator for AI training and content creation. 
+
+[Dust](https://dust.tt/) - Design and Deploy Large Language Model Apps.
+
+[GptDuck](https://www.gptduck.com/) - GPTDuck is a tool that helps you find the answer to your questions about a Github repository.
+
+[GPUX AI](https://gpux.ai/) - Deploy 'X' Fast.Run anything Dockerized
+Run autoscale Inference!
+
+[HTTPie AI](https://httpie.io/) - HTTPie is making APIs simple and intuitive for those building the tools of our time.
+
+[Hugging Face](https://huggingface.co/) - The AI community building the future.Build, train and deploy state of the art models powered by the reference open source in machine learning.
+
+[Lightning AI](https://lightning.ai/) - Use platform to build AI products, train, finetune and deploy models on the cloud without worrying about infrastructure, cost management, scaling, and other technical headaches.
+
+[Liner AI](https://liner.ai/) - Liner is a free tool that lets you train your ML models easily. It takes your training data and gives you an easy-to-integrate ML model. No coding or expertise in machine learning required.
+
+[Mintlify](https://mintlify.com/) - Build the documentation you've always wanted. Beautiful out of the box, easy to maintain, and optimized for user engagement.
+
+[Nuclia](https://nuclia.com/) - The AI search engine delivering the right answers from your data!
+Effortless integration. For any data, including video, wherever it is. 
+
+[Pipeline AI](https://www.pipeline.ai/) - Serverless GPU inference for ML models! Pay-per-millisecond API to run ML in production.
+
+[PromptLayer](https://promptlayer.com/) - The first platform built for prompt engineers! Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions.
+
+[Retune](https://retune.so/) - The missing frontend for GPT-3
+Build GPT-3 powered apps,
+without writing any code.
+
+[Riku AI](https://riku.ai/) - Empowering you to build AI models without code. Use AI through integrations, API, or public share links. Accessible AI for everyone.
+
+[Rtutor](http://rtutor.ai/) - Chat with your data via AI.
+
+[RunPod](https://www.runpod.io/) - Save over 80% on GPUs. GPU rental made easy with Jupyter for PyTorch, Tensorflow or any other AI framework.
+
+[Shaped](https://www.shaped.ai/) - Recommendation APIs that increase your metrics 🚀
+
+[Stable Diffusion](https://stability.ai/) - Designing and implementing solutions using collective intelligence and augmented technology.
+
+[SyntheticAldata](https://syntheticaidata.com/) - Synthetic data is a cost-effective way to train and improve AI models.
+
+[Teachable Machine](https://teachablemachine.withgoogle.com/) - Train a computer to recognize your own images, sounds, & poses.
+
+[Textomap](https://www.textomap.com/) - Turn text into interactive maps in seconds! Create insightful maps for travel, education, current events, and storytelling.No code, spreadsheets, or complex tools - your words are enough.
+
+[Tinq AI-NLP API](https://tinq.ai/) - Tinq.ai is a simple natural language processing tool. It helps you easily implement text analysis within your projects.
+
+[Valyr](https://valyr.vercel.app/) - Simplify GPT-3 monitoring with one line of code.
+
 ### •Email Assistant:
 
 [ChatGPT Writer](https://aiinfinity.blogspot.com/p/email-assistantchatgpt-writer.html) - Free Chrome extension to generate entire emails and messages using ChatGPT AI. All sites are supported and enhanced support for Gmail.
