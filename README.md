@@ -343,6 +343,12 @@ create personalized cold emails that get more replies at scale.
 
 [Suggest Gift](https://suggest.gift/) - AI Powered Gift Suggestions!
 
+### •Healthcare:
+
+[Cradle](https://cradle.bio/) - Cradle helps biologists design improved proteins in record time using powerful prediction algorithms and AI design suggestions.
+
+[Whisper AI](https://whisper.ai/) - Meet Whisper, the new hearing system that gets better over time.
+
 ### •Music:
 
 [Aiva](https://aiinfinity.blogspot.com/p/musicaiva.html) - AIVA, the AI music composer that creates original & personalized music for your projects.
