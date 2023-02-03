@@ -301,7 +301,7 @@ Switch marketing to autopilot and grow.
 
 [Pipl AI](https://aiinfinity.blogspot.com/p/email-assistantpipl-ai.html) - It is hard to send cold emails at scale. We make it a breeze. Connect unlimited inboxes, enjoy free warm-up for ALL your accounts, built-in email validation and data cleansing, AI-powered sequence & template writer and much more…
 
-[PolitePost](https://aiinfinity.blogspot.com/p/email-assistantpolitepost.html) - Rewriting your emails with AI to be courteous/professional/polite/safe for work.
+[PolitePost](https://aiinfinity.blogspot.com/p/email-assistantpolitepost.html) - Rewriting your emails with AI to be polite/courteous/professional/safe for work.
 
 [Postaga](https://aiinfinity.blogspot.com/p/email-assistantpostaga.html) - No one likes to receive template emails. Postaga’s all-in-one outreach platform helps you build personalized outreach campaigns, with AI-powered tools to connect you with the right people.
 
@@ -323,25 +323,25 @@ create personalized cold emails that get more replies at scale.
 
 ### •Fashion:
 
-[Botika](https://botika.io/) - Reinvent fashion photoshoots! Generate an endless variety of hyper-realistic on-model photos. 10X faster, at a fraction of the costs.
+[Botika](https://aiinfinity.blogspot.com/p/fashionbotika.html) - Reinvent fashion photoshoots! Generate an endless variety of hyper-realistic on-model photos. 10X faster, at a fraction of the costs.
 
-[Cala](https://ca.la/) - CALA is the leading fashion design interface that unifies the entire design process – from product ideation all the way through e-commerce enablement and order fulfillment – into a single digital platform. 
+[Cala](https://aiinfinity.blogspot.com/p/fashioncala.html) - CALA is the leading fashion design interface that unifies the entire design process – from product ideation all the way through e-commerce enablement and order fulfillment – into a single digital platform. 
 
-[FashionAdvisorAI](https://www.fashionadvisorai.com/) - having trouble deciding what to wear with what? i had to so here i am writing about it.
+[FashionAdvisorAI](https://aiinfinity.blogspot.com/p/fashionfashionadvisorai.html) - having trouble deciding what to wear with what? i had to so here i am writing about it.
 
-[VisualHound](https://visualhound.com/) - Prototype your fashion design ideas with AI.
+[VisualHound](https://aiinfinity.blogspot.com/p/fashionvisualhound.html) - Prototype your fashion design ideas with AI.
 
 ### •Gift Ideas:
 
-[Cool Gift Ideas](https://www.coolgiftideas.io/) - Give the perfect gift! Discover creative gift ideas for anyone based on who they are.
+[Cool Gift Ideas](https://aiinfinity.blogspot.com/p/giftcool-gift-ideas.html) - Give the perfect gift! Discover creative gift ideas for anyone based on who they are.
 
-[Elf Help](https://www.elfhelp.ai/) - Elf Help is your ultimate gift-giving assistant, offering creative and personalized suggestions for everyone on your list, all for free.
+[Elf Help](https://aiinfinity.blogspot.com/p/giftelf-help.html) - Elf Help is your ultimate gift-giving assistant, offering creative and personalized suggestions for everyone on your list, all for free.
 
-[Giftastic AI](https://giftastic.ai/) - Describe the person you want the gift for as accurately as possible, and we recommend suitable and personalized gifts for your special one!
+[Giftastic AI](https://aiinfinity.blogspot.com/p/giftgiftastic-ai.html) - Describe the person you want the gift for as accurately as possible, and we recommend suitable and personalized gifts for your special one!
 
-[Gifts Genie](https://gen.gifts/) - Describe your loved one's interests!
+[Gifts Genie](https://aiinfinity.blogspot.com/p/giftgifts-genie.html) - Describe your loved one's interests!
 
-[Suggest Gift](https://suggest.gift/) - AI Powered Gift Suggestions!
+[Suggest Gift](https://aiinfinity.blogspot.com/p/giftsuggest-gift.html) - AI Powered Gift Suggestions!
 
 ### •Healthcare:
 
