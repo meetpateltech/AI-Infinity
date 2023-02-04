@@ -277,6 +277,61 @@ Switch marketing to autopilot and grow.
 
 [viable](https://aiinfinity.blogspot.com/p/customer-supportviable.html) - Save hundreds of hours analyzing feedback.Harness the power of our AI and GPT-3 to automate your qualitative data analysis without compromising quality.
 
+### •Design Assistant:
+
+[AI2image](https://aiinfinity.blogspot.com/p/design-assistantai2image.html) - You can generate images for your website,blogs or social media from a simple description in English.
+
+[AIGraphics](https://aiinfinity.blogspot.com/p/design-assistantaigraphics.html) - Create Beautiful, Bespoke Graphics in Seconds with AI!
+
+[Autodraw](https://aiinfinity.blogspot.com/p/design-assistantautodraw.html) - Fast drawing for everyone.
+
+[CandyIcons](https://aiinfinity.blogspot.com/p/design-assistantcandyicons.html) - Find beautiful app icons for your product!
+
+[Clickable](https://aiinfinity.blogspot.com/p/design-assistantclickable.html) - Generate ads in seconds with AI!
+
+[Designs AI](https://aiinfinity.blogspot.com/p/design-assistantdesigns-ai.html) - Designs AI is an integrated Agency-as-a-Service platform that uses A.I. technology to allow users to create, edit, and scale content.
+
+[Diagram](https://aiinfinity.blogspot.com/p/design-assistantdiagram.html) - Design Smarter! Magical new ways to design products.
+
+[Dimensions](https://aiinfinity.blogspot.com/p/design-assistantdimensions.html) - Focus on creativity!
+
+[Flair AI](https://aiinfinity.blogspot.com/p/design-assistantflair-ai.html) - THE AI DESIGN TOOL FORBRANDED CONTENT!
+
+[Hotpot AI](https://aiinfinity.blogspot.com/p/design-assistanthotpot-ai.html) - Your Creative Helper!
+
+[IconifyAI](https://aiinfinity.blogspot.com/p/design-assistanticonifyai.html) - Elevate your app's design with AI-generated app icons!
+
+[IllostrationAI](https://aiinfinity.blogspot.com/p/design-assistantillustration-ai.html) - Create AI-generated illustrations.
+Uniqueness in seconds.
+
+[Illustroke](https://aiinfinity.blogspot.com/p/design-assistantillustroke.html) - Stunning vector illustrations from text prompts.
+  
+[Magician (Figma)](https://aiinfinity.blogspot.com/p/design-assistantmagicianfigma.html) - A magical design tool for Figma powered by AI.
+
+[Microsoft Designer](https://aiinfinity.blogspot.com/p/design-assistantmicrosoft-designer.html) - Stunning design in a flash with Microsoft Designer.
+
+[Pattern Maker AI](https://aiinfinity.blogspot.com/p/design-assistantpattern-maker-ai.html) - Generate beautiful pattern concepts using Artificial Intelligence.
+
+[Patterned AI](https://aiinfinity.blogspot.com/p/design-assistantpatterned-ai.html) - Generate unique patterns for your product using AI!
+ 
+[Photoroom](https://aiinfinity.blogspot.com/p/design-assistantphotoroom.html) - Create professional designs for free with our all-in-one creative photo editing platform.
+
+[Pictorial](https://aiinfinity.blogspot.com/p/design-assistantpictorial.html) - Effortlessly create graphics for your ads/blog/website.
+
+[Pinegraph](https://aiinfinity.blogspot.com/p/design-assistantpinegraph.html) - AI based design tool.
+
+[RocketAI](https://aiinfinity.blogspot.com/p/design-assistantrocketai.html) - YOUR GRAPHIC DESIGN CO-PILOT!
+
+[PixelVibe](https://aiinfinity.blogspot.com/p/design-assistantpixelvibe.html) - Create the exact visual you need.
+
+[StockImg AI](https://aiinfinity.blogspot.com/p/design-assistantstockimg-ai.html) - Create design for logo/poster etc.
+
+[Uizard](https://aiinfinity.blogspot.com/p/design-assistantuizard.html) - Visualize and communicate your ideas effortlessly.No design experience required!
+
+[Unbound](https://aiinfinity.blogspot.com/p/design-assistantunbound.html) - Automate content creation for your small business!
+
+[Vizcom](https://aiinfinity.blogspot.com/p/design-assistantvizcom.html) - AI tools to express your creativity!
+
 ### •Developer Tools:
 
 [AutoRegex](https://aiinfinity.blogspot.com/p/developerautoregx.html) - Effortless conversions from English to Regex! Regex is difficult to write and comprehend to the average human. 
