@@ -6,6 +6,20 @@
 
 ### Categories :
 
+### •AI Detection:
+
+[GLTR AI Detection](http://gltr.io/) - Catching a Unicorn with GLTR: A tool to detect automatically generated text.
+
+[GPTZero](https://gptzero.me/),[Other](https://etedward-gptzero-main-zqgfwb.streamlit.app/) - GPTZero turns the very technologies used to build ChatGPT around — to detect AI
+
+[OpenAI Classifier](https://platform.openai.com/ai-text-classifier) - A classifier trained to distinguish between AI-written and human-written text.
+
+[Originaltiy AI](https://originality.ai/) - A Plagiarism Checker and AI Detector Built for Serious Content Publishers.
+
+[Writer](https://writer.com/ai-content-detector/) - AI Content Detector!
+
+[ZeroGPT](https://www.zerogpt.com/) - Detect chatGPT content for Free, simple way & High accuracy. OpenAI detection tool.
+
 ### •Audio:
 
 [Adobe Audition](https://aiinfinity.blogspot.com/p/audioadobe-audition.html) - Create, mix and design sound effects with the industry’s best digital audio editing software.
