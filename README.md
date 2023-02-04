@@ -8,17 +8,17 @@
 
 ### •AI Detection:
 
-[GLTR AI Detection](http://gltr.io/) - Catching a Unicorn with GLTR: A tool to detect automatically generated text.
+[GLTR AI Detection](https://aiinfinity.blogspot.com/p/ai-detectiongltr.html) - Catching a Unicorn with GLTR: A tool to detect automatically generated text.
 
-[GPTZero](https://gptzero.me/),[Other](https://etedward-gptzero-main-zqgfwb.streamlit.app/) - GPTZero turns the very technologies used to build ChatGPT around — to detect AI
+[GPTZero](https://aiinfinity.blogspot.com/p/ai-detectiongptzero.html),[Other](https://etedward-gptzero-main-zqgfwb.streamlit.app/) - GPTZero turns the very technologies used to build ChatGPT around — to detect AI
 
-[OpenAI Classifier](https://platform.openai.com/ai-text-classifier) - A classifier trained to distinguish between AI-written and human-written text.
+[OpenAI Classifier](https://aiinfinity.blogspot.com/p/ai-detectionopenai-classifierai.html) - A classifier trained to distinguish between AI-written and human-written text.
 
-[Originaltiy AI](https://originality.ai/) - A Plagiarism Checker and AI Detector Built for Serious Content Publishers.
+[Originaltiy AI](https://aiinfinity.blogspot.com/p/ai-detectionoriginality-ai.html) - A Plagiarism Checker and AI Detector Built for Serious Content Publishers.
 
-[Writer](https://writer.com/ai-content-detector/) - AI Content Detector!
+[Writer](https://aiinfinity.blogspot.com/p/ai-detectionwriter.html) - AI Content Detector!
 
-[ZeroGPT](https://www.zerogpt.com/) - Detect chatGPT content for Free, simple way & High accuracy. OpenAI detection tool.
+[ZeroGPT](https://aiinfinity.blogspot.com/p/ai-detectionzerogpt.html) - Detect chatGPT content for Free, simple way & High accuracy. OpenAI detection tool.
 
 ### •Audio:
 
@@ -279,62 +279,62 @@ Switch marketing to autopilot and grow.
 
 ### •Developer Tools:
 
-[AutoRegex](https://www.autoregex.xyz/) - Effortless conversions from English to Regex! Regex is difficult to write and comprehend to the average human. 
+[AutoRegex](https://aiinfinity.blogspot.com/p/developerautoregx.html) - Effortless conversions from English to Regex! Regex is difficult to write and comprehend to the average human. 
 
-[Chatbotkit](https://chatbotkit.com/) - The simplest way to buildadvanced AI chat bots.
+[Chatbotkit](https://aiinfinity.blogspot.com/p/developerchatbotkit.html) - The simplest way to buildadvanced AI chat bots.
 Platform makes it easy for developers and non-developers alike to build chatbots that can communicate with users in natural language
 
-[Convai](https://www.convai.com/) - Design your conversation based Characters and Speech based games.
+[Convai](https://aiinfinity.blogspot.com/p/developerconvai.html) - Design your conversation based Characters and Speech based games.
 
-[CSM](https://csm.ai/) - Common Sense Machines provides APIs, interfaces, and open source software to translate multi-modal inputs and experiences into a digital simulator for AI training and content creation. 
+[CSM](https://aiinfinity.blogspot.com/p/developercsm.html) - Common Sense Machines provides APIs, interfaces, and open source software to translate multi-modal inputs and experiences into a digital simulator for AI training and content creation. 
 
-[Dust](https://dust.tt/) - Design and Deploy Large Language Model Apps.
+[Dust](https://aiinfinity.blogspot.com/p/developerdust.html) - Design and Deploy Large Language Model Apps.
 
-[GptDuck](https://www.gptduck.com/) - GPTDuck is a tool that helps you find the answer to your questions about a Github repository.
+[GptDuck](https://aiinfinity.blogspot.com/p/developergptduck.html) - GPTDuck is a tool that helps you find the answer to your questions about a Github repository.
 
-[GPUX AI](https://gpux.ai/) - Deploy 'X' Fast.Run anything Dockerized
+[GPUX AI](https://aiinfinity.blogspot.com/p/developergpux-ai.html) - Deploy 'X' Fast.Run anything Dockerized
 Run autoscale Inference!
 
-[HTTPie AI](https://httpie.io/) - HTTPie is making APIs simple and intuitive for those building the tools of our time.
+[HTTPie AI](https://aiinfinity.blogspot.com/p/developerhttpie-ai.html) - HTTPie is making APIs simple and intuitive for those building the tools of our time.
 
-[Hugging Face](https://huggingface.co/) - The AI community building the future.Build, train and deploy state of the art models powered by the reference open source in machine learning.
+[Hugging Face](https://aiinfinity.blogspot.com/p/developerhugging-face.html) - The AI community building the future.Build, train and deploy state of the art models powered by the reference open source in machine learning.
 
-[Lightning AI](https://lightning.ai/) - Use platform to build AI products, train, finetune and deploy models on the cloud without worrying about infrastructure, cost management, scaling, and other technical headaches.
+[Lightning AI](https://aiinfinity.blogspot.com/p/developerlighting-ai.html) - Use platform to build AI products, train, finetune and deploy models on the cloud without worrying about infrastructure, cost management, scaling, and other technical headaches.
 
-[Liner AI](https://liner.ai/) - Liner is a free tool that lets you train your ML models easily. It takes your training data and gives you an easy-to-integrate ML model. No coding or expertise in machine learning required.
+[Liner AI](https://aiinfinity.blogspot.com/p/developerliner-ai.html) - Liner is a free tool that lets you train your ML models easily. It takes your training data and gives you an easy-to-integrate ML model. No coding or expertise in machine learning required.
 
-[Mintlify](https://mintlify.com/) - Build the documentation you've always wanted. Beautiful out of the box, easy to maintain, and optimized for user engagement.
+[Mintlify](https://aiinfinity.blogspot.com/p/developermintlify.html) - Build the documentation you've always wanted. Beautiful out of the box, easy to maintain, and optimized for user engagement.
 
-[Nuclia](https://nuclia.com/) - The AI search engine delivering the right answers from your data!
+[Nuclia](https://aiinfinity.blogspot.com/p/developernuclia.html) - The AI search engine delivering the right answers from your data!
 Effortless integration. For any data, including video, wherever it is. 
 
-[Pipeline AI](https://www.pipeline.ai/) - Serverless GPU inference for ML models! Pay-per-millisecond API to run ML in production.
+[Pipeline AI](https://aiinfinity.blogspot.com/p/developerpipeline-ai.html) - Serverless GPU inference for ML models! Pay-per-millisecond API to run ML in production.
 
-[PromptLayer](https://promptlayer.com/) - The first platform built for prompt engineers! Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions.
+[PromptLayer](https://aiinfinity.blogspot.com/p/developerpromptlayer.html) - The first platform built for prompt engineers! Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions.
 
-[Retune](https://retune.so/) - The missing frontend for GPT-3
+[Retune](https://aiinfinity.blogspot.com/p/developerretune.html) - The missing frontend for GPT-3
 Build GPT-3 powered apps,
 without writing any code.
 
-[Riku AI](https://riku.ai/) - Empowering you to build AI models without code. Use AI through integrations, API, or public share links. Accessible AI for everyone.
+[Riku AI](https://aiinfinity.blogspot.com/p/developerriku-ai.html) - Empowering you to build AI models without code. Use AI through integrations, API, or public share links. Accessible AI for everyone.
 
-[Rtutor](http://rtutor.ai/) - Chat with your data via AI.
+[Rtutor](https://aiinfinity.blogspot.com/p/developerrtutor.html) - Chat with your data via AI.
 
-[RunPod](https://www.runpod.io/) - Save over 80% on GPUs. GPU rental made easy with Jupyter for PyTorch, Tensorflow or any other AI framework.
+[RunPod](https://aiinfinity.blogspot.com/p/developerrunpod.html) - Save over 80% on GPUs. GPU rental made easy with Jupyter for PyTorch, Tensorflow or any other AI framework.
 
-[Shaped](https://www.shaped.ai/) - Recommendation APIs that increase your metrics 🚀
+[Shaped](https://aiinfinity.blogspot.com/p/developershaped.html) - Recommendation APIs that increase your metrics 🚀
 
-[Stable Diffusion](https://stability.ai/) - Designing and implementing solutions using collective intelligence and augmented technology.
+[Stable Diffusion](https://aiinfinity.blogspot.com/p/developerstable-diffusion.html) - Designing and implementing solutions using collective intelligence and augmented technology.
 
-[SyntheticAldata](https://syntheticaidata.com/) - Synthetic data is a cost-effective way to train and improve AI models.
+[SyntheticAldata](https://aiinfinity.blogspot.com/p/developersyntheticaidata.html) - Synthetic data is a cost-effective way to train and improve AI models.
 
-[Teachable Machine](https://teachablemachine.withgoogle.com/) - Train a computer to recognize your own images, sounds, & poses.
+[Teachable Machine](https://aiinfinity.blogspot.com/p/developerteachable-machine.html) - Train a computer to recognize your own images, sounds, & poses.
 
-[Textomap](https://www.textomap.com/) - Turn text into interactive maps in seconds! Create insightful maps for travel, education, current events, and storytelling.No code, spreadsheets, or complex tools - your words are enough.
+[Textomap](https://aiinfinity.blogspot.com/p/developertexttomap.html) - Turn text into interactive maps in seconds! Create insightful maps for travel, education, current events, and storytelling.No code, spreadsheets, or complex tools - your words are enough.
 
-[Tinq AI-NLP API](https://tinq.ai/) - Tinq.ai is a simple natural language processing tool. It helps you easily implement text analysis within your projects.
+[Tinq AI-NLP API](https://aiinfinity.blogspot.com/p/developertinq.html) - Tinq.ai is a simple natural language processing tool. It helps you easily implement text analysis within your projects.
 
-[Valyr](https://valyr.vercel.app/) - Simplify GPT-3 monitoring with one line of code.
+[Valyr](https://aiinfinity.blogspot.com/p/developervalyr.html) - Simplify GPT-3 monitoring with one line of code.
 
 ### •Email Assistant:
 
