@@ -477,6 +477,93 @@ create personalized cold emails that get more replies at scale.
 
 [Whisper AI](https://whisper.ai/) - Meet Whisper, the new hearing system that gets better over time.
 
+### •Image Editing:
+
+[AI Image Enlarger](https://imglarger.com/) - All-in-one AI toolkits help you enhance and upscale images. Increases image resolution without losing quality.
+
+[Befunky](https://www.befunky.com/) - BeFunky has an amazing collection of tools and features for photo editing, collage making, and graphic design. 
+
+[Bg Eraser](https://bgeraser.com/) - Remove objects and Clean up pics.
+ 
+[Booth AI](https://www.booth.ai/) - Create pro quality product photography with AI.
+
+[Bria](https://bria.ai/) - The easiest way to find, create, and edit visuals content.
+
+[Designify](https://www.designify.com/) - Pick any image to create AI-powered designs by automatically removing backgrounds, enhancing colors, adjusting smart shadows, and so much more.
+
+[Erase bg](https://www.erase.bg/) - Remove background from images of humans, animals or objects and download high-resolution images for free.
+
+[Evoto AI](https://www.evoto.ai/) - Evoto is a next-generation image editor.
+
+[Getimg AI](https://getimg.ai/) - Stable Diffusion Outpainting with AI Editor.
+
+[Green Screen AI](https://greenscreenai.com/) - Change the background of any image with AI.
+
+[Hama-Image Editing](https://www.hama.app/) - Hama is an AI-powered web application that lets you erase objects from your photo with a single brush.
+
+[Let's Enhance](https://letsenhance.io/) - Automatic AI editor to increase image resolution without losing quality.
+
+[Magic Eraser](https://magiceraser.io/) - Remove unwanted things in seconds.
+
+[Nostalgia Photo](https://www.nostalgia.photo/) - Nostalgia Photo brings old photos back to life with the latest cutting-edge Artificial Intelligence.
+
+[Palette fm](https://palette.fm/) - Colorize Pictures!
+
+[QuickTools by Picsart](https://tools.picsart.com/image/) - Make stunning edits with our image tools.
+
+[Radiant Photo](https://radiantimaginglabs.com/) - Get superior quality finished photos with perfect color rendition, delivered to you in record time.
+
+[Remove bg](https://www.remove.bg/) - Remove Image Background.
+
+[RestorePhotos](https://www.restorephotos.io/) - Restoring old photos using AI for everyone.
+
+[Topaz Photo AI](https://www.topazlabs.com/topaz-photo-ai) - Maximize your image quality on autopilot.
+
+[Visio Studio](https://visio.studio/) - Advanced background removal tool, powered by computer vision technology.
+
+### •Image Generator:
+
+[Aragon-Image Generation](https://www.aragon.ai/) - PROFESSIONAL HEADSHOTS
+WITHOUT THE HASSLE
+
+[Artssy](https://www.artssy.co/) - Create unique AI generated images in 1-click.
+
+[BlueWillow](https://www.bluewillow.ai/) - Bring your ideas to life with AI-generated images.
+
+[Canva Text to Image](https://www.canva.com/your-apps/text-to-image) - Type what you'd like to see, and watch it come to life.
+
+[Craiyon](https://www.craiyon.com/) - Free online AI image generator from text.(Formerly DALL-E Mini)
+
+[DallE-2](https://openai.com/dall-e-2/) - DALL·E 2 can create
+original, realistic images
+and art from a text description.
+It can combine concepts,
+attributes, and styles.
+
+[Diffusion Land](https://diffusion.land/) - Generate images with AI.
+
+[Dreamer](https://slashdreamer.com/) - Are you using Notion?
+You want to use AI generated images without friction?
+SlashDreamer introduces a new command: /dream
+
+[Getalpaca](https://www.getalpaca.io/) - Combining Human skill and AI generative power! Photoshop Plugin.
+
+[Imgcreator](https://imgcreator.zmo.ai/) - AI based image generator.
+
+[Midjourney](https://midjourney.com/) - You can generate images with the Midjourney Bot on Discord.
+
+[Nijijourney](https://nijijourney.com/en/) - Let's make magic anime pictures!
+
+[Pollinations](https://pollinations.ai/) - Explain your vision using any language and watch it come to live.
+
+[Soreal AI Studio](https://www.soreal.ai/) - Type anything you want to see. Get custom AI images in seconds.
+
+[Stock AI](https://www.stockai.com/) - AI-generated stock photos.
+
+[Stylized](https://stylized.ai/) - Stunning product photos that sell!
+
+[Xno AI](https://xno.ai/) - Text to Image Generator.
+
 ### •Music:
 
 [Aiva](https://aiinfinity.blogspot.com/p/musicaiva.html) - AIVA, the AI music composer that creates original & personalized music for your projects.
