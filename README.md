@@ -479,90 +479,86 @@ create personalized cold emails that get more replies at scale.
 
 ### •Image Editing:
 
-[AI Image Enlarger](https://imglarger.com/) - All-in-one AI toolkits help you enhance and upscale images. Increases image resolution without losing quality.
+[AI Image Enlarger](https://aiinfinity.blogspot.com/p/image-editingai-image-enlarger.html) - All-in-one AI toolkits help you enhance and upscale images. Increases image resolution without losing quality.
 
-[Befunky](https://www.befunky.com/) - BeFunky has an amazing collection of tools and features for photo editing, collage making, and graphic design. 
+[Befunky](https://aiinfinity.blogspot.com/p/image-editingbefunky.html) - BeFunky has an amazing collection of tools and features for photo editing, collage making, and graphic design. 
 
-[Bg Eraser](https://bgeraser.com/) - Remove objects and Clean up pics.
+[Bg Eraser](https://aiinfinity.blogspot.com/p/image-editingbg-eraser.html) - Remove objects and Clean up pics.
  
-[Booth AI](https://www.booth.ai/) - Create pro quality product photography with AI.
+[Booth AI](https://aiinfinity.blogspot.com/p/image-editingbooth-ai.html) - Create pro quality product photography with AI.
 
-[Bria](https://bria.ai/) - The easiest way to find, create, and edit visuals content.
+[Bria](https://aiinfinity.blogspot.com/p/image-editingbria.html) - The easiest way to find, create, and edit visuals content.
 
-[Designify](https://www.designify.com/) - Pick any image to create AI-powered designs by automatically removing backgrounds, enhancing colors, adjusting smart shadows, and so much more.
+[Designify](https://aiinfinity.blogspot.com/p/image-editingdesignify.html) - Pick any image to create AI-powered designs by automatically removing backgrounds, enhancing colors, adjusting smart shadows, and so much more.
 
-[Erase bg](https://www.erase.bg/) - Remove background from images of humans, animals or objects and download high-resolution images for free.
+[Erase bg](https://aiinfinity.blogspot.com/p/image-editingerase-bg.html) - Remove background from images of humans, animals or objects and download high-resolution images for free.
 
-[Evoto AI](https://www.evoto.ai/) - Evoto is a next-generation image editor.
+[Evoto AI](https://aiinfinity.blogspot.com/p/image-editingevoto-ai.html) - Evoto is a next-generation image editor.
 
-[Getimg AI](https://getimg.ai/) - Stable Diffusion Outpainting with AI Editor.
+[Getimg AI](https://aiinfinity.blogspot.com/p/image-editinggetimg-ai.html) - Stable Diffusion Outpainting with AI Editor.
 
-[Green Screen AI](https://greenscreenai.com/) - Change the background of any image with AI.
+[Green Screen AI](https://aiinfinity.blogspot.com/p/image-editinggreen-screen-ai.html) - Change the background of any image with AI.
 
-[Hama-Image Editing](https://www.hama.app/) - Hama is an AI-powered web application that lets you erase objects from your photo with a single brush.
+[Hama-Image Editing](https://aiinfinity.blogspot.com/p/image-editinghama.html) - Hama is an AI-powered web application that lets you erase objects from your photo with a single brush.
 
-[Let's Enhance](https://letsenhance.io/) - Automatic AI editor to increase image resolution without losing quality.
+[Let's Enhance](https://aiinfinity.blogspot.com/p/image-editinglets-enhance.html) - Automatic AI editor to increase image resolution without losing quality.
 
-[Magic Eraser](https://magiceraser.io/) - Remove unwanted things in seconds.
+[Magic Eraser](https://aiinfinity.blogspot.com/p/image-editingmagic-eraser.html) - Remove unwanted things in seconds.
 
-[Nostalgia Photo](https://www.nostalgia.photo/) - Nostalgia Photo brings old photos back to life with the latest cutting-edge Artificial Intelligence.
+[Nostalgia Photo](https://aiinfinity.blogspot.com/p/image-editingnostalgia-photo.html) - Nostalgia Photo brings old photos back to life with the latest cutting-edge Artificial Intelligence.
 
-[Palette fm](https://palette.fm/) - Colorize Pictures!
+[Palette fm](https://aiinfinity.blogspot.com/p/image-editingpalette-fm.html) - Colorize Pictures!
 
-[QuickTools by Picsart](https://tools.picsart.com/image/) - Make stunning edits with our image tools.
+[QuickTools by Picsart](https://aiinfinity.blogspot.com/p/image-editingquicktools-by-picsart.html) - Make stunning edits with our image tools.
 
-[Radiant Photo](https://radiantimaginglabs.com/) - Get superior quality finished photos with perfect color rendition, delivered to you in record time.
+[Radiant Photo](https://aiinfinity.blogspot.com/p/image-editingradiant-photo.html) - Get superior quality finished photos with perfect color rendition, delivered to you in record time.
 
-[Remove bg](https://www.remove.bg/) - Remove Image Background.
+[Remove bg](https://aiinfinity.blogspot.com/p/image-editingremove-bg.html) - Remove Image Background.
 
-[RestorePhotos](https://www.restorephotos.io/) - Restoring old photos using AI for everyone.
+[RestorePhotos](https://aiinfinity.blogspot.com/p/image-editingrestorephotos.html) - Restoring old photos using AI for everyone.
 
-[Topaz Photo AI](https://www.topazlabs.com/topaz-photo-ai) - Maximize your image quality on autopilot.
+[Topaz Photo AI](https://aiinfinity.blogspot.com/p/image-editingtopaz-photo.html) - Maximize your image quality on autopilot.
 
-[Visio Studio](https://visio.studio/) - Advanced background removal tool, powered by computer vision technology.
+[Visio Studio](https://aiinfinity.blogspot.com/p/image-editingvisio-studio.html) - Advanced background removal tool, powered by computer vision technology.
 
 ### •Image Generator:
 
-[Aragon-Image Generation](https://www.aragon.ai/) - PROFESSIONAL HEADSHOTS
+[Aragon-Image Generation](https://aiinfinity.blogspot.com/p/image-generatoraragon.html) - PROFESSIONAL HEADSHOTS
 WITHOUT THE HASSLE
 
-[Artssy](https://www.artssy.co/) - Create unique AI generated images in 1-click.
+[Artssy](https://aiinfinity.blogspot.com/p/image-generatorartssy.html) - Create unique AI generated images in 1-click.
 
-[BlueWillow](https://www.bluewillow.ai/) - Bring your ideas to life with AI-generated images.
+[BlueWillow](https://aiinfinity.blogspot.com/p/image-generatorbluewillow.html) - Bring your ideas to life with AI-generated images.
 
-[Canva Text to Image](https://www.canva.com/your-apps/text-to-image) - Type what you'd like to see, and watch it come to life.
+[Canva Text to Image](https://aiinfinity.blogspot.com/p/image-generatorcanva-text-to-image.html) - Type what you'd like to see, and watch it come to life.
 
-[Craiyon](https://www.craiyon.com/) - Free online AI image generator from text.(Formerly DALL-E Mini)
+[Craiyon](https://aiinfinity.blogspot.com/p/image-generatorcraiyon.html) - Free online AI image generator from text.(Formerly DALL-E Mini)
 
-[DallE-2](https://openai.com/dall-e-2/) - DALL·E 2 can create
-original, realistic images
-and art from a text description.
-It can combine concepts,
-attributes, and styles.
+[DallE-2](https://aiinfinity.blogspot.com/p/image-generatordalle-2.html) - DALL·E 2 can create original, realistic images and art from a text description.It can combine concepts,attributes,and styles.
 
-[Diffusion Land](https://diffusion.land/) - Generate images with AI.
+[Diffusion Land](https://aiinfinity.blogspot.com/p/image-generatordiffusion-land.html) - Generate images with AI.
 
-[Dreamer](https://slashdreamer.com/) - Are you using Notion?
+[Dreamer](https://aiinfinity.blogspot.com/p/image-generatordreamer.html) - Are you using Notion?
 You want to use AI generated images without friction?
-SlashDreamer introduces a new command: /dream
+SlashDreamer introduces a new command: /dream
 
-[Getalpaca](https://www.getalpaca.io/) - Combining Human skill and AI generative power! Photoshop Plugin.
+[Getalpaca](https://aiinfinity.blogspot.com/p/image-generatorgetalpaca.html) - Combining Human skill and AI generative power! Photoshop Plugin.
 
-[Imgcreator](https://imgcreator.zmo.ai/) - AI based image generator.
+[Imgcreator](https://aiinfinity.blogspot.com/p/image-generatorimgcreator.html) - AI based image generator.
 
-[Midjourney](https://midjourney.com/) - You can generate images with the Midjourney Bot on Discord.
+[Midjourney](https://aiinfinity.blogspot.com/p/image-generatormidjourney.html) - You can generate images with the Midjourney Bot on Discord.
 
-[Nijijourney](https://nijijourney.com/en/) - Let's make magic anime pictures!
+[Nijijourney](https://aiinfinity.blogspot.com/p/image-generatornijijourney.html) - Let's make magic anime pictures!
 
-[Pollinations](https://pollinations.ai/) - Explain your vision using any language and watch it come to live.
+[Pollinations](https://aiinfinity.blogspot.com/p/image-generatorpollinations.html) - Explain your vision using any language and watch it come to live.
 
-[Soreal AI Studio](https://www.soreal.ai/) - Type anything you want to see. Get custom AI images in seconds.
+[Soreal AI Studio](https://aiinfinity.blogspot.com/p/image-generatorsoreal.html) - Type anything you want to see. Get custom AI images in seconds.
 
-[Stock AI](https://www.stockai.com/) - AI-generated stock photos.
+[Stock AI](https://aiinfinity.blogspot.com/p/image-generatorstock-ai.html) - AI-generated stock photos.
 
-[Stylized](https://stylized.ai/) - Stunning product photos that sell!
+[Stylized](https://aiinfinity.blogspot.com/p/image-generatorstylized.html) - Stunning product photos that sell!
 
-[Xno AI](https://xno.ai/) - Text to Image Generator.
+[Xno AI](https://aiinfinity.blogspot.com/p/image-generatorxno-ai.html) - Text to Image Generator.
 
 ### •Music:
 
