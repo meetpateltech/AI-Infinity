@@ -405,6 +405,18 @@ without writing any code.
 
 [Valyr](https://aiinfinity.blogspot.com/p/developervalyr.html) - Simplify GPT-3 monitoring with one line of code.
 
+### •Education:
+
+[Caktus](https://www.caktus.ai/) - Writing,Coding,CV,Resume Maker!
+
+[MindSmith](https://www.mindsmith.ai/) - Mindsmith is a learning platform that uses generative AI to make it easy to create and share course material and training.
+
+[Quizgecko](https://quizgecko.com/) - Quizgecko is a fast, free text to question generator, powered by AI.
+
+[TutorAI](https://www.tutorai.me/) - Learn anything  
+
+[Yip](https://yippity.io/) - Enter your Notes or any URL and Yip 🤖 will generate a quiz automatically from them.
+
 ### •Email Assistant:
 
 [ChatGPT Writer](https://aiinfinity.blogspot.com/p/email-assistantchatgpt-writer.html) - Free Chrome extension to generate entire emails and messages using ChatGPT AI. All sites are supported and enhanced support for Gmail.
