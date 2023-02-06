@@ -98,6 +98,20 @@ Choose Your Character, Create Magical Avatars.
 
 [Vana](https://aiinfinity.blogspot.com/p/avatarsvana.html) - "Portrait” by Vana is a generative art studio that can create self-portraits of you in infinite styles.
 
+### •Chat:
+
+[AskNow](https://www.asknow.ai/) - Ask Anyone, Anything.
+
+[AskThee](https://askthee.vercel.app/) - Ever wanted to ask a question to a big thinker, artist or scientist? now is your chance.
+
+[Chai](https://chai.ml/) - Chat with AI.
+
+[Character AI](https://beta.character.ai/) - Character AI lets you create Characters and talk to them.
+
+[Context](https://addcontext.xyz/) - Context is your AI-powered assistant for learning from your favorite websites, e-books, podcasts, videos, and more.
+
+[Hello History](https://www.hellohistory.ai/) - Chat with AI generated historical figures.
+
 ### •Coding Tools:
 
 [AI CLI](https://aiinfinity.blogspot.com/p/codingai-cli.html) - Get answers for CLI commands from GPT3 right from your terminal.
@@ -591,6 +605,24 @@ SlashDreamer introduces a new command: /dream
 [SoundFul](https://aiinfinity.blogspot.com/p/musicsoundful.html) - AI MUSIC GENERATOR Soundful helps you generate unique, royalty-free tracks at the click of a button.
 
 [Splash](https://aiinfinity.blogspot.com/p/musicsplash.html) - Bringing the joy of music making to everyone.
+
+### •Personalised Video:
+
+[Bhuman](https://www.bhuman.ai/) - BHuman's AI Studio enables human connections at scale with personalized video.
+
+[Colossyan](https://www.colossyan.com/) - Create videos with AI actors.
+
+[InVideo](https://invideo.io/) - The fastest, easiest way to create pro-quality videos.
+
+[Maverick](https://www.trymaverick.com/) - Maverick uses AI-generated video to help ecommerce stores have personalized interactions with each of their customers across their journey.
+
+[Rephrase](https://www.rephrase.ai/) - create digital avatars of real humans to produce hyper-personalized videos at scale, helping businesses communicate with their stakeholders effectively.
+
+[Tavus](https://www.tavus.io/) - Tavus is the only video personalization platform with the power to take what you record and automatically transform it into countless AI-generated videos.
+
+[Vidyo](https://vidyo.ai/) - Create social ready short clips from your long videos with AI.
+
+[Windsor](https://windsor.io/) - Record one video and use Windsor's AI platform to send millions of personalized videos to your customers.
 
 ### •Text To Speech:
 
