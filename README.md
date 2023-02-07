@@ -100,17 +100,17 @@ Choose Your Character, Create Magical Avatars.
 
 ### •Chat:
 
-[AskNow](https://www.asknow.ai/) - Ask Anyone, Anything.
+[AskNow](https://aiinfinity.blogspot.com/p/chatasknow.html) - Ask Anyone, Anything.
 
-[AskThee](https://askthee.vercel.app/) - Ever wanted to ask a question to a big thinker, artist or scientist? now is your chance.
+[AskThee](https://aiinfinity.blogspot.com/p/chataskthee.html) - Ever wanted to ask a question to a big thinker, artist or scientist? now is your chance.
 
-[Chai](https://chai.ml/) - Chat with AI.
+[Chai](https://aiinfinity.blogspot.com/p/chatchai.html) - Chat with AI.
 
-[Character AI](https://beta.character.ai/) - Character AI lets you create Characters and talk to them.
+[Character AI](https://aiinfinity.blogspot.com/p/chatcharacter-ai.html) - Character AI lets you create Characters and talk to them.
 
-[Context](https://addcontext.xyz/) - Context is your AI-powered assistant for learning from your favorite websites, e-books, podcasts, videos, and more.
+[Context](https://aiinfinity.blogspot.com/p/chatcontext.html) - Context is your AI-powered assistant for learning from your favorite websites, e-books, podcasts, videos, and more.
 
-[Hello History](https://www.hellohistory.ai/) - Chat with AI generated historical figures.
+[Hello History](https://aiinfinity.blogspot.com/p/chathello-history.html) - Chat with AI generated historical figures.
 
 ### •Coding Tools:
 
@@ -407,15 +407,15 @@ without writing any code.
 
 ### •Education:
 
-[Caktus](https://www.caktus.ai/) - Writing,Coding,CV,Resume Maker!
+[Caktus](https://aiinfinity.blogspot.com/p/educationcaktus.html) - Writing,Coding,CV,Resume Maker!
 
-[MindSmith](https://www.mindsmith.ai/) - Mindsmith is a learning platform that uses generative AI to make it easy to create and share course material and training.
+[MindSmith](https://aiinfinity.blogspot.com/p/educationmindsmith.html) - Mindsmith is a learning platform that uses generative AI to make it easy to create and share course material and training.
 
-[Quizgecko](https://quizgecko.com/) - Quizgecko is a fast, free text to question generator, powered by AI.
+[Quizgecko](https://aiinfinity.blogspot.com/p/educationquizgecko.html) - Quizgecko is a fast, free text to question generator, powered by AI.
 
-[TutorAI](https://www.tutorai.me/) - Learn anything  
+[TutorAI](https://aiinfinity.blogspot.com/p/educationtutorai.html) - Learn anything  
 
-[Yip](https://yippity.io/) - Enter your Notes or any URL and Yip 🤖 will generate a quiz automatically from them.
+[Yip](https://aiinfinity.blogspot.com/p/educationyip.html) - Enter your Notes or any URL and Yip 🤖 will generate a quiz automatically from them.
 
 ### •Email Assistant:
 
