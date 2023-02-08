@@ -586,6 +586,28 @@ SlashDreamer introduces a new command: /dream
 
 [Xno AI](https://aiinfinity.blogspot.com/p/image-generatorxno-ai.html) - Text to Image Generator.
 
+### •Legal Assistant:
+
+[Activazon](https://activazon.com/) - AI crime analytics for travellers and residence.
+
+[Casetext - Cara AI](https://casetext.com/cara-ai/) - CARA A.I. recommends relevant cases, statutes, briefs, black letter law, and more.
+
+[DoNotPay](https://donotpay.com/) - The DoNotPay app is the home of the world's first robot lawyer.
+
+[Legal Robot](https://legalrobot.com/) - Automated legal analysis, for everyone.
+
+[Spellbook](https://www.spellbook.legal/) - Spellbook uses GPT-3 to review and suggest language for your contracts, right in Microsoft Word.
+
+### •Logo Generator:
+
+[Brandmark](https://brandmark.io/tools/) - AI-powered design tools to get color and font ideas for your next logo project.
+
+[Looka](https://looka.com/) - Use Looka's AI-powered platform to design a logo and build a brand you love.
+
+[Make Logo AI](https://makelogoai.com/) - Make Unique logos with AI.
+
+[Tailor Brands](https://www.tailorbrands.com/logo-maker) -  Tailor brands logo creator uses AI to create custom logos in just a few clicks. 
+
 ### •Music:
 
 [Aiva](https://aiinfinity.blogspot.com/p/musicaiva.html) - AIVA, the AI music composer that creates original & personalized music for your projects.
@@ -617,6 +639,26 @@ SlashDreamer introduces a new command: /dream
 [SoundFul](https://aiinfinity.blogspot.com/p/musicsoundful.html) - AI MUSIC GENERATOR Soundful helps you generate unique, royalty-free tracks at the click of a button.
 
 [Splash](https://aiinfinity.blogspot.com/p/musicsplash.html) - Bringing the joy of music making to everyone.
+
+### •Paraphraser:
+
+[Language Tool](https://languagetool.org/) - Write. Correct. Paraphrase.
+
+[LuciaAI](https://luciaai.com/tools/rephrase-text) - Lucia will rephrase your text to make it more interesting and engaging.
+
+[Paraphraser](https://paraphrasetool.com/) - Paraphrase Tool can change any text in many different ways, ensuring that you find the perfect words, tone, style, and expression for all your writing needs.
+
+[Penelope AI](https://penelope-ai.vercel.app/) - Paraphrase Find a wow text and tweak it. Choose from four options for the appropriate tone for your text.
+
+[Quillbot Paraphraser](https://quillbot.com/) - QuillBot's AI-powered paraphrasing tool will enhance your writing.
+
+[Rephrasely](https://rephrasely.com/) - Your words and thoughts matter, and we’ve designed our Rephrasely to ensure find the best words to match your expression.
+
+[WordAI](https://wordai.com/) - WordAi understands the meaning of each sentence, then rewrites it from scratch while optimizing for uniqueness and readability.
+
+[WordfixerBot](https://www.wordfixerbot.com/) - WordfixerBot's Paraphrasing Tool is the perfect tool to help you quickly and accurately rephrase any text.
+
+[Yaara AI](https://app.yaara.ai/paraphraser) - Your go-to paraphrasing tool for unique and high-performing content.
 
 ### •Personalised Video:
 
