@@ -588,25 +588,25 @@ SlashDreamer introduces a new command: /dream
 
 ### •Legal Assistant:
 
-[Activazon](https://activazon.com/) - AI crime analytics for travellers and residence.
+[Activazon](https://aiinfinity.blogspot.com/p/legal-assistantactivazon.html) - AI crime analytics for travellers and residence.
 
-[Casetext - Cara AI](https://casetext.com/cara-ai/) - CARA A.I. recommends relevant cases, statutes, briefs, black letter law, and more.
+[Casetext - Cara AI](https://aiinfinity.blogspot.com/p/legal-assistantcara-ai.html) - CARA A.I. recommends relevant cases, statutes, briefs, black letter law, and more.
 
-[DoNotPay](https://donotpay.com/) - The DoNotPay app is the home of the world's first robot lawyer.
+[DoNotPay](https://aiinfinity.blogspot.com/p/legal-assistantdonotpay.html) - The DoNotPay app is the home of the world's first robot lawyer.
 
-[Legal Robot](https://legalrobot.com/) - Automated legal analysis, for everyone.
+[Legal Robot](https://aiinfinity.blogspot.com/p/legal-assistantlegal-robot.html) - Automated legal analysis, for everyone.
 
-[Spellbook](https://www.spellbook.legal/) - Spellbook uses GPT-3 to review and suggest language for your contracts, right in Microsoft Word.
+[Spellbook](https://aiinfinity.blogspot.com/p/legal-assistantspellbook.html) - Spellbook uses GPT-3 to review and suggest language for your contracts, right in Microsoft Word.
 
 ### •Logo Generator:
 
-[Brandmark](https://brandmark.io/tools/) - AI-powered design tools to get color and font ideas for your next logo project.
+[Brandmark](https://aiinfinity.blogspot.com/p/logobrandmark.html) - AI-powered design tools to get color and font ideas for your next logo project.
 
-[Looka](https://looka.com/) - Use Looka's AI-powered platform to design a logo and build a brand you love.
+[Looka](https://aiinfinity.blogspot.com/p/logolooka.html) - Use Looka's AI-powered platform to design a logo and build a brand you love.
 
-[Make Logo AI](https://makelogoai.com/) - Make Unique logos with AI.
+[Make Logo AI](https://aiinfinity.blogspot.com/p/logomake-logo-ai.html) - Make Unique logos with AI.
 
-[Tailor Brands](https://www.tailorbrands.com/logo-maker) -  Tailor brands logo creator uses AI to create custom logos in just a few clicks. 
+[Tailor Brands](https://aiinfinity.blogspot.com/p/logotailor-brands.html) -  Tailor brands logo creator uses AI to create custom logos in just a few clicks. 
 
 ### •Music:
 
@@ -642,41 +642,41 @@ SlashDreamer introduces a new command: /dream
 
 ### •Paraphraser:
 
-[Language Tool](https://languagetool.org/) - Write. Correct. Paraphrase.
+[Language Tool](https://aiinfinity.blogspot.com/p/paraphraserlanguage-tool.html) - Write. Correct. Paraphrase.
 
-[LuciaAI](https://luciaai.com/tools/rephrase-text) - Lucia will rephrase your text to make it more interesting and engaging.
+[LuciaAI](https://aiinfinity.blogspot.com/p/paraphraserluciaai.html) - Lucia will rephrase your text to make it more interesting and engaging.
 
-[Paraphraser](https://paraphrasetool.com/) - Paraphrase Tool can change any text in many different ways, ensuring that you find the perfect words, tone, style, and expression for all your writing needs.
+[Paraphraser](https://aiinfinity.blogspot.com/p/paraphraserparaphraser.html) - Paraphrase Tool can change any text in many different ways, ensuring that you find the perfect words, tone, style, and expression for all your writing needs.
 
-[Penelope AI](https://penelope-ai.vercel.app/) - Paraphrase Find a wow text and tweak it. Choose from four options for the appropriate tone for your text.
+[Penelope AI](https://aiinfinity.blogspot.com/p/paraphraserpenelope-ai.html) - Paraphrase Find a wow text and tweak it. Choose from four options for the appropriate tone for your text.
 
-[Quillbot Paraphraser](https://quillbot.com/) - QuillBot's AI-powered paraphrasing tool will enhance your writing.
+[Quillbot Paraphraser](https://aiinfinity.blogspot.com/p/paraphraserquillbot.html) - QuillBot's AI-powered paraphrasing tool will enhance your writing.
 
-[Rephrasely](https://rephrasely.com/) - Your words and thoughts matter, and we’ve designed our Rephrasely to ensure find the best words to match your expression.
+[Rephrasely](https://aiinfinity.blogspot.com/p/paraphraserrephrasely.html) - Your words and thoughts matter, and we’ve designed our Rephrasely to ensure find the best words to match your expression.
 
-[WordAI](https://wordai.com/) - WordAi understands the meaning of each sentence, then rewrites it from scratch while optimizing for uniqueness and readability.
+[WordAI](https://aiinfinity.blogspot.com/p/paraphraserwordai.html) - WordAi understands the meaning of each sentence, then rewrites it from scratch while optimizing for uniqueness and readability.
 
-[WordfixerBot](https://www.wordfixerbot.com/) - WordfixerBot's Paraphrasing Tool is the perfect tool to help you quickly and accurately rephrase any text.
+[WordfixerBot](https://aiinfinity.blogspot.com/p/paraphraserwordfixerbot.html) - WordfixerBot's Paraphrasing Tool is the perfect tool to help you quickly and accurately rephrase any text.
 
-[Yaara AI](https://app.yaara.ai/paraphraser) - Your go-to paraphrasing tool for unique and high-performing content.
+[Yaara AI](https://aiinfinity.blogspot.com/p/paraphraseryaara-ai.html) - Your go-to paraphrasing tool for unique and high-performing content.
 
 ### •Personalised Video:
 
-[Bhuman](https://www.bhuman.ai/) - BHuman's AI Studio enables human connections at scale with personalized video.
+[Bhuman](https://aiinfinity.blogspot.com/p/personalised-videobhuman.html) - BHuman's AI Studio enables human connections at scale with personalized video.
 
-[Colossyan](https://www.colossyan.com/) - Create videos with AI actors.
+[Colossyan](https://aiinfinity.blogspot.com/p/personalised-videocolossyan.html) - Create videos with AI actors.
 
-[InVideo](https://invideo.io/) - The fastest, easiest way to create pro-quality videos.
+[InVideo](https://aiinfinity.blogspot.com/p/personalised-videoinvideo.html) - The fastest, easiest way to create pro-quality videos.
 
-[Maverick](https://www.trymaverick.com/) - Maverick uses AI-generated video to help ecommerce stores have personalized interactions with each of their customers across their journey.
+[Maverick](https://aiinfinity.blogspot.com/p/personalised-videomaverick.html) - Maverick uses AI-generated video to help ecommerce stores have personalized interactions with each of their customers across their journey.
 
-[Rephrase](https://www.rephrase.ai/) - create digital avatars of real humans to produce hyper-personalized videos at scale, helping businesses communicate with their stakeholders effectively.
+[Rephrase](https://aiinfinity.blogspot.com/p/personalised-videorephrase.html) - create digital avatars of real humans to produce hyper-personalized videos at scale, helping businesses communicate with their stakeholders effectively.
 
-[Tavus](https://www.tavus.io/) - Tavus is the only video personalization platform with the power to take what you record and automatically transform it into countless AI-generated videos.
+[Tavus](https://aiinfinity.blogspot.com/p/personalised-videotavus.html) - Tavus is the only video personalization platform with the power to take what you record and automatically transform it into countless AI-generated videos.
 
-[Vidyo](https://vidyo.ai/) - Create social ready short clips from your long videos with AI.
+[Vidyo](https://aiinfinity.blogspot.com/p/personalised-videovidyo.html) - Create social ready short clips from your long videos with AI.
 
-[Windsor](https://windsor.io/) - Record one video and use Windsor's AI platform to send millions of personalized videos to your customers.
+[Windsor](https://aiinfinity.blogspot.com/p/personalised-videowindsor.html) - Record one video and use Windsor's AI platform to send millions of personalized videos to your customers.
 
 ### •Text To Speech:
 
