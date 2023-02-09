@@ -678,6 +678,24 @@ SlashDreamer introduces a new command: /dream
 
 [Windsor](https://aiinfinity.blogspot.com/p/personalised-videowindsor.html) - Record one video and use Windsor's AI platform to send millions of personalized videos to your customers.
 
+### •SEO:
+
+[Compar](https://compar.ai/) - AI Powered Content Analyses.
+
+[CTRify](https://www.ctrify.com/) - AI-Powered SEO Action Platform.
+
+[Genie AI](https://www.metagenieai.com/) - GENERATE AI-POWERED METADATA! Title, Description, Tags, and Thumbnail Idea for Various Forms of Digital Content
+
+[Keywrds AI](https://keywrds.ai/) - Find keywords your competition can only dream of.
+
+[Neuronwriter](https://www.neuronwriter.com/) - Optimize your website content so Google adores it.
+
+[Scalenut](https://www.scalenut.com/) - Scale Traffic from Search.
+
+[SEO GPT](https://seovendor.co/seo-gpt/) - advanced AI technology generates unique, keyword-optimized content that is specifically tailored to your target audience.
+
+[Vidlq](https://vidiq.com/) - Designed to boost your YouTube views.
+
 ### •Text To Speech:
 
 [Ad Auris](https://aiinfinity.blogspot.com/p/text2speechad-auris.html) - Create a playlist of articles and listen to them on Spotify, Apple Podcasts, and Google Podcasts.
