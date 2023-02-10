@@ -680,29 +680,29 @@ SlashDreamer introduces a new command: /dream
 
 ### •Research:
 
-[Consensus](https://consensus.app/) - Evidence-Based Answers, Faster!
+[Consensus](https://aiinfinity.blogspot.com/p/researchconsensus.html) - Evidence-Based Answers, Faster!
 
-[Elicit](https://elicit.org/) - The AI Research Assistant! Elicit uses language models to help you automate research workflows, like parts of literature review.
+[Elicit](https://aiinfinity.blogspot.com/p/researchelicit.html) - The AI Research Assistant! Elicit uses language models to help you automate research workflows, like parts of literature review.
 
-[Scispace](https://typeset.io/) - Your AI Copilot to decode any research paper.
+[Scispace](https://aiinfinity.blogspot.com/p/researchscispace.html) - Your AI Copilot to decode any research paper.
 
 ### •SEO:
 
-[Compar](https://compar.ai/) - AI Powered Content Analyses.
+[Compar](https://aiinfinity.blogspot.com/p/seocompar.html) - AI Powered Content Analyses.
 
-[CTRify](https://www.ctrify.com/) - AI-Powered SEO Action Platform.
+[CTRify](https://aiinfinity.blogspot.com/p/seoctrify.html) - AI-Powered SEO Action Platform.
 
-[Genie AI](https://www.metagenieai.com/) - GENERATE AI-POWERED METADATA! Title, Description, Tags, and Thumbnail Idea for Various Forms of Digital Content
+[Genie AI](https://aiinfinity.blogspot.com/p/seogenie-ai.html) - GENERATE AI-POWERED METADATA! Title, Description, Tags, and Thumbnail Idea for Various Forms of Digital Content
 
-[Keywrds AI](https://keywrds.ai/) - Find keywords your competition can only dream of.
+[Keywrds AI](https://aiinfinity.blogspot.com/p/seokeywrds-ai.html) - Find keywords your competition can only dream of.
 
-[Neuronwriter](https://www.neuronwriter.com/) - Optimize your website content so Google adores it.
+[Neuronwriter](https://aiinfinity.blogspot.com/p/seoneuronwriter.html) - Optimize your website content so Google adores it.
 
-[Scalenut](https://www.scalenut.com/) - Scale Traffic from Search.
+[Scalenut](https://aiinfinity.blogspot.com/p/seoscalenut.html) - Scale Traffic from Search.
 
-[SEO GPT](https://seovendor.co/seo-gpt/) - advanced AI technology generates unique, keyword-optimized content that is specifically tailored to your target audience.
+[SEO GPT](https://aiinfinity.blogspot.com/p/seoseo-gpt.html) - advanced AI technology generates unique, keyword-optimized content that is specifically tailored to your target audience.
 
-[Vidlq](https://vidiq.com/) - Designed to boost your YouTube views.
+[Vidlq](https://aiinfinity.blogspot.com/p/seovidlq.html) - Designed to boost your YouTube views.
 
 ### •Text To Speech:
 
