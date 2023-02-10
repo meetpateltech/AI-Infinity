@@ -678,6 +678,14 @@ SlashDreamer introduces a new command: /dream
 
 [Windsor](https://aiinfinity.blogspot.com/p/personalised-videowindsor.html) - Record one video and use Windsor's AI platform to send millions of personalized videos to your customers.
 
+### •Research:
+
+[Consensus](https://consensus.app/) - Evidence-Based Answers, Faster!
+
+[Elicit](https://elicit.org/) - The AI Research Assistant! Elicit uses language models to help you automate research workflows, like parts of literature review.
+
+[Scispace](https://typeset.io/) - Your AI Copilot to decode any research paper.
+
 ### •SEO:
 
 [Compar](https://compar.ai/) - AI Powered Content Analyses.
