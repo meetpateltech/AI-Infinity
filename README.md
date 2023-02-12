@@ -678,6 +678,88 @@ SlashDreamer introduces a new command: /dream
 
 [Windsor](https://aiinfinity.blogspot.com/p/personalised-videowindsor.html) - Record one video and use Windsor's AI platform to send millions of personalized videos to your customers.
 
+### •Productivity:
+
+[Albus](https://www.springworks.in/albus/) - Albus is not just an Assistant He is a Friend/mentor.
+
+[ChatGPT Chrome Extension](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban) - Display ChatGPT response alongside Google, Bing, DuckDuckGo Search results.
+
+[ChatGPT Writer](https://chatgptwriter.ai/) - Free Chrome extension to generate entire emails and messages using ChatGPT AI. 
+
+[Cogniflow](https://www.cogniflow.ai/) - Boost your productivity. Integrate AI into your workflow.
+
+[DeepL](https://deepl.com/) - Millions translate with DeepL every day.
+
+[Ipso AI](https://ipso.ai/) - AI assistant that manages calendars & drafts emails based on your unique preferences, powered by GPT-3.
+
+[Maester App](https://maester.app/) - Unlock the full potential of GPT-3 with our intuitive Template Engine.Quickly generate custom output tailored to your repeated needs and share them with the world.
+
+[Mem AI](https://get.mem.ai/) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
+
+[Merlin](https://merlin.foyer.work/) - Open AI’s GPT powered extension to use anywhere!
+
+[Nanonets](https://nanonets.com/) - Automate Manual Data Entry Using AI.Capture data from documents instantly. Reduce turn around times and the manual effort required.
+
+[Notion AI](https://www.notion.so/product/ai) - Leverage the limitless power of AI in any Notion page. Write faster, think bigger, and augment your creativity. Like magic!
+
+[Personal AI](https://www.personal.ai/) - Built-in Personal AI messaging for an everlasting connection with the people and ideas in your world.
+
+[Puzzle](https://www.puzzlelabs.ai/) - The AI-powered glossary for your end customers/community.
+
+[Rationale](https://rationale.jina.ai/) - A revolutionary Al to assist business owners, managers, and individuals in making tough decisions.
+
+[Reclaim AI](https://reclaim.ai/) - Reclaim creates the perfect schedule for your team's priorities, and saves up to 40% of the workweek with intelligent, flexible and adaptive time orchestration.
+
+[Scale](https://scale.com/) - Better data leads to more performant models. Performant models lead to faster deployment. Deliver value from your AI investments faster with better data.
+
+[Supernormal](https://supernormal.com/) - Supernormal helps you create amazing meeting notes without lifting a finger.
+
+[TinyWow](https://tinywow.com/) - PDF, video, image and other online tools to make your life easier.
+
+[typly](https://typly.app/) - Typly is the ultimate cutting edge AI keyboard that helps you to answer all your messages with a single click!
+
+[Xembly](https://www.xembly.com/) - An automated chief of staff to handle the tasks that slow you down.
+
+### •Prompts:
+
+[Dallelist](https://www.dallelist.com/) - Select category then copy it!
+
+[Eye for Al](https://eyeforai.xyz/) - Visual "prompt builder" to craft complex prompts, easily.
+
+[Img2prompt](https://replicate.com/methexis-inc/img2prompt) - Get an approximate text prompt, with style, matching an image.
+
+[Jrnylist](https://www.jrnylist.com/) - Same as dallelist but advanced version.
+
+[Krea](https://www.krea.ai/) - Generative visuals for everyone.
+
+[Openart](https://openart.ai/) - Search 10M+ of prompts, and generate AI Art via Stable Diffusion, DALL·E 2.
+
+[PromptBase](https://promptbase.com/) - DALL·E, GPT-3, Midjourney, Stable Diffusion Prompt Marketplace.
+
+[PromptHero](https://prompthero.com/) - Search millions of art images by AI models like DALL-E, Stable Diffusion, Midjourney...
+
+[Promptist](https://huggingface.co/spaces/microsoft/Promptist) - Promptist is a prompt interface for Stable Diffusion v1-4 that optimizes user input into model-preferred prompts.
+
+[PromptLayer](https://promptlayer.com/) - Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions.
+
+[PromtBox](https://www.promptbox.ai/) - - Beautifully store your prompts!
+
+[Public Prompts](https://publicprompts.art/) - Collection of ‎ High Quality/Free/Public Prompts!
+
+[Pyttipanna](https://pyttipanna.xyz/) - Pyttipanna is an interface for Pytti 5. It allows you to structure, narrate and experiment with prompts for video creation.
+
+### •Real Estate:
+
+[AI Room Planner](https://airoomplanner.com/) - Get hundreds of interior design ideas for your room - free with no limit.
+
+[CoolAlid](https://coolaiid.com/) - Interior design ideas using AI.
+
+[GetFloorPlan](https://getfloorplan.com/) - Вoost your sales in real estate!
+
+[InteriorAI](https://interiorai.com/) - Interior Design by AI!
+
+[Maket](https://www.maket.ai/) - Generative Design for Architectural Planning.
+
 ### •Research:
 
 [Consensus](https://aiinfinity.blogspot.com/p/researchconsensus.html) - Evidence-Based Answers, Faster!
@@ -735,6 +817,18 @@ SlashDreamer introduces a new command: /dream
 [Tweet Hunter](https://aiinfinity.blogspot.com/p/smatweet-hunter.html) - BUILD & MONETIZE YOUR TWITTER AUDIENCE FAST.
 
 [TweetEmote](https://aiinfinity.blogspot.com/p/smatweetemote.html) - The AI-Powered Tweet Assistant.
+
+### •Spreadsheets:
+
+[Excel Formula Bot](https://excelformulabot.com/) - Transform your text instructions into Excel formulas in seconds with the help of AI for free.
+
+[Goodlookup](https://www.goodlookup.com/) - Goodlookup is a smart function for spreadsheet users.
+
+[Sheet AI](https://www.sheetai.app/) - ChatGPT inside Sheets.
+
+[Sheet+](https://sheetplus.ai/) - Write Google Sheets & Excel formulas 10x faster with AI.
+
+[SheetGod](https://www.boloforms.com/sheetgod/) - The AI Tool That Turns English Into Excel Formulas In Seconds.
 
 
 ### •Summarizer:
@@ -802,4 +896,82 @@ into podcasts.Listen to any article, PDF, email,etc in your podcast app.
 
 [Wellsaidlabs](https://aiinfinity.blogspot.com/p/text2speechwellsaidlabs.html) - Beautiful voices at your fingertips with text-to-speech that captivates.
 
+### •Transcriber:
 
+[AssembleAI](https://www.assemblyai.com/) - Access powerful AI models to transcribe and understand speech.
+
+[Contentfries](https://www.contentfries.com/) - Repurpose your long-form videos (we call them potatoes) into crispy bite-sized content fries. Create contextual content for weeks or months ahead faster than ever before.
+
+[Fireflies AI](https://fireflies.ai/) - Fireflies.ai helps your team record, transcribe, search, and analyze voice conversations.
+
+[Free Subtitle AI](https://freesubtitles.ai/) - Video to Subtitle Converter.
+
+[Noty AI](https://noty.ai/) - Bye-Bye notepads! We've got Noty.ai, an AI-powered meeting assistant - transforming meetings into Transcriptions.
+
+[Peech](https://www.peech-ai.com/) - Automatically transcribe, edit, repurpose, and brand your video content.
+
+[Steno](https://steno.ai/) - Your favorite podcasts, fully transcribed.
+
+[Supertranslate](https://www.supertranslate.ai/) - The fastest way to add English subtitles to any language video Powered by OpenAI's Whisper.
+
+[Type Studio](https://www.typestudio.co/tool/video-to-text/) - Type Studio is a text-based video editor that takes your video and transcribes it into text automatically.
+
+[Whisper Memos](https://whispermemos.com/) - Whisper Memos uses the latest AI technology to turn your voice memos into accurate transcripts.
+
+[YouTube Transcript](https://youtubetranscript.com/) - Enter Youtube Video URL and get a transcript text.
+
+### •Video Editing:
+
+[Clickdrop](https://clipdrop.co/) - Create stunning visuals in seconds
+
+[Dubverse](https://dubverse.ai/) - Easiest (and magical) way to Dub videos.
+
+[Elai](https://elai.io/) - Build customized AI videos with a presenter in minutes without using a camera, studio and a greenscreen.
+
+[Gling](https://www.gling.ai/) - Our AI will cut silences and bad takes for you so you can focus on your YouTube videos.
+
+[Papercup](https://www.papercup.com/) - Discover the faster, more affordable way to go global with your existing video content using AI dubbing.
+
+[Perfectly Clear Video](https://eyeq.photos/automatic-ai-video-enhancement/) - Power Your Video with Perfectly Clear’s AI Automatic Video Enhancement.
+
+[Pictory](https://pictory.ai/) - Automatically create short, highly-sharable branded videos from your long form content.
+
+[Runwayml](https://runwayml.com/) - With 30+ AI Magic Tools, real-time video editing, collaboration, and more, Runway is your next-generation content creation suite.
+
+[Topaz Video AI](https://www.topazlabs.com/topaz-video-ai) - Unlimited access to the world’s leading production-grade neural networks for video upscaling, deinterlacing, motion interpolation, and shake stabilization.
+
+[Unscreen](https://www.unscreen.com/) - Remove Video Background.
+
+[Veed](https://www.veed.io/) - Your audience prefers video. Wow them with VEED, the fastest and easiest way to make professional-quality videos.
+
+[Xpression Camera](https://xpressioncamera.com/) - The only real-time generative AI app for video chatting and live streaming.
+
+### •Video Generator:
+
+[Colossyan](https://www.colossyan.com/) - Simply type in your text and have a video ready in 70+ languages within minutes.
+
+[Studio (D-ID)](https://studio.d-id.com/) - You can now create videos of Digital Humans at an unbelievable scale.Combine your ideas with our tech to create astonishing visuals that are high quality and customized to your needs.
+
+[Fliki](https://fliki.ai/) - Turn text into videos with AI voices.
+
+[Hourone](https://hourone.ai/) - Boost your content within minutes by converting text into highly engaging videos with virtual human presenters.
+
+[InVideo](https://invideo.io/) - Convert your script, article, or blog into video in minutes using InVideo’s AI based Text-to-Video editor.
+
+[Movio](https://www.movio.la/) - Turn text into spokesperson video by typing and clicking.
+
+[OASIS](https://theoasis.com/) - Create Video With Your Voice, Powered by Generative AI.
+
+[Opus](https://opus.ai/) - TURNS TEXT TO VIDEO.
+
+[Phenaki](https://phenaki.research.google/) - Realistic video generation from open-domain textual descriptions.
+
+[Shuffll](https://shuffll.com/) - With the power of AI, we create videos that people ACTUALLY want to watch.
+
+[Steve AI](https://www.steve.ai/) - With our patented AI technology, you can make professional videos in MINUTES. See the MAGIC happen as the AI picks the right creative media assets for your Video.
+
+[Synthesia](https://www.synthesia.io/) - Create videos from plain text in minutes.
+
+[Waymark](https://waymark.com/) - Waymark's AI scans the web for local business data and automatically produces a video based on your brand.
+
+[Wowto](https://wowto.ai/) - Create how-to videos and host an engaging video knowledge base in minutes.
