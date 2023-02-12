@@ -680,85 +680,85 @@ SlashDreamer introduces a new command: /dream
 
 ### •Productivity:
 
-[Albus](https://www.springworks.in/albus/) - Albus is not just an Assistant He is a Friend/mentor.
+[Albus](https://aiinfinity.blogspot.com/p/productivityalbus.html) - Albus is not just an Assistant He is a Friend/mentor.
 
-[ChatGPT Chrome Extension](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban) - Display ChatGPT response alongside Google, Bing, DuckDuckGo Search results.
+[ChatGPT Chrome Extension](https://aiinfinity.blogspot.com/p/productivitychatgpt-chrome-extension.html)- Display ChatGPT response alongside Google, Bing, DuckDuckGo Search results.
 
-[ChatGPT Writer](https://chatgptwriter.ai/) - Free Chrome extension to generate entire emails and messages using ChatGPT AI. 
+[ChatGPT Writer](https://aiinfinity.blogspot.com/p/productivitychatgpt-writer.html) - Free Chrome extension to generate entire emails and messages using ChatGPT AI. 
 
-[Cogniflow](https://www.cogniflow.ai/) - Boost your productivity. Integrate AI into your workflow.
+[Cogniflow](https://aiinfinity.blogspot.com/p/productivitycogniflow.html) - Boost your productivity. Integrate AI into your workflow.
 
-[DeepL](https://deepl.com/) - Millions translate with DeepL every day.
+[DeepL](https://aiinfinity.blogspot.com/p/productivitydeepl.html) - Millions translate with DeepL every day.
 
-[Ipso AI](https://ipso.ai/) - AI assistant that manages calendars & drafts emails based on your unique preferences, powered by GPT-3.
+[Ipso AI](https://aiinfinity.blogspot.com/p/productivityipso-ai.html) - AI assistant that manages calendars & drafts emails based on your unique preferences, powered by GPT-3.
 
-[Maester App](https://maester.app/) - Unlock the full potential of GPT-3 with our intuitive Template Engine.Quickly generate custom output tailored to your repeated needs and share them with the world.
+[Maester App](https://aiinfinity.blogspot.com/p/productivitymaester.html) - Unlock the full potential of GPT-3 with our intuitive Template Engine.Quickly generate custom output tailored to your repeated needs and share them with the world.
 
-[Mem AI](https://get.mem.ai/) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
+[Mem AI](https://aiinfinity.blogspot.com/p/productivitymem-ai.html) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
 
-[Merlin](https://merlin.foyer.work/) - Open AI’s GPT powered extension to use anywhere!
+[Merlin](https://aiinfinity.blogspot.com/p/productivitymerlin.html) - Open AI’s GPT powered extension to use anywhere!
 
-[Nanonets](https://nanonets.com/) - Automate Manual Data Entry Using AI.Capture data from documents instantly. Reduce turn around times and the manual effort required.
+[Nanonets](https://aiinfinity.blogspot.com/p/productivitynanonets.html) - Automate Manual Data Entry Using AI.Capture data from documents instantly. Reduce turn around times and the manual effort required.
 
-[Notion AI](https://www.notion.so/product/ai) - Leverage the limitless power of AI in any Notion page. Write faster, think bigger, and augment your creativity. Like magic!
+[Notion AI](https://aiinfinity.blogspot.com/p/productivitynotion-ai.html) - Leverage the limitless power of AI in any Notion page. Write faster, think bigger, and augment your creativity. Like magic!
 
-[Personal AI](https://www.personal.ai/) - Built-in Personal AI messaging for an everlasting connection with the people and ideas in your world.
+[Personal AI](https://aiinfinity.blogspot.com/p/productivitypersonal-ai.html) - Built-in Personal AI messaging for an everlasting connection with the people and ideas in your world.
 
-[Puzzle](https://www.puzzlelabs.ai/) - The AI-powered glossary for your end customers/community.
+[Puzzle](https://aiinfinity.blogspot.com/p/productivitypuzzle.html) - The AI-powered glossary for your end customers/community.
 
-[Rationale](https://rationale.jina.ai/) - A revolutionary Al to assist business owners, managers, and individuals in making tough decisions.
+[Rationale](https://aiinfinity.blogspot.com/p/productivityrationale.html) - A revolutionary Al to assist business owners, managers, and individuals in making tough decisions.
 
-[Reclaim AI](https://reclaim.ai/) - Reclaim creates the perfect schedule for your team's priorities, and saves up to 40% of the workweek with intelligent, flexible and adaptive time orchestration.
+[Reclaim AI](https://aiinfinity.blogspot.com/p/productivityreclaim-ai.html) - Reclaim creates the perfect schedule for your team's priorities, and saves up to 40% of the workweek with intelligent, flexible and adaptive time orchestration.
 
-[Scale](https://scale.com/) - Better data leads to more performant models. Performant models lead to faster deployment. Deliver value from your AI investments faster with better data.
+[Scale](https://aiinfinity.blogspot.com/p/productivityscale.html) - Better data leads to more performant models. Performant models lead to faster deployment. Deliver value from your AI investments faster with better data.
 
-[Supernormal](https://supernormal.com/) - Supernormal helps you create amazing meeting notes without lifting a finger.
+[Supernormal](https://aiinfinity.blogspot.com/p/productivitysupernormal.html) - Supernormal helps you create amazing meeting notes without lifting a finger.
 
-[TinyWow](https://tinywow.com/) - PDF, video, image and other online tools to make your life easier.
+[TinyWow](https://aiinfinity.blogspot.com/p/productivitytinywow.html) - PDF, video, image and other online tools to make your life easier.
 
-[typly](https://typly.app/) - Typly is the ultimate cutting edge AI keyboard that helps you to answer all your messages with a single click!
+[typly](https://aiinfinity.blogspot.com/p/productivitytyply.html) - Typly is the ultimate cutting edge AI keyboard that helps you to answer all your messages with a single click!
 
-[Xembly](https://www.xembly.com/) - An automated chief of staff to handle the tasks that slow you down.
+[Xembly](https://aiinfinity.blogspot.com/p/productivityxembly.html) - An automated chief of staff to handle the tasks that slow you down.
 
 ### •Prompts:
 
-[Dallelist](https://www.dallelist.com/) - Select category then copy it!
+[Dallelist](https://aiinfinity.blogspot.com/p/promptsdallelist.html) - Select category then copy it!
 
-[Eye for Al](https://eyeforai.xyz/) - Visual "prompt builder" to craft complex prompts, easily.
+[Eye for Al](https://aiinfinity.blogspot.com/p/promptseye-for-al.html) - Visual "prompt builder" to craft complex prompts, easily.
 
-[Img2prompt](https://replicate.com/methexis-inc/img2prompt) - Get an approximate text prompt, with style, matching an image.
+[Img2prompt](https://aiinfinity.blogspot.com/p/promptsimg2prompt.html) - Get an approximate text prompt, with style, matching an image.
 
-[Jrnylist](https://www.jrnylist.com/) - Same as dallelist but advanced version.
+[Jrnylist](https://aiinfinity.blogspot.com/p/promptsjrnylist.html) - Same as dallelist but advanced version.
 
-[Krea](https://www.krea.ai/) - Generative visuals for everyone.
+[Krea](https://aiinfinity.blogspot.com/p/promptskrea.html) - Generative visuals for everyone.
 
-[Openart](https://openart.ai/) - Search 10M+ of prompts, and generate AI Art via Stable Diffusion, DALL·E 2.
+[Openart](https://aiinfinity.blogspot.com/p/promptsopenart.html) - Search 10M+ of prompts, and generate AI Art via Stable Diffusion, DALL·E 2.
 
-[PromptBase](https://promptbase.com/) - DALL·E, GPT-3, Midjourney, Stable Diffusion Prompt Marketplace.
+[PromptBase](https://aiinfinity.blogspot.com/p/promptspromptbase.html) - DALL·E, GPT-3, Midjourney, Stable Diffusion Prompt Marketplace.
 
-[PromptHero](https://prompthero.com/) - Search millions of art images by AI models like DALL-E, Stable Diffusion, Midjourney...
+[PromptHero](https://aiinfinity.blogspot.com/p/promptsprompthero.html) - Search millions of art images by AI models like DALL-E, Stable Diffusion, Midjourney...
 
-[Promptist](https://huggingface.co/spaces/microsoft/Promptist) - Promptist is a prompt interface for Stable Diffusion v1-4 that optimizes user input into model-preferred prompts.
+[Promptist](https://aiinfinity.blogspot.com/p/promptspromptist.html) - Promptist is a prompt interface for Stable Diffusion v1-4 that optimizes user input into model-preferred prompts.
 
-[PromptLayer](https://promptlayer.com/) - Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions.
+[PromptLayer](https://aiinfinity.blogspot.com/p/promptspromptlayer.html) - Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions.
 
-[PromtBox](https://www.promptbox.ai/) - - Beautifully store your prompts!
+[PromtBox](https://aiinfinity.blogspot.com/p/promptspromtbox.html) - - Beautifully store your prompts!
 
-[Public Prompts](https://publicprompts.art/) - Collection of ‎ High Quality/Free/Public Prompts!
+[Public Prompts](https://aiinfinity.blogspot.com/p/promptspublic-prompts.html) - Collection of ‎ High Quality/Free/Public Prompts!
 
-[Pyttipanna](https://pyttipanna.xyz/) - Pyttipanna is an interface for Pytti 5. It allows you to structure, narrate and experiment with prompts for video creation.
+[Pyttipanna](https://aiinfinity.blogspot.com/p/promptspyttipanna.html) - Pyttipanna is an interface for Pytti 5. It allows you to structure, narrate and experiment with prompts for video creation.
 
 ### •Real Estate:
 
-[AI Room Planner](https://airoomplanner.com/) - Get hundreds of interior design ideas for your room - free with no limit.
+[AI Room Planner](https://aiinfinity.blogspot.com/p/real-estateai-room-planner.html) - Get hundreds of interior design ideas for your room - free with no limit.
 
-[CoolAlid](https://coolaiid.com/) - Interior design ideas using AI.
+[CoolAlid](https://aiinfinity.blogspot.com/p/real-estatecoolalid.html) - Interior design ideas using AI.
 
-[GetFloorPlan](https://getfloorplan.com/) - Вoost your sales in real estate!
+[GetFloorPlan](https://aiinfinity.blogspot.com/p/real-estategetfloorplan.html) - Вoost your sales in real estate!
 
-[InteriorAI](https://interiorai.com/) - Interior Design by AI!
+[InteriorAI](https://aiinfinity.blogspot.com/p/real-estateinteriorai.html) - Interior Design by AI!
 
-[Maket](https://www.maket.ai/) - Generative Design for Architectural Planning.
+[Maket](https://aiinfinity.blogspot.com/p/real-estatemaket.html) - Generative Design for Architectural Planning.
 
 ### •Research:
 
