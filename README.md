@@ -3,6 +3,8 @@
 
 
 > We are excited to share our AI tools list with the community and we would greatly appreciate your support!
+> Read FAQs [Here]()
+> Submit New Tool [Here]() or create submit tool issue from github issues section.
 
 ### Categories :
 
