@@ -2,11 +2,11 @@
 
 
 
-> We are excited to share our AI tools list with the community and we would greatly appreciate your support!
+> We are excited to share our AI tools list with the community and we would greatly appreciate your support! Read FAQs [Here]()
 
-> Read FAQs [Here]()
+ 
 
-> Submit New Tool [Here]() or go to GitHub issues and submit there.
+> Submit New Tool [Here]() or go to GitHub issues and submit there. Share your thoughts and help us improve! Submit your feedback and suggestions [here]()
 
 ### Categories :
 
