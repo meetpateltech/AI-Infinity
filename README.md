@@ -6,7 +6,7 @@
 
  
 
-> Submit New Tool [Here]() or go to GitHub issues and submit there. Share your thoughts and help us improve! Submit your feedback and suggestions [here]()
+> Submit New Tool [Here](https://forms.gle/Ze6pdWzmweCfKWnLA) or go to GitHub issues and submit there. Share your thoughts and help us improve! Submit your feedback and suggestions [here](https://forms.gle/5jU4u2kuWh2AocjU6)
 
 ### Categories :
 
