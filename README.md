@@ -12,6 +12,10 @@
 
 ### •AI Detection:
 
+[BusterAI](https://aiinfinity.blogspot.com/p/ai-detection-busterai.html) - Is your text written by a human or AI? Uncover the truth with BusterAI.
+
+[Detect GPT](https://aiinfinity.blogspot.com/p/ai-detection-detect-gpt-chrome-extension.html) - Find out if the pages you browse contain AI-generated content.
+
 [GLTR AI Detection](https://aiinfinity.blogspot.com/p/ai-detectiongltr.html) - Catching a Unicorn with GLTR: A tool to detect automatically generated text.
 
 [GPTZero](https://aiinfinity.blogspot.com/p/ai-detectiongptzero.html),[Other](https://etedward-gptzero-main-zqgfwb.streamlit.app/) - GPTZero turns the very technologies used to build ChatGPT around — to detect AI
