@@ -2,7 +2,7 @@
 
 
 
-> We are excited to share our AI tools list with the community and we would greatly appreciate your support! Read FAQs [Here]()
+> We are excited to share our AI tools list with the community and we would greatly appreciate your support! Read FAQs [Here](https://fentolia.github.io/FAQ/)
 
  
 
