@@ -34,7 +34,7 @@
 
 [Adobe Podcast](https://aiinfinity.blogspot.com/p/audioadobe-podcast.html) - AI-powered audio recording and editing, all on the web based!
 
-[AI Mastering](https://aiinfinity.blogspot.com/p/audioai-mastering.html) - AI Mastering is a tool that can easily iAI Mastering is a tool that can easily improve your music.It is possible to balance the loudness and the dynamic range by our powerful limiter.
+[AI Mastering](https://aiinfinity.blogspot.com/p/audioai-mastering.html) - AI Mastering is a tool that can easily improve your music.It is possible to balance the loudness and the dynamic range by our powerful limiter.
 
 [Audio Alter](https://aiinfinity.blogspot.com/p/audioaudio-alter.html) - A collection of easy-to-use web tools for all your audio files.
 
