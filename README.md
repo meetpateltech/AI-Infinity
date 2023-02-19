@@ -778,6 +778,22 @@ SlashDreamer introduces a new command: /dream
 
 [Scispace](https://aiinfinity.blogspot.com/p/researchscispace.html) - Your AI Copilot to decode any research paper.
 
+### •Search Engine:
+
+[Andi](https://aiinfinity.blogspot.com/p/search-engineandi.html) - Your smart search assistant.
+
+[ChatGPT](https://aiinfinity.blogspot.com/p/search-enginechatgpt.html) - ChatGPT is an AI-based conversational agent designed to provide answers to a wide range of questions on various topics.
+
+[Chatsonic](https://aiinfinity.blogspot.com/p/search-enginechatsonic.html) - ChatGPT Alternative Built With Superpowers!
+
+[Crowdview](https://aiinfinity.blogspot.com/p/search-enginecrowdview.html) - Forum Search Engine!
+
+[Neeva](https://aiinfinity.blogspot.com/p/search-engineneeva.html) - Search Powered by AI! Get Answers.Not Ads.
+
+[Perplexity AI](https://aiinfinity.blogspot.com/p/search-engineperplexity-ai.html) - Perplexity AI unlocks the power of knowledge with information discovery and sharing. 
+
+[You](https://aiinfinity.blogspot.com/p/search-engineyou.html) - The AI Search Engine You Control
+
 ### •SEO:
 
 [Compar](https://aiinfinity.blogspot.com/p/seocompar.html) - AI Powered Content Analyses.
