@@ -291,6 +291,8 @@ Switch marketing to autopilot and grow.
 
 [Regie](https://aiinfinity.blogspot.com/p/customer-supportregie.html) - Regie.ai is your all-in-one content creation and management system.
 
+[Simple Phones](https://aiinfinity.blogspot.com/p/customer-supportsimple-phones.html) - Never miss a call from a customer.Forward your missed calls,or get a new number, and we'll answer it using AI.
+
 [Tiledesk](https://aiinfinity.blogspot.com/p/customer-supporttiledesk.html) - The all-in-one customer engagement platform! From lead-gen to post-sales, from WhatsApp to your website.With omni-channel live chat and chatbots
 
 [Typewise](https://aiinfinity.blogspot.com/p/customer-supporttypewise.html) - AI Writing Solution for Customer Service and Sales teams.
