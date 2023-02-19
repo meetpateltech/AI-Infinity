@@ -9,6 +9,7 @@
 > Submit New Tool [Here](https://forms.gle/Ze6pdWzmweCfKWnLA) or go to GitHub issues and submit there. Share your thoughts and help us improve! Submit your feedback and suggestions [here](https://forms.gle/5jU4u2kuWh2AocjU6)
 
 ### Categories :
+[AI Detection 🕵️](#ai-detection) | [Audio 📣](#audio) | [Avatars 👤](#avatars) | [Chat 💬](#chat) | [Coding 🖥️](#coding-tools) | [Copywriting ⌨️](#copywriting) | [Customer Support 💁](#customer-support) | [Design Assistant 🎨](#design-assistant) | [Developer 👨‍💻](#developer-tools) | [Education 👨‍🏫️](#education) | [Email 📧](#email-assistant) | [Fashion 👜](#fashion) | [Gift Ideas 🎁](#gift-ideas) | [Healthcare 🏥](#healthcare) | [Image Editing 📷](#image-editing) | [Image Generator 🖼️](#image-generator) | [Legal Assistant ⚖️](#legal-assistant) | [Logo Generator 👨‍🎨️](#logo-generator) | [Music 🎵](#music) | [Paraphraser 📝](#paraphraser) | [Personalised Video 📼](#personalised-video) | [Productivity 💻](#productivity) | [Prompts 💭](#prompts) | [Real Estate 🏠](#real-estate) | [Research 🔬](#research) | [SEO 🌐](#seo) | [Social Media Assistant 📱](#social-media-assistant) | [Spreadsheets 🗂️](#spreadsheets) | [Summarizer 📃](#summarizer) | [Text To Speech 📜🎙️](#text-to-speech) | [Transcriber 🎧](#transcriber) | [Video Editing 📽️](#video-editing) | [Video Generator 📹](#video-generator)
 
 ### •AI Detection:
 
