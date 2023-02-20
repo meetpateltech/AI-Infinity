@@ -9,7 +9,7 @@
 > Submit New Tool [Here](https://forms.gle/Ze6pdWzmweCfKWnLA) or go to GitHub issues and submit there. Share your thoughts and help us improve! Submit your feedback and suggestions [here](https://forms.gle/5jU4u2kuWh2AocjU6)
 
 ### Categories :
-[AI Detection 🕵️](#ai-detection) | [Audio 📣](#audio) | [Avatars 👤](#avatars) | [Chat 💬](#chat) | [Coding 🖥️](#coding-tools) | [Copywriting ⌨️](#copywriting) | [Customer Support 💁](#customer-support) | [Design Assistant 🎨](#design-assistant) | [Developer 👨‍💻](#developer-tools) | [Education 👨‍🏫️](#education) | [Email 📧](#email-assistant) | [Fashion 👜](#fashion) | [Gift Ideas 🎁](#gift-ideas) | [Healthcare 🏥](#healthcare) | [Image Editing 📷](#image-editing) | [Image Generator 🖼️](#image-generator) | [Legal Assistant ⚖️](#legal-assistant) | [Logo Generator 👨‍🎨️](#logo-generator) | [Music 🎵](#music) | [Paraphraser 📝](#paraphraser) | [Personalised Video 📼](#personalised-video) | [Productivity 💻](#productivity) | [Prompts 💭](#prompts) | [Real Estate 🏠](#real-estate) | [Research 🔬](#research) | [SEO 🌐](#seo) | [Social Media Assistant 📱](#social-media-assistant) | [Spreadsheets 🗂️](#spreadsheets) | [Summarizer 📃](#summarizer) | [Text To Speech 📜🎙️](#text-to-speech) | [Transcriber 🎧](#transcriber) | [Video Editing 📽️](#video-editing) | [Video Generator 📹](#video-generator)
+[AI Detection 🕵️](#ai-detection) | [Audio 📣](#audio) | [Avatars 👤](#avatars) | [Chat 💬](#chat) | [Coding 🖥️](#coding-tools) | [Copywriting ⌨️](#copywriting) | [Customer Support 💁](#customer-support) | [Design Assistant 🎨](#design-assistant) | [Developer 👨‍💻](#developer-tools) | [Education 👨‍🏫️](#education) | [Email 📧](#email-assistant) | [Fashion 👜](#fashion) | [Gift Ideas 🎁](#gift-ideas) | [Healthcare 🏥](#healthcare) | [Image Editing 📷](#image-editing) | [Image Generator 🖼️](#image-generator) | [Legal Assistant ⚖️](#legal-assistant) | [Logo Generator 👨‍🎨️](#logo-generator) | [Music 🎵](#music) | [Paraphraser 📝](#paraphraser) | [Personalised Video 📼](#personalised-video) | [Productivity 💻](#productivity) | [Prompts 💭](#prompts) | [Real Estate 🏠](#real-estate) | [Research 🔬](#research) | [Search Engine 🔍](#search-engine) | [SEO 🌐](#seo) | [Social Media Assistant 📱](#social-media-assistant) | [Spreadsheets 🗂️](#spreadsheets) | [Summarizer 📃](#summarizer) | [Text To Speech 📜🎙️](#text-to-speech) | [Transcriber 🎧](#transcriber) | [Video Editing 📽️](#video-editing) | [Video Generator 📹](#video-generator)
 
 ### •AI Detection:
 
@@ -925,27 +925,27 @@ into podcasts.Listen to any article, PDF, email,etc in your podcast app.
 
 ### •Transcriber:
 
-[AssembleAI](https://www.assemblyai.com/) - Access powerful AI models to transcribe and understand speech.
+[AssembleAI](https://aiinfinity.blogspot.com/p/transcriberassembleai.html) - Access powerful AI models to transcribe and understand speech.
 
-[Contentfries](https://www.contentfries.com/) - Repurpose your long-form videos (we call them potatoes) into crispy bite-sized content fries. Create contextual content for weeks or months ahead faster than ever before.
+[Contentfries](https://aiinfinity.blogspot.com/p/transcribercontentfries.html) - Repurpose your long-form videos (we call them potatoes) into crispy bite-sized content fries. Create contextual content for weeks or months ahead faster than ever before.
 
-[Fireflies AI](https://fireflies.ai/) - Fireflies.ai helps your team record, transcribe, search, and analyze voice conversations.
+[Fireflies AI](https://aiinfinity.blogspot.com/p/transcriberfireflies-ai.html) - Fireflies.ai helps your team record, transcribe, search, and analyze voice conversations.
 
-[Free Subtitle AI](https://freesubtitles.ai/) - Video to Subtitle Converter.
+[Free Subtitle AI](https://aiinfinity.blogspot.com/p/transcriberfree-subtitle-ai.html) - Video to Subtitle Converter.
 
-[Noty AI](https://noty.ai/) - Bye-Bye notepads! We've got Noty.ai, an AI-powered meeting assistant - transforming meetings into Transcriptions.
+[Noty AI](https://aiinfinity.blogspot.com/p/transcribernoty-ai.html) - Bye-Bye notepads! We've got Noty.ai, an AI-powered meeting assistant - transforming meetings into Transcriptions.
 
-[Peech](https://www.peech-ai.com/) - Automatically transcribe, edit, repurpose, and brand your video content.
+[Peech](https://aiinfinity.blogspot.com/p/transcriberpeech.html) - Automatically transcribe, edit, repurpose, and brand your video content.
 
-[Steno](https://steno.ai/) - Your favorite podcasts, fully transcribed.
+[Steno](https://aiinfinity.blogspot.com/p/transcribersteno.html) - Your favorite podcasts, fully transcribed.
 
-[Supertranslate](https://www.supertranslate.ai/) - The fastest way to add English subtitles to any language video Powered by OpenAI's Whisper.
+[Supertranslate](https://aiinfinity.blogspot.com/p/transcribersupertranslate.html) - The fastest way to add English subtitles to any language video Powered by OpenAI's Whisper.
 
-[Type Studio](https://www.typestudio.co/tool/video-to-text/) - Type Studio is a text-based video editor that takes your video and transcribes it into text automatically.
+[Type Studio](https://aiinfinity.blogspot.com/p/transcribertype-studio.html) - Type Studio is a text-based video editor that takes your video and transcribes it into text automatically.
 
-[Whisper Memos](https://whispermemos.com/) - Whisper Memos uses the latest AI technology to turn your voice memos into accurate transcripts.
+[Whisper Memos](https://aiinfinity.blogspot.com/p/transcriberwhisper-memos.html) - Whisper Memos uses the latest AI technology to turn your voice memos into accurate transcripts.
 
-[YouTube Transcript](https://youtubetranscript.com/) - Enter Youtube Video URL and get a transcript text.
+[YouTube Transcript](https://aiinfinity.blogspot.com/p/transcriberyoutube-transcript.html) - Enter Youtube Video URL and get a transcript text.
 
 ### •Video Editing:
 
