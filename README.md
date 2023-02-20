@@ -1,5 +1,6 @@
 ## AI-Infinity - A set of cutting-edge AI tools for experimenting with new ideas💡technologies🌐, and algorithms👨‍💻.
-
+<!-- MarkDown Badges -->
+![GitHub Repo stars](https://img.shields.io/github/stars/meetpateltech/AI-Infinity?style=social)  ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Furl%3Dhttps%253A%252F%252Fgithub.com%252Fmeetpateltech%252FAI-Infinity%26text%3DIf%2520you%2527re%2520looking%2520for%2520the%2520latest%2520and%2520greatest%2520AI%2520tools%252C%2520you%2520won%2527t%2520want%2520to%2520miss%2520the%2520AI%2520Infinity%2520GitHub%2520repository.%2520Check%2520it%2520out%2520now%2521)
 
 
 > We are excited to share our AI tools list with the community and we would greatly appreciate your support! Read FAQs [Here](https://fentolia.github.io/FAQ/)
