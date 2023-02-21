@@ -120,6 +120,8 @@ Choose Your Character, Create Magical Avatars.
 
 [Context](https://aiinfinity.blogspot.com/p/chatcontext.html) - Context is your AI-powered assistant for learning from your favorite websites, e-books, podcasts, videos, and more.
 
+[Didi AI](https://aiinfinity.blogspot.com/p/chatdidi-ai.html) - Didi AI is a digital diviner that can be consulted to answer questions based on artificial intelligence.
+
 [Hello History](https://aiinfinity.blogspot.com/p/chathello-history.html) - Chat with AI generated historical figures.
 
 ### •Coding Tools:
@@ -133,6 +135,8 @@ Choose Your Character, Create Magical Avatars.
 [ArtroomAI](https://aiinfinity.blogspot.com/p/codingartroomai.html) - Make beautiful AI generated art without touching a single line of code.
 
 [AskCodi](https://aiinfinity.blogspot.com/p/codingaskcodi.html) - AskCodi is made keeping in mind the needs of developers to avoid redundant tasks, therefore resulting in less time spent on development and more time to execute.
+
+[Bito](https://aiinfinity.blogspot.com/p/codingbito.html) - Generate Amazing Code/code comments,10x faster with ChatGPT.
 
 [BlackBox AI](https://aiinfinity.blogspot.com/p/codingblackbox-ai.html) - BLACKBOX is your AI-Powered Coding Assistant so you can {Code} 10X Faster and Better.
 
@@ -522,6 +526,8 @@ create personalized cold emails that get more replies at scale.
 [Befunky](https://aiinfinity.blogspot.com/p/image-editingbefunky.html) - BeFunky has an amazing collection of tools and features for photo editing, collage making, and graphic design. 
 
 [Bg Eraser](https://aiinfinity.blogspot.com/p/image-editingbg-eraser.html) - Remove objects and Clean up pics.
+
+[Bgsub](https://aiinfinity.blogspot.com/p/image-editingbgsub.html) - Automatically replace the background by AI!
  
 [Booth AI](https://aiinfinity.blogspot.com/p/image-editingbooth-ai.html) - Create pro quality product photography with AI.
 
@@ -851,6 +857,8 @@ SlashDreamer introduces a new command: /dream
 [Excel Formula Bot](https://excelformulabot.com/) - Transform your text instructions into Excel formulas in seconds with the help of AI for free.
 
 [Goodlookup](https://www.goodlookup.com/) - Goodlookup is a smart function for spreadsheet users.
+
+[Numerous](https://aiinfinity.blogspot.com/p/spreadsheetsnumerous-ai.html) - Numerous can reformat and categorize your cells, generate formulas,and let you access ChatGPT directly inside your sheets.
 
 [Sheet AI](https://www.sheetai.app/) - ChatGPT inside Sheets.
 
