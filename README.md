@@ -11,7 +11,7 @@
 > Submit New Tool [Here](https://forms.gle/Ze6pdWzmweCfKWnLA) or go to GitHub issues and submit there. Share your thoughts and help us improve! Submit your feedback and suggestions [here](https://forms.gle/5jU4u2kuWh2AocjU6)
 
 ### Categories :
-[AI Detection 🕵️](#ai-detection) | [Audio 📣](#audio) | [Avatars 👤](#avatars) | [Chat 💬](#chat) | [Coding 🖥️](#coding-tools) | [Copywriting ⌨️](#copywriting) | [Customer Support 💁](#customer-support) | [Design Assistant 🎨](#design-assistant) | [Developer 👨‍💻](#developer-tools) | [Education 👨‍🏫️](#education) | [Email 📧](#email-assistant) | [Fashion 👜](#fashion) | [Gift Ideas 🎁](#gift-ideas) | [Healthcare 🏥](#healthcare) | [Image Editing 📷](#image-editing) | [Image Generator 🖼️](#image-generator) | [Legal Assistant ⚖️](#legal-assistant) | [Logo Generator 👨‍🎨️](#logo-generator) | [Music 🎵](#music) | [Paraphraser 📝](#paraphraser) | [Personalised Video 📼](#personalised-video) | [Productivity 💻](#productivity) | [Prompts 💭](#prompts) | [Real Estate 🏠](#real-estate) | [Research 🔬](#research) | [Search Engine 🔍](#search-engine) | [SEO 🌐](#seo) | [Social Media Assistant 📱](#social-media-assistant) | [Spreadsheets 🗂️](#spreadsheets) | [Summarizer 📃](#summarizer) | [Text To Speech 📜🎙️](#text-to-speech) | [Transcriber 🎧](#transcriber) | [Video Editing 📽️](#video-editing) | [Video Generator 📹](#video-generator)
+[AI Detection 🕵️](#ai-detection) | [Audio 📣](#audio) | [Avatars 👤](#avatars) | [Chat 💬](#chat) | [Coding 🖥️](#coding-tools) | [Copywriting ⌨️](#copywriting) | [Customer Support 💁](#customer-support) | [Design Assistant 🎨](#design-assistant) | [Developer 👨‍💻](#developer-tools) | [Education 👨‍🏫️](#education) | [Email 📧](#email-assistant) | [Fashion 👜](#fashion) | [Gift Ideas 🎁](#gift-ideas) | [Healthcare 🏥](#healthcare) | [Image Editing 📷](#image-editing) | [Image Generator 🖼️](#image-generator) | [Legal Assistant ⚖️](#legal-assistant) | [Logo Generator 👨‍🎨️](#logo-generator) | [Music 🎵](#music) | [Paraphraser 📝](#paraphraser) | [Personalised Video 📼](#personalised-video) | [Presentation 📖](#presentation) | [Productivity 💻](#productivity) | [Prompts 💭](#prompts) | [Real Estate 🏠](#real-estate) | [Research 🔬](#research) | [Search Engine 🔍](#search-engine) | [SEO 🌐](#seo) | [Social Media Assistant 📱](#social-media-assistant) | [Spreadsheets 🗂️](#spreadsheets) | [Summarizer 📃](#summarizer) | [Text To Speech 📜🎙️](#text-to-speech) | [Transcriber 🎧](#transcriber) | [Video Editing 📽️](#video-editing) | [Video Generator 📹](#video-generator)
 
 ### •AI Detection:
 
@@ -697,6 +697,20 @@ SlashDreamer introduces a new command: /dream
 
 [Windsor](https://aiinfinity.blogspot.com/p/personalised-videowindsor.html) - Record one video and use Windsor's AI platform to send millions of personalized videos to your customers.
 
+### •Presentation:
+
+[Beutiful AI](https://aiinfinity.blogspot.com/p/presentationbeutiful-ai.html) - Presentation software that designs for you.
+
+[GPT for Slides](https://aiinfinity.blogspot.com/p/presentationgpt-for-slides.html) - Generate beautiful presentations in seconds for free with GPT.
+
+[Magic Slides](https://aiinfinity.blogspot.com/p/presentationmagic-slides.html) - Your Ideas into Professional Presentations in Seconds with AI
+
+[Motionit](https://aiinfinity.blogspot.com/p/presentationmotionit.html) - MotionIt.ai creates professional slides & videos for pitch decks, conference presentations & more.
+
+[Powerpresent AI](https://aiinfinity.blogspot.com/p/presentationpowerpresent-ai.html),[Alt Link](https://aiinfinity.blogspot.com/p/presentation-present-yaara.html) - Create amazing presentations 10X faster with AI.
+
+[SlidesAI](https://aiinfinity.blogspot.com/p/presentationslidesai.html) - Create Presentation Slides with AI in seconds.
+
 ### •Productivity:
 
 [Albus](https://aiinfinity.blogspot.com/p/productivityalbus.html) - Albus is not just an Assistant He is a Friend/mentor.
@@ -787,6 +801,8 @@ SlashDreamer introduces a new command: /dream
 
 [Scispace](https://aiinfinity.blogspot.com/p/researchscispace.html) - Your AI Copilot to decode any research paper.
 
+[Scite](https://aiinfinity.blogspot.com/p/researchscite.html) - scite is a Brooklyn-based startup that helps researchers better discover and understand research articles through Smart Citations.
+
 ### •Search Engine:
 
 [Andi](https://aiinfinity.blogspot.com/p/search-engineandi.html) - Your smart search assistant.
@@ -796,6 +812,8 @@ SlashDreamer introduces a new command: /dream
 [Chatsonic](https://aiinfinity.blogspot.com/p/search-enginechatsonic.html) - ChatGPT Alternative Built With Superpowers!
 
 [Crowdview](https://aiinfinity.blogspot.com/p/search-enginecrowdview.html) - Forum Search Engine!
+
+[Metaphor](https://aiinfinity.blogspot.com/p/search-enginemetaphor.html) - Metaphor is a search engine that predicts the next link, similar to the way that GPT-3 predicts the next word.
 
 [Neeva](https://aiinfinity.blogspot.com/p/search-engineneeva.html) - Search Powered by AI! Get Answers.Not Ads.
 
