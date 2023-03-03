@@ -813,6 +813,8 @@ SlashDreamer introduces a new command: /dream
 
 [Crowdview](https://aiinfinity.blogspot.com/p/search-enginecrowdview.html) - Forum Search Engine!
 
+[FAQx](https://aiinfinity.blogspot.com/p/search-enginefaqx.html) - Say Goodbye to Endless Searches, Get Facts on FAQx.
+
 [Metaphor](https://aiinfinity.blogspot.com/p/search-enginemetaphor.html) - Metaphor is a search engine that predicts the next link, similar to the way that GPT-3 predicts the next word.
 
 [Neeva](https://aiinfinity.blogspot.com/p/search-engineneeva.html) - Search Powered by AI! Get Answers.Not Ads.
