@@ -793,6 +793,8 @@ SlashDreamer introduces a new command: /dream
 
 [Maket](https://aiinfinity.blogspot.com/p/real-estatemaket.html) - Generative Design for Architectural Planning.
 
+[RoomGPT](https://aiinfinity.blogspot.com/p/search-engineroomgpt.html) - Generating dream rooms using AI for everyone.
+
 ### •Research:
 
 [Consensus](https://aiinfinity.blogspot.com/p/researchconsensus.html) - Evidence-Based Answers, Faster!
@@ -820,6 +822,8 @@ SlashDreamer introduces a new command: /dream
 [Neeva](https://aiinfinity.blogspot.com/p/search-engineneeva.html) - Search Powered by AI! Get Answers.Not Ads.
 
 [Perplexity AI](https://aiinfinity.blogspot.com/p/search-engineperplexity-ai.html) - Perplexity AI unlocks the power of knowledge with information discovery and sharing. 
+
+[Phind](https://aiinfinity.blogspot.com/p/search-enginephind.html) - The AI search engine for developers.
 
 [You](https://aiinfinity.blogspot.com/p/search-engineyou.html) - The AI Search Engine You Control
 
