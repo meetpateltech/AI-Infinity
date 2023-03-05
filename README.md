@@ -125,6 +125,8 @@ Choose Your Character, Create Magical Avatars.
 
 [Hello History](https://aiinfinity.blogspot.com/p/chathello-history.html) - Chat with AI generated historical figures.
 
+[Poe](https://aiinfinity.blogspot.com/p/chatpoe.html) - Quora's chatbot including Sage, Dragonfly, ChatGPT & Claude!
+
 ### •Coding Tools:
 
 [AI CLI](https://aiinfinity.blogspot.com/p/codingai-cli.html) - Get answers for CLI commands from GPT3 right from your terminal.
@@ -879,11 +881,21 @@ SlashDreamer introduces a new command: /dream
 
 ### •Spreadsheets:
 
+[Arcwise](https://aiinfinity.blogspot.com/p/spreadsheetsarcwise.html) - Your copilot for Google Sheets Instantly understand, clean, and ingest data in Sheets with the AI behind ChatGPT.
+
+[Charm](https://aiinfinity.blogspot.com/p/spreadsheetscharm.html) - Eliminate mundane spreadsheet work.
+
 [Excel Formula Bot](https://excelformulabot.com/) - Transform your text instructions into Excel formulas in seconds with the help of AI for free.
+
+[Flowshot](https://aiinfinity.blogspot.com/p/spreadsheets-flowshot.html) - Instantly upgrade your Google Sheets workflow!
+
+[Formula Generator](https://aiinfinity.blogspot.com/p/spreadsheets-formula-generator.html) - Easily generate excel formulas using our free AI toolkit powered by fine-tuned GPT models.
 
 [Goodlookup](https://www.goodlookup.com/) - Goodlookup is a smart function for spreadsheet users.
 
 [Numerous](https://aiinfinity.blogspot.com/p/spreadsheetsnumerous-ai.html) - Numerous can reformat and categorize your cells, generate formulas,and let you access ChatGPT directly inside your sheets.
+
+[PromptLoop](https://aiinfinity.blogspot.com/p/spreadsheets-promptloop.html) - Use PromptLoop in Google Sheets to transform, extract, or summarize any text with a simple formula that works just like SUM or VLOOKUP and generates answers with powerful AI models.
 
 [Sheet AI](https://www.sheetai.app/) - ChatGPT inside Sheets.
 
