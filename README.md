@@ -357,6 +357,8 @@ Uniqueness in seconds.
 
 [PixelVibe](https://aiinfinity.blogspot.com/p/design-assistantpixelvibe.html) - Create the exact visual you need.
 
+[Scribble Diffusion](https://aiinfinity.blogspot.com/p/design-assistantscribble-diffusion.html) - Turn your sketch into a refined image using AI.
+
 [StockImg AI](https://aiinfinity.blogspot.com/p/design-assistantstockimg-ai.html) - Create design for logo/poster etc.
 
 [Uizard](https://aiinfinity.blogspot.com/p/design-assistantuizard.html) - Visualize and communicate your ideas effortlessly.No design experience required!
@@ -518,9 +520,13 @@ create personalized cold emails that get more replies at scale.
 
 ### •Healthcare:
 
-[Cradle](https://cradle.bio/) - Cradle helps biologists design improved proteins in record time using powerful prediction algorithms and AI design suggestions.
+[Cradle](https://aiinfinity.blogspot.com/p/healthcarecradle.html) - Cradle helps biologists design improved proteins in record time using powerful prediction algorithms and AI design suggestions.
 
-[Whisper AI](https://whisper.ai/) - Meet Whisper, the new hearing system that gets better over time.
+[Medical Diagnosis Assistant](https://aiinfinity.blogspot.com/p/healthcaremedical-diagnosis-assistant.html) - Experience the future of healthcare with our ChatGPT-powered medical diagnostic and symptom checking tool.
+
+[Symptom Checker](https://aiinfinity.blogspot.com/p/healthcaresymptom-checker.html) - AI Powered Medical Symptom Checker.
+
+[Whisper AI](https://aiinfinity.blogspot.com/p/healthcarewhisper-ai.html) - Meet Whisper, the new hearing system that gets better over time.
 
 ### •Image Editing:
 
