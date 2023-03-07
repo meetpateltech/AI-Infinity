@@ -11,7 +11,7 @@
 > Submit New Tool [Here](https://forms.gle/Ze6pdWzmweCfKWnLA) or go to GitHub issues and submit there. Share your thoughts and help us improve! Submit your feedback and suggestions [here](https://forms.gle/5jU4u2kuWh2AocjU6)
 
 ### Categories :
-[AI Detection 🕵️](#ai-detection) | [Audio 📣](#audio) | [Avatars 👤](#avatars) | [Chat 💬](#chat) | [Coding 🖥️](#coding-tools) | [Copywriting ⌨️](#copywriting) | [Customer Support 💁](#customer-support) | [Design Assistant 🎨](#design-assistant) | [Developer 👨‍💻](#developer-tools) | [Education 👨‍🏫️](#education) | [Email 📧](#email-assistant) | [Fashion 👜](#fashion) | [Gift Ideas 🎁](#gift-ideas) | [Healthcare 🏥](#healthcare) | [Image Editing 📷](#image-editing) | [Image Generator 🖼️](#image-generator) | [Legal Assistant ⚖️](#legal-assistant) | [Logo Generator 👨‍🎨️](#logo-generator) | [Music 🎵](#music) | [Paraphraser 📝](#paraphraser) | [Personalised Video 📼](#personalised-video) | [Presentation 📖](#presentation) | [Productivity 💻](#productivity) | [Prompts 💭](#prompts) | [Real Estate 🏠](#real-estate) | [Research 🔬](#research) | [Search Engine 🔍](#search-engine) | [SEO 🌐](#seo) | [Social Media Assistant 📱](#social-media-assistant) | [Spreadsheets 🗂️](#spreadsheets) | [Summarizer 📃](#summarizer) | [Text To Speech 📜🎙️](#text-to-speech) | [Transcriber 🎧](#transcriber) | [Video Editing 📽️](#video-editing) | [Video Generator 📹](#video-generator)
+[AI Detection 🕵️](#ai-detection) | [Audio 📣](#audio) | [Avatars 👤](#avatars) | [Chat 💬](#chat) | [Coding 🖥️](#coding-tools) | [Copywriting ⌨️](#copywriting) | [Customer Support 💁](#customer-support) | [Design Assistant 🎨](#design-assistant) | [Developer 👨‍💻](#developer-tools) | [Education 👨‍🏫️](#education) | [Email 📧](#email-assistant) | [Fashion 👜](#fashion) | [Gift Ideas 🎁](#gift-ideas) | [Healthcare 🏥](#healthcare) | [Image Editing 📷](#image-editing) | [Image Generator 🖼️](#image-generator) | [Legal Assistant ⚖️](#legal-assistant) | [Logo Generator 👨‍🎨️](#logo-generator) | [Music 🎵](#music) | [No/Low Code 🧩](#lowno-code) | [Paraphraser 📝](#paraphraser) | [Personalised Video 📼](#personalised-video) | [Presentation 📖](#presentation) | [Productivity 💻](#productivity) | [Prompts 💭](#prompts) | [Real Estate 🏠](#real-estate) | [Research 🔬](#research) | [Search Engine 🔍](#search-engine) | [SEO 🌐](#seo) | [Social Media Assistant 📱](#social-media-assistant) | [Spreadsheets 🗂️](#spreadsheets) | [Summarizer 📃](#summarizer) | [Text To Speech 📜🎙️](#text-to-speech) | [Transcriber 🎧](#transcriber) | [Video Editing 📽️](#video-editing) | [Video Generator 📹](#video-generator)
 
 ### •AI Detection:
 
@@ -666,6 +666,112 @@ SlashDreamer introduces a new command: /dream
 [SoundFul](https://aiinfinity.blogspot.com/p/musicsoundful.html) - AI MUSIC GENERATOR Soundful helps you generate unique, royalty-free tracks at the click of a button.
 
 [Splash](https://aiinfinity.blogspot.com/p/musicsplash.html) - Bringing the joy of music making to everyone.
+
+### •Low/No Code:
+
+[10Web](https://aiinfinity.blogspot.com/p/nlc10web.html) - AI-Powered WordPress Platform
+
+[AI Surge Cloud](https://aiinfinity.blogspot.com/p/nlcai-surge-cloud.html) - Deploy your predictive model for free.
+
+[Anybott](https://aiinfinity.blogspot.com/p/nlcanybott.html) - Create AI-based chatbots to automate businesses, quickly and effortlessly.
+
+[AskAI](https://aiinfinity.blogspot.com/p/nlcaskai.html) - Build your own AI Q&A, with any content in minutes. Share it anywhere on the web.
+
+[Axiom](https://aiinfinity.blogspot.com/p/nlcaxiom.html) - Browser Automation. Quickly, without code.
+
+[B12 io](https://aiinfinity.blogspot.com/p/nlcb12-io.html) - B12 is the only all-in-one AI website builder that makes it easy for professional service providers to attract, win, and serve clients online.
+
+[Bardeen AI](https://aiinfinity.blogspot.com/p/nlcbardeen-ai.html) - Coming in 2023 – Bardeen is introducing breakthrough AI to automate manual workflows, save you time, and empower your creativity.  
+
+[BatchGPT](https://aiinfinity.blogspot.com/p/nlcbatchgpt.html) - Batch Process Your Data With AI.
+
+[Berri AI](https://aiinfinity.blogspot.com/p/nlcberri-ai.html) - Berri lets you easily connect your data and build production-ready chatGPT apps in minutes.
+
+[Block Survey](https://aiinfinity.blogspot.com/p/nlcblock-survey.html) - BlockSurvey is a privacy-first platform. No ads, no trackers. Protect your respondents' data and privacy. The only survey tool that keeps your data safe.
+
+[Brancher AI](https://aiinfinity.blogspot.com/p/nlcbrancher-ai.html) - Connect AI models to build AI apps in minutes, with no code.
+
+[Browse AI](https://aiinfinity.blogspot.com/p/nlcbrowse-ai.html) - The easiest way to extract and monitor data from any website.
+
+[Build AI](https://aiinfinity.blogspot.com/p/nlcbuild-ai.html) - Build your own AI-powered web apps tailored to your business. No technical skills required.
+
+[Chatbotkit](https://aiinfinity.blogspot.com/p/nlcchatbotkit.html) - The simplest way to build advanced AI chat bots.
+
+[ChatGPT Website Builder](https://aiinfinity.blogspot.com/p/nlc-chatgpt-website-builder.html) - Build websites with AI.
+
+[Cogniflow](https://aiinfinity.blogspot.com/p/nlccogniflow.html) - Boost your productivity. Integrate AI into your workflow.
+
+[CustomGPT](https://aiinfinity.blogspot.com/p/nlccustomgpt.html) - Build Your Own ChatBOT With Your Data.
+
+[Durable](https://aiinfinity.blogspot.com/p/nlcdurable.html) - The AI website builder that generates an entire website with images and copy in seconds.
+
+[Dust](https://aiinfinity.blogspot.com/p/nlcdust.html) - Make and Deploy Large Language Model Apps.
+
+[Dystr](https://aiinfinity.blogspot.com/p/nlcdystr.html) - Maximize your productivity - focus on the task at hand and automate the rest.
+
+[Felvin](https://aiinfinity.blogspot.com/p/nlcfelvin.html) - Discover and Build your unique AI-enabled app from just a prompt.
+
+[Gooey AI](https://aiinfinity.blogspot.com/p/nlcgooey-ai.html) - The best place to build, distribute & find Generative AI apps.
+
+[GPTAgent](https://aiinfinity.blogspot.com/p/nlcgptagent.html) - The easiest way to build AI apps.
+
+[IFTTT](https://aiinfinity.blogspot.com/p/nlcifttt.html) - Quickly and easily automate your favorite apps and devices.
+
+[Kadoa](https://aiinfinity.blogspot.com/p/nlckadoa.html) - Effortless Data Extraction in Seconds.
+
+[Levity](https://aiinfinity.blogspot.com/p/nlclevity.html) - Powerful AI that takes care of your daily tasks. Stop manually processing your text, document, and image data. Let AI work its magic, without a single line of code.
+
+[Lighting AI](https://aiinfinity.blogspot.com/p/nlclightning-ai.html) - Train, deploy, and ship AI products Lightning fast.
+
+[Liner AI](https://aiinfinity.blogspot.com/p/nlcliner-ai.html) - Liner is a free tool that lets you train your ML models easily. It takes your training data and gives you an easy-to-integrate ML model. No coding or expertise in machine learning required.
+
+[Lobe](https://aiinfinity.blogspot.com/p/nlclobe.html) - Create machine learning models with a free, easy to use tool.
+
+[Magick](https://aiinfinity.blogspot.com/p/nlcmagick.html) - Cutting-edge AI tools at your fingertips. Powerful and production-ready with no code, no deployment, and no headache.
+
+[MarsAI](https://aiinfinity.blogspot.com/p/nlcmarsx.html) - MarsX: Changing the game of software development.Code + NoCode + AI
+
+[Nanonets](https://aiinfinity.blogspot.com/p/nlcnanonets.html) - Automate Manual Data Entry Using AI.Capture data from documents instantly. Reduce turn around times and the manual effort required.
+
+[Obviously AI](https://aiinfinity.blogspot.com/p/nlc-obviously-ai.html) - Turn AI into ROI by going from raw data to industry leading predictive models in minutes, not months.
+
+[Onu](https://aiinfinity.blogspot.com/p/nlconu.html) - Onu is a developer-first tool that allows engineers to quickly turn their scripts or workflows into production-ready internal tools without writing any frontend code at all.
+
+[Outset AI](https://aiinfinity.blogspot.com/p/nlc-outset-ai.html) - Power your products with the cutting edge models behind ChatGPT. No AI-expertise required.
+
+[Pliny](https://aiinfinity.blogspot.com/p/nlcpliny.html) - Pliny provides a lightweight interface to turn your prompt into a shareable app. Anyone can run your app for free on their own inputs, or remix it to create a new version.
+
+[Prisms AI](https://aiinfinity.blogspot.com/p/nlcprisms-ai.html) - The no-code platform for building AI‑powered apps.
+
+[Retune](https://aiinfinity.blogspot.com/p/nlcretune.html) - The missing frontend for GPT-3,
+Build GPT-3 powered apps,without writing any code.
+
+[Riku AI](https://aiinfinity.blogspot.com/p/nlcriku-ai.html) - Empowering you to build AI models without code. Use AI through integrations, API, or public share links. Accessible AI for everyone.
+
+[Roboflow](https://aiinfinity.blogspot.com/p/nlcroboflow.html) - With a few images, you can deploy a computer vision model in an afternoon. 
+
+[Sitekick](https://aiinfinity.blogspot.com/p/nlc-sitekick.html) - Sitekick is an AI landing page builder. It allows you to create beautiful landing pages without the need for coding, design or copywriting skills.
+
+[Softr](https://aiinfinity.blogspot.com/p/nlcsoftr.html) - Softr offers pre-built and functional blocks like Lists, Charts, Forms, Tables, Calendar, Maps out of the box, so you don’t need to reinvent them from scratch. Put together your app in a few minutes with drag and drop, without developers.
+
+[Steamship](https://aiinfinity.blogspot.com/p/nlc-steamship.html) - Steamship is a Managed Backend for AI services.
+
+[Tally](https://aiinfinity.blogspot.com/p/nlctally.html) - Create forms for all purposes in seconds.
+Without knowing how to code, and for free!
+
+[Teachable Machine](https://aiinfinity.blogspot.com/p/nlcteachable-machine.html) - A fast, easy way to create machine learning models for your sites, apps, and more – no expertise or coding required.
+
+[TextToMap](https://aiinfinity.blogspot.com/p/nlctexttomap.html) - Generate insightful maps from text & questions containing locations.
+
+[VFitter](https://aiinfinity.blogspot.com/p/nlcvfitter.html) - Create custom no-code AI tools that speed everything up!
+
+[Visily AI](https://aiinfinity.blogspot.com/p/nlc-visily-ai.html) - Design stunning app wireframes at light speed.
+
+[Wand AI](https://aiinfinity.blogspot.com/p/nlcwand-ai.html) - Wand gives everyone the AI power to solve business problems and create value faster than ever before.
+
+[Water](https://aiinfinity.blogspot.com/p/nlcwater.html) - No code ChatGPT builder.
+
+[Zapier](https://aiinfinity.blogspot.com/p/nlczapier.html) - Zapier empowers you to automate your work across 5,000+ apps—so you can move forward, faster.
 
 ### •Paraphraser:
 
