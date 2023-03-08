@@ -129,6 +129,8 @@ Choose Your Character, Create Magical Avatars.
 
 ### •Coding Tools:
 
+[Adrenaline](https://aiinfinity.blogspot.com/p/coding-adrenaline.html) - Fix your broken code in seconds! Stop pasting error messages into Google. Use AI to debug your code and teach you along the way.
+
 [AI CLI](https://aiinfinity.blogspot.com/p/codingai-cli.html) - Get answers for CLI commands from GPT3 right from your terminal.
 
 [AI code reviewer](https://aiinfinity.blogspot.com/p/codingai-code-reviewer.html) - Reviews your code.
@@ -149,6 +151,10 @@ Choose Your Character, Create Magical Avatars.
 
 [Clippy VSCode](https://aiinfinity.blogspot.com/p/codingclippy-vscode.html) - It shows you your mistakes! It's annoying! it moves!
 
+[Code Snippets](https://aiinfinity.blogspot.com/p/codingcode-snippets.html) - Turn Your Questions Into Code, with ChatGPT!
+
+[CodeSquire](https://aiinfinity.blogspot.com/p/codingcode-squire.html) - Turn your thoughts into code! AI code writing assistant for data scientists, engineers, and analysts.Get code completions and suggestions as you type.
+
 [CodeAssist](https://aiinfinity.blogspot.com/p/codingcodeassist.html) - CodeAssist is an AI assistant / chatbot / copilot for programming. It generates, changes, completes the code and answers questions.
 
 [CodeGeeX](https://aiinfinity.blogspot.com/p/codingcodegeex.html) - A large-scale multilingual code generation model with 13 billion parameters, pre-trained on a large code corpus of more than 20 programming languages. CodeGeeX supports 15+ programming languages for both code generation and translation. CodeGeeX is open source.
@@ -162,6 +168,8 @@ Choose Your Character, Create Magical Avatars.
 [Continual](https://aiinfinity.blogspot.com/p/codingcontinual.html) - Continual is an operational AI platform for the modern data stack. Build predictive models that never stop improving without complex engineering.
 
 [Copilot](https://aiinfinity.blogspot.com/p/codingcopilot.html) - GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
+
+[Debuild](https://aiinfinity.blogspot.com/p/codingdebuild.html) - Code your web app in seconds.
 
 [Duino Code Generator](https://aiinfinity.blogspot.com/p/codingduino-code-generator.html) - Let's generate code for Arduino.
 
@@ -183,11 +191,15 @@ Choose Your Character, Create Magical Avatars.
 
 [Replit](https://aiinfinity.blogspot.com/p/codingreplit.html) - Build software collaboratively from anywhere in the world, on any device, without spending a second on setup.
 
+[SourceAI](https://aiinfinity.blogspot.com/p/codingsourceai.html) - AI-Powered Code Generator.
+
 [Spellbox](https://aiinfinity.blogspot.com/p/codingspellbox.html) - SpellBox uses artificial intelligence to create the code you need from simple prompts. Solve your toughest programming problems with AI in seconds!
 
 [Stenography](https://aiinfinity.blogspot.com/p/codingstenography.html) - Finally. Automatic Documentation.
 
 [Tabnine](https://aiinfinity.blogspot.com/p/codingtabnine.html) - AI assistant for software developers Code faster with whole-line & full-function code completions.
+
+[Teleporthq](https://aiinfinity.blogspot.com/p/coding-teleporthq.html) - TeleportHQ is the collaborative front-end platform with integrated UI development and content modelling tools. A powerful visual builder to create and publish your headless static websites instantly.
 
 [Testkit](https://aiinfinity.blogspot.com/p/codingtestkit.html) - Browser extension to record entire tests in seconds, run them in the Testkit dashboard or your CI pipeline, and see how Testkit automagically fixes tests for you when they break.
 
@@ -368,6 +380,8 @@ Uniqueness in seconds.
 [Vizcom](https://aiinfinity.blogspot.com/p/design-assistantvizcom.html) - AI tools to express your creativity!
 
 ### •Developer Tools:
+
+[Autobackend](https://aiinfinity.blogspot.com/p/developerautobackend.html) - Describe your backend In one or two sentences, describe what you'd like your backend to do.
 
 [AutoRegex](https://aiinfinity.blogspot.com/p/developerautoregx.html) - Effortless conversions from English to Regex! Regex is difficult to write and comprehend to the average human. 
 
@@ -828,6 +842,8 @@ Without knowing how to code, and for free!
 ### •Productivity:
 
 [Albus](https://aiinfinity.blogspot.com/p/productivityalbus.html) - Albus is not just an Assistant He is a Friend/mentor.
+
+[Buster](https://aiinfinity.blogspot.com/p/productivitybuster.html) - Ask any data question in plain english. Get answers in the form of charts, graphs, tables, etc - instantly.
 
 [ChatGPT Chrome Extension](https://aiinfinity.blogspot.com/p/productivitychatgpt-chrome-extension.html)- Display ChatGPT response alongside Google, Bing, DuckDuckGo Search results.
 
