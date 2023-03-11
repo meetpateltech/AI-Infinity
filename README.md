@@ -137,7 +137,7 @@ Choose Your Character, Create Magical Avatars.
 
 [Amazon CodeWhisperer](https://aiinfinity.blogspot.com/p/codingamazon-codewhisperer.html) - Accelerate application development with automatic code recommendations based on the code and comments in your IDE.
 
-[ArtroomAI](https://aiinfinity.blogspot.com/p/codingartroomai.html) - Make beautiful AI generated art without touching a single line of code.
+
 
 [AskCodi](https://aiinfinity.blogspot.com/p/codingaskcodi.html) - AskCodi is made keeping in mind the needs of developers to avoid redundant tasks, therefore resulting in less time spent on development and more time to execute.
 
@@ -161,7 +161,7 @@ Choose Your Character, Create Magical Avatars.
 
 [Codeium](https://aiinfinity.blogspot.com/p/codingcodeium.html) - The modern coding superpower.
 
-[CodeSquire](https://codesquire.ai/)- Turn your thoughts into code.
+
 
 [Codex](https://aiinfinity.blogspot.com/p/codingcodex.html) - Codex interpret simple commands in natural language and execute them on the user’s behalf—making it possible to build a natural language interface to existing applications.
 
