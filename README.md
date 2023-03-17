@@ -1035,6 +1035,10 @@ Without knowing how to code, and for free!
 
 [SheetGod](https://www.boloforms.com/sheetgod/) - The AI Tool That Turns English Into Excel Formulas In Seconds.
 
+### •Startup Tools:
+
+Updating...
+
 
 ### •Summarizer:
 
