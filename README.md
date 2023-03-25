@@ -522,7 +522,7 @@ create personalized cold emails that get more replies at scale.
 
 ### •Fun:
 
-Updating...
+[Roasted by AI](https://www.roastedby.ai/) - roast chat with AI.
 
 ### •Gift Ideas:
 
