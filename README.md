@@ -522,6 +522,8 @@ create personalized cold emails that get more replies at scale.
 
 ### •Fun:
 
+[Excuses Generator](https://aiinfinity.blogspot.com/p/funexcuses.html) - Generate excuses with AI for when you mess up.
+
 [Roasted by AI](https://www.roastedby.ai/) - roast chat with AI.
 
 ### •Gift Ideas:
