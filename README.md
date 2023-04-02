@@ -3,12 +3,11 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/meetpateltech/AI-Infinity?style=social) 
 <a href='https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fmeetpateltech%2FAI-Infinity&text=If%20you%27re%20looking%20for%20the%20latest%20and%20greatest%20AI%20tools%2C%20you%20won%27t%20want%20to%20miss%20the%20AI%20Infinity%20GitHub%20repository.%20Check%20it%20out%20now%21' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/Tweet-100000?style=flat-square&logo=Twitter&logoColor=1DA1F2&labelColor=DCE0DC&color=0399F6'/></a>
 
+# Update:
+> We have updated our AI tools list with more features and improved functionality in our [Notion database](https://fentolia.github.io/AI-Infinity-Tools/), Please visit our Notion database for the latest updates and new AI tools added.
 
-> We are excited to share our AI tools list with the community and we would greatly appreciate your support! Read FAQs [Here](https://fentolia.github.io/FAQ/)
+> Thank you for your support and continued use of our AI Infinity resources.
 
- 
-
-> Submit New Tool [Here](https://forms.gle/Ze6pdWzmweCfKWnLA) or go to GitHub issues and submit there. Share your thoughts and help us improve! Submit your feedback and suggestions [here](https://forms.gle/5jU4u2kuWh2AocjU6)
 
 ### Categories :
 [AI Detection 🕵️](#ai-detection) | [Audio 📣](#audio) | [Avatars 👤](#avatars) | [Chat 💬](#chat) | [Coding 🖥️](#coding-tools) | [Copywriting ⌨️](#copywriting) | [Customer Support 💁](#customer-support) | [Design Assistant 🎨](#design-assistant) | [Developer 👨‍💻](#developer-tools) | [Education 👨‍🏫️](#education) | [Email 📧](#email-assistant) | [Fashion 👜](#fashion) | [Gift Ideas 🎁](#gift-ideas) | [Healthcare 🏥](#healthcare) | [Image Editing 📷](#image-editing) | [Image Generator 🖼️](#image-generator) | [Legal Assistant ⚖️](#legal-assistant) | [Logo Generator 👨‍🎨️](#logo-generator) | [Music 🎵](#music) | [No/Low Code 🧩](#lowno-code) | [Paraphraser 📝](#paraphraser) | [Personalised Video 📼](#personalised-video) | [Presentation 📖](#presentation) | [Productivity 💻](#productivity) | [Prompts 💭](#prompts) | [Real Estate 🏠](#real-estate) | [Research 🔬](#research) | [Search Engine 🔍](#search-engine) | [SEO 🌐](#seo) | [Social Media Assistant 📱](#social-media-assistant) | [Spreadsheets 🗂️](#spreadsheets) | [Summarizer 📃](#summarizer) | [Text To Speech 📜🎙️](#text-to-speech) | [Transcriber 🎧](#transcriber) | [Video Editing 📽️](#video-editing) | [Video Generator 📹](#video-generator)
