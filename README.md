@@ -3,7 +3,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/meetpateltech/AI-Infinity?style=social) 
 <a href='https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fmeetpateltech%2FAI-Infinity&text=If%20you%27re%20looking%20for%20the%20latest%20and%20greatest%20AI%20tools%2C%20you%20won%27t%20want%20to%20miss%20the%20AI%20Infinity%20GitHub%20repository.%20Check%20it%20out%20now%21' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/Tweet-100000?style=flat-square&logo=Twitter&logoColor=1DA1F2&labelColor=DCE0DC&color=0399F6'/></a>
 
-# Update:
+# ⚠️Update:
 > We have updated our AI tools list with more features and improved functionality in our [Notion database](https://fentolia.github.io/AI-Infinity-Tools/), Please visit our Notion database for the latest updates and new AI tools added.
 
 > Thank you for your support and continued use of our AI Infinity resources.
