@@ -1,5 +1,8 @@
 ## AI-Infinity - A set of cutting-edge AI tools for experimenting with new ideas💡technologies🌐, and algorithms👨‍💻.
 <!-- MarkDown Badges -->
+
+<a href="https://www.producthunt.com/posts/ai-infinity-ai-tools-directory?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-ai&#0045;infinity&#0045;ai&#0045;tools&#0045;directory" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=388200&theme=light" alt="AI&#0032;Infinity&#0032;&#0045;&#0032;AI&#0032;Tools&#0032;Directory - Find&#0032;the&#0032;perfect&#0032;AI&#0032;tool&#0032;for&#0032;your&#0032;work&#0047;project | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/meetpateltech/AI-Infinity?style=social) 
 <a href='https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fmeetpateltech%2FAI-Infinity&text=If%20you%27re%20looking%20for%20the%20latest%20and%20greatest%20AI%20tools%2C%20you%20won%27t%20want%20to%20miss%20the%20AI%20Infinity%20GitHub%20repository.%20Check%20it%20out%20now%21' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/Tweet-100000?style=flat-square&logo=Twitter&logoColor=1DA1F2&labelColor=DCE0DC&color=0399F6'/></a>
 
