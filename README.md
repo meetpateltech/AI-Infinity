@@ -286,6 +286,8 @@ Switch marketing to autopilot and grow.
 
 [BotDistrikt](https://aiinfinity.blogspot.com/p/customer-supportbotdistrikt.html) - BotDistrikt is a complete chatbot solution for your business.
 
+[ChatGenius](https://chatgenius.one/?ref=ai-infinity) - ChatGenius is a software company that provides a powerful AI chatbot solution powered by GPT-4 and ChatGPT. Our chatbot offers 24/7 support in over 110 languages and can be integrated seamlessly into your website or platform.
+
 [Cohere](https://aiinfinity.blogspot.com/p/customer-supportcohere.html) - Cohere helps CX teams resolve tickets faster while reducing costs, resulting in happier agents and satisfied customers.
 
 [Delve](https://aiinfinity.blogspot.com/p/customer-supportdelve.html) - Create personas automatically for your business and for your competitor businesses.
