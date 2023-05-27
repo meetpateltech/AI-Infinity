@@ -7,7 +7,7 @@
 <a href='https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fmeetpateltech%2FAI-Infinity&text=If%20you%27re%20looking%20for%20the%20latest%20and%20greatest%20AI%20tools%2C%20you%20won%27t%20want%20to%20miss%20the%20AI%20Infinity%20GitHub%20repository.%20Check%20it%20out%20now%21' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/Tweet-100000?style=flat-square&logo=Twitter&logoColor=1DA1F2&labelColor=DCE0DC&color=0399F6'/></a>
 
 # ⚠️Update:
-> Hey there! We're thrilled to see so many users visiting our AI Infinity GitHub repository and clicking on the tools listed there. We appreciate your support! However, we wanted to let you know that we're updating the list of 1500+ AI tools with category & price tags + descriptions on our [Notion Database](https://fentolia.github.io/AI-Infinity-Tools/) daily. So, kindly visit our AI Tools Directory on Notion as well to access the latest tools we've added. Thank you! (New tools update regularly but will adding in bulk tools around Mid-May)
+> Hey there! We're thrilled to see so many users visiting our AI Infinity GitHub repository and clicking on the tools listed there. We appreciate your support! However, we wanted to let you know that we're updating the list of 1500+ AI tools with category & price tags + descriptions on our [Notion Database](https://fentolia.github.io/AI-Infinity-Tools/) daily. So, kindly visit our AI Tools Directory on Notion as well to access the latest tools we've added. Thank you! (New tools update regularly!)
 
 
 ### Categories :
