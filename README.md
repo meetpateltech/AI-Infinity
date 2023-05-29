@@ -454,6 +454,9 @@ without writing any code.
 
 [Yip](https://aiinfinity.blogspot.com/p/educationyip.html) - Enter your Notes or any URL and Yip 🤖 will generate a quiz automatically from them.
 
+[Wilco Sierra](https://trywilco.com/sierra) - A platform that generates engineering challenges for software engineers using AI.
+
+
 ### •Email Assistant:
 
 [ChatGPT Writer](https://aiinfinity.blogspot.com/p/email-assistantchatgpt-writer.html) - Free Chrome extension to generate entire emails and messages using ChatGPT AI. All sites are supported and enhanced support for Gmail.
