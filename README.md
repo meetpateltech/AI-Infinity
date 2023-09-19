@@ -162,8 +162,6 @@ Choose Your Character, Create Magical Avatars.
 
 [Codeium](https://aiinfinity.blogspot.com/p/codingcodeium.html) - The modern coding superpower.
 
-
-
 [Codex](https://aiinfinity.blogspot.com/p/codingcodex.html) - Codex interpret simple commands in natural language and execute them on the user’s behalf—making it possible to build a natural language interface to existing applications.
 
 [Continual](https://aiinfinity.blogspot.com/p/codingcontinual.html) - Continual is an operational AI platform for the modern data stack. Build predictive models that never stop improving without complex engineering.
@@ -181,6 +179,8 @@ Choose Your Character, Create Magical Avatars.
 [Hey,GitHub](https://githubnext.com/projects/hey-github/) - Write code without the keyboard! Difficulty typing? Use your voice to code without spelling things out by talking with GitHub Copilot.
 
 [Kodezi AI](https://aiinfinity.blogspot.com/p/codingkodezi-ai.html) - Let Kodezi auto generate/correct/comment/optimize your code in seconds.
+
+[Kombai](https://kombai.com/) - A new AI model that you can prompt with UI designs.
 
 [Lookup](https://aiinfinity.blogspot.com/p/codinglookup.html) - Import your data, ask questions in plain english, and get answers instantly with the power of AI.
 
