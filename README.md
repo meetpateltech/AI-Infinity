@@ -8,7 +8,7 @@
 
 
 # ⚠️Update:
-> Hey there! We're thrilled to see so many users visiting our AI Infinity GitHub repository and clicking on the tools listed there. We appreciate your support! However, we wanted to let you know that we're updating the list of 1600+ AI tools with category & price tags + descriptions on our [Notion Database](https://fentolia.github.io/AI-Infinity-Tools/) daily. So, kindly visit our AI Tools Directory on Notion as well to access the latest tools we've added. Thank you! Bonus: [ChatGPT Maximizer Tools](https://max-aiinfinity.vercel.app/)
+> Hello! Thanks for your support on our AI Infinity GitHub repo. We're continually updating it with 1600+ AI tools, adding categories, prices, and descriptions daily on our Notion Database. For the latest tools, visit our [AI Tools Directory on Notion](https://fentolia.github.io/AI-Infinity-Tools/). Your engagement is appreciated! Plus, explore our [ChatGPT Maximizer Tools](https://max-aiinfinity.vercel.app/).
 
 
 ### Categories :
