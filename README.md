@@ -636,6 +636,8 @@ SlashDreamer introduces a new command: /dream
 
 [Xno AI](https://aiinfinity.blogspot.com/p/image-generatorxno-ai.html) - Text to Image Generator.
 
+[Human Generator](https://generated.photos/human-generator) - Generator of Human Photos .
+
 ### •Legal Assistant:
 
 [Activazon](https://aiinfinity.blogspot.com/p/legal-assistantactivazon.html) - AI crime analytics for travellers and residence.
