@@ -886,6 +886,8 @@ Without knowing how to code, and for free!
 
 [Supernormal](https://aiinfinity.blogspot.com/p/productivitysupernormal.html) - Supernormal helps you create amazing meeting notes without lifting a finger.
 
+[Taskade](https://www.taskade.com) - AI-Powered Productivity Suite. Generate Mind Maps, Flow Charts, Workflows Instantly. Organize and Manage Tasks and Projects with AI.
+
 [TinyWow](https://aiinfinity.blogspot.com/p/productivitytinywow.html) - PDF, video, image and other online tools to make your life easier.
 
 [typly](https://aiinfinity.blogspot.com/p/productivitytyply.html) - Typly is the ultimate cutting edge AI keyboard that helps you to answer all your messages with a single click!
