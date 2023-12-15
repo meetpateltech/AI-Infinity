@@ -443,6 +443,8 @@ without writing any code.
 
 [Valyr](https://aiinfinity.blogspot.com/p/developervalyr.html) - Simplify GPT-3 monitoring with one line of code.
 
+[GPTRouter](https://gpt-router.writesonic.com/) - GPTRouter is an open source LLM API Gateway that offers a universal API for 30+ LLMs, vision, and image models, with smart fallbacks based on uptime and latency, automatic retries, and streaming. Stay operational even when OpenAI is down.
+
 ### •Education:
 
 [Caktus](https://aiinfinity.blogspot.com/p/educationcaktus.html) - Writing,Coding,CV,Resume Maker!
