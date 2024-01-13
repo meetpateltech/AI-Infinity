@@ -120,6 +120,8 @@ Choose Your Character, Create Magical Avatars.
 
 [Character AI](https://aiinfinity.blogspot.com/p/chatcharacter-ai.html) - Character AI lets you create Characters and talk to them.
 
+[Chativon](https://apps.apple.com/us/app/ai-friend-chat-fun-chativon/id6449495972) - Chativon, the ultimate AI friend simulator and virtual companion app! Immerse yourself in a world of exciting conversations with AI companions who are here to be your confidants, advisors, and role-play friends.
+
 [Context](https://aiinfinity.blogspot.com/p/chatcontext.html) - Context is your AI-powered assistant for learning from your favorite websites, e-books, podcasts, videos, and more.
 
 [Didi AI](https://aiinfinity.blogspot.com/p/chatdidi-ai.html) - Didi AI is a digital diviner that can be consulted to answer questions based on artificial intelligence.
