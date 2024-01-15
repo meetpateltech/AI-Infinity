@@ -293,6 +293,8 @@ Switch marketing to autopilot and grow.
 
 [Cohere](https://aiinfinity.blogspot.com/p/customer-supportcohere.html) - Cohere helps CX teams resolve tickets faster while reducing costs, resulting in happier agents and satisfied customers.
 
+[Dear AI](https://www.dearai.online/) - Supercharge Customer Services and boost sales with AI Chatbot
+
 [Delve](https://aiinfinity.blogspot.com/p/customer-supportdelve.html) - Create personas automatically for your business and for your competitor businesses.
 
 [Ebi AI](https://aiinfinity.blogspot.com/p/customer-supportebi-ai.html) - Create your company’s first high performance AI assistant and start delighting customers within 15 minutes; zero coding or technical know-how required.
