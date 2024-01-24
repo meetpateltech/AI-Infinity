@@ -10,9 +10,44 @@
 # ⚠️Update:
 > Hello! Thanks for your support on our AI Infinity GitHub repo. We're continually updating it with 1600+ AI tools, adding categories, prices, and descriptions daily on our Notion Database. For the latest tools, visit our [AI Tools Directory on Notion](https://fentolia.github.io/AI-Infinity-Tools/). Your engagement is appreciated! Plus, explore our [ChatGPT Maximizer Tools](https://max-aiinfinity.vercel.app/).
 
+### Categories:
+- [AI Detection 🕵️](#ai-detection)
+- [Audio 📣](#audio)
+- [Avatars 👤](#avatars)
+- [Chat 💬](#chat)
+- [Coding 🖥️](#coding-tools)
+- [Copywriting ⌨️](#copywriting)
+- [Customer Support 💁](#customer-support)
+- [Design Assistant 🎨](#design-assistant)
+- [Developer 👨‍💻](#developer-tools)
+- [Education 👨‍🏫️](#education)
+- [Email 📧](#email-assistant)
+- [Fashion 👜](#fashion)
+- [Gift Ideas 🎁](#gift-ideas)
+- [Healthcare 🏥](#healthcare)
+- [Image Editing 📷](#image-editing)
+- [Image Generator 🖼️](#image-generator)
+- [Legal Assistant ⚖️](#legal-assistant)
+- [Logo Generator 👨‍🎨️](#logo-generator)
+- [Music 🎵](#music)
+- [No/Low Code 🧩](#lowno-code)
+- [Paraphraser 📝](#paraphraser)
+- [Personalised Video 📼](#personalised-video)
+- [Presentation 📖](#presentation)
+- [Productivity 💻](#productivity)
+- [Prompts 💭](#prompts)
+- [Real Estate 🏠](#real-estate)
+- [Research 🔬](#research)
+- [Search Engine 🔍](#search-engine)
+- [SEO 🌐](#seo)
+- [Social Media Assistant 📱](#social-media-assistant)
+- [Spreadsheets 🗂️](#spreadsheets)
+- [Summarizer 📃](#summarizer)
+- [Text To Speech 📜🎙️](#text-to-speech)
+- [Transcriber 🎧](#transcriber)
+- [Video Editing 📽️](#video-editing)
+- [Video Generator 📹](#video-generator)
 
-### Categories :
-[AI Detection 🕵️](#ai-detection) | [Audio 📣](#audio) | [Avatars 👤](#avatars) | [Chat 💬](#chat) | [Coding 🖥️](#coding-tools) | [Copywriting ⌨️](#copywriting) | [Customer Support 💁](#customer-support) | [Design Assistant 🎨](#design-assistant) | [Developer 👨‍💻](#developer-tools) | [Education 👨‍🏫️](#education) | [Email 📧](#email-assistant) | [Fashion 👜](#fashion) | [Gift Ideas 🎁](#gift-ideas) | [Healthcare 🏥](#healthcare) | [Image Editing 📷](#image-editing) | [Image Generator 🖼️](#image-generator) | [Legal Assistant ⚖️](#legal-assistant) | [Logo Generator 👨‍🎨️](#logo-generator) | [Music 🎵](#music) | [No/Low Code 🧩](#lowno-code) | [Paraphraser 📝](#paraphraser) | [Personalised Video 📼](#personalised-video) | [Presentation 📖](#presentation) | [Productivity 💻](#productivity) | [Prompts 💭](#prompts) | [Real Estate 🏠](#real-estate) | [Research 🔬](#research) | [Search Engine 🔍](#search-engine) | [SEO 🌐](#seo) | [Social Media Assistant 📱](#social-media-assistant) | [Spreadsheets 🗂️](#spreadsheets) | [Summarizer 📃](#summarizer) | [Text To Speech 📜🎙️](#text-to-speech) | [Transcriber 🎧](#transcriber) | [Video Editing 📽️](#video-editing) | [Video Generator 📹](#video-generator)
 
 ### •AI Detection:
 
