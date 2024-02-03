@@ -33,6 +33,7 @@
 - [No/Low Code 🧩](#lowno-code)
 - [Paraphraser 📝](#paraphraser)
 - [Personalised Video 📼](#personalised-video)
+- [Phone Calls 📞](#phone-calls)
 - [Presentation 📖](#presentation)
 - [Productivity 💻](#productivity)
 - [Prompts 💭](#prompts)
@@ -876,6 +877,10 @@ Without knowing how to code, and for free!
 [Vidyo](https://aiinfinity.blogspot.com/p/personalised-videovidyo.html) - Create social ready short clips from your long videos with AI.
 
 [Windsor](https://aiinfinity.blogspot.com/p/personalised-videowindsor.html) - Record one video and use Windsor's AI platform to send millions of personalized videos to your customers.
+
+### •Phone Calls:
+
+[AICaller](https://aicaller.io/?ref=v) - AICaller is a simple-to-use automated bulk calling solution that uses the latest Generative AI technology to trigger phone calls for you and get things done. It can do things like lead qualification, data gathering over phone calls, and much more. It comes with a powerful API, low cost pricing and free trial.
 
 ### •Presentation:
 
