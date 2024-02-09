@@ -509,6 +509,8 @@ without writing any code.
 
 [Ellie](https://aiinfinity.blogspot.com/p/email-assistantellie.html) - Meet Ellie, your AI email assistant! Ellie learns from your writing style and crafts replies as if they were written by you.
 
+[Emilio](https://getemil.io?ref=meetpateltech-ai-infinity) - Stop drowning in emails - Emilio prioritizes and automates your email, saving 60% of your time
+
 [GETitOUT](https://aiinfinity.blogspot.com/p/email-assistantgetitout.html) - Meet GETitOUT’s Persona Generator: Extract personas from competitors. Generate professional texts. Then paste them into all your websites, emails, and marketing tools.
 
 [HoppyCopy](https://aiinfinity.blogspot.com/p/email-assistanthoppycopy.html) - Save countless hours writing. Use AI to generate powerful copy for hundreds of different email marketing campaigns, drips, newsletters and more—in seconds ⚡
