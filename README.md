@@ -485,6 +485,8 @@ without writing any code.
 
 [GPTRouter](https://gpt-router.writesonic.com/) - GPTRouter is an open source LLM API Gateway that offers a universal API for 30+ LLMs, vision, and image models, with smart fallbacks based on uptime and latency, automatic retries, and streaming. Stay operational even when OpenAI is down.
 
+[Pieces](https://pieces.app/) - AI-enabled productivity tool designed to supercharge developer efficiency,with an on-device copilot that helps capture, enrich, and reuse useful materials, streamline collaboration, and solve complex problems through a contextual understanding of dev workflow
+
 ### •Education:
 
 [Caktus](https://aiinfinity.blogspot.com/p/educationcaktus.html) - Writing,Coding,CV,Resume Maker!
