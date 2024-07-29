@@ -452,6 +452,8 @@ Run autoscale Inference!
 
 [Mintlify](https://aiinfinity.blogspot.com/p/developermintlify.html) - Build the documentation you've always wanted. Beautiful out of the box, easy to maintain, and optimized for user engagement.
 
+[Maxim AI](https://www.getmaxim.ai/) - A generative AI evaluation and observability platform, empowering modern AI teams to ship products with quality, reliability, and speed
+
 [Nuclia](https://aiinfinity.blogspot.com/p/developernuclia.html) - The AI search engine delivering the right answers from your data!
 Effortless integration. For any data, including video, wherever it is. 
 
