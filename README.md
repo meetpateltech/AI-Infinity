@@ -147,6 +147,7 @@ Choose Your Character, Create Magical Avatars.
 [Vana](https://aiinfinity.blogspot.com/p/avatarsvana.html) - "Portrait” by Vana is a generative art studio that can create self-portraits of you in infinite styles.
 
 ### •Chat:
+[Twig](https://www.twig.so/) - Twig is an AI assistant that resolves customer issues instantly, supporting both users and support agents 24/7.
 
 [AskNow](https://aiinfinity.blogspot.com/p/chatasknow.html) - Ask Anyone, Anything.
 
