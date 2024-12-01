@@ -52,119 +52,109 @@
 
 ### •AI Detection:
 
-[BusterAI](https://aiinfinity.blogspot.com/p/ai-detection-busterai.html) - Is your text written by a human or AI? Uncover the truth with BusterAI.
+[BusterAI](https://busterai.com/) - Is your text written by a human or AI? Uncover the truth with BusterAI.
 
-[Detect GPT](https://aiinfinity.blogspot.com/p/ai-detection-detect-gpt-chrome-extension.html) - Find out if the pages you browse contain AI-generated content.
+[Detect GPT](https://chromewebstore.google.com/detail/detectgpt-detect-chat-gpt/oadkgbgppkhoaaoepjbcnjejmkknaobg) - Find out if the pages you browse contain AI-generated content.
 
-[GLTR AI Detection](https://aiinfinity.blogspot.com/p/ai-detectiongltr.html) - Catching a Unicorn with GLTR: A tool to detect automatically generated text.
+[GLTR AI Detection](http://gltr.io/) - Catching a Unicorn with GLTR: A tool to detect automatically generated text.
 
-[GPTZero](https://aiinfinity.blogspot.com/p/ai-detectiongptzero.html),[Other](https://etedward-gptzero-main-zqgfwb.streamlit.app/) - GPTZero turns the very technologies used to build ChatGPT around — to detect AI
+[GPTZero](https://gptzero.me/),[Other](https://etedward-gptzero-main-zqgfwb.streamlit.app/) - GPTZero turns the very technologies used to build ChatGPT around — to detect AI
 
-[OpenAI Classifier](https://aiinfinity.blogspot.com/p/ai-detectionopenai-classifierai.html) - A classifier trained to distinguish between AI-written and human-written text.
+[OpenAI Classifier](https://platform.openai.com/ai-text-classifier) - A classifier trained to distinguish between AI-written and human-written text.
 
-[Originaltiy AI](https://aiinfinity.blogspot.com/p/ai-detectionoriginality-ai.html) - A Plagiarism Checker and AI Detector Built for Serious Content Publishers.
+[Originaltiy AI](https://originality.ai/) - A Plagiarism Checker and AI Detector Built for Serious Content Publishers.
 
-[Writer](https://aiinfinity.blogspot.com/p/ai-detectionwriter.html) - AI Content Detector!
+[Writer](https://writer.com/ai-content-detector/) - AI Content Detector!
 
-[ZeroGPT](https://aiinfinity.blogspot.com/p/ai-detectionzerogpt.html) - Detect chatGPT content for Free, simple way & High accuracy. OpenAI detection tool.
+[ZeroGPT](https://www.zerogpt.com/) - Detect chatGPT content for Free, simple way & High accuracy. OpenAI detection tool.
 
 ### •Audio:
 
-[Adobe Audition](https://aiinfinity.blogspot.com/p/audioadobe-audition.html) - Create, mix and design sound effects with the industry’s best digital audio editing software.
+[Adobe Audition](https://www.adobe.com/products/audition.html) - Create, mix and design sound effects with the industry’s best digital audio editing software.
 
-[Adobe Podcast](https://aiinfinity.blogspot.com/p/audioadobe-podcast.html) - AI-powered audio recording and editing, all on the web based!
+[Adobe Podcast](https://podcast.adobe.com/) - AI-powered audio recording and editing, all on the web based!
 
-[AI Mastering](https://aiinfinity.blogspot.com/p/audioai-mastering.html) - AI Mastering is a tool that can easily improve your music.It is possible to balance the loudness and the dynamic range by our powerful limiter.
+[AI Mastering](https://aimastering.com/) - AI Mastering is a tool that can easily improve your music.It is possible to balance the loudness and the dynamic range by our powerful limiter.
 
-[Audio Alter](https://aiinfinity.blogspot.com/p/audioaudio-alter.html) - A collection of easy-to-use web tools for all your audio files.
+[Audio Alter](https://audioalter.com/) - A collection of easy-to-use web tools for all your audio files.
 
-[Audo Studio](https://aiinfinity.blogspot.com/p/audioaudo-studio.html) - Automatically removes background noise and enhances your speech using the latest advancement in audio processing and artificial intelligence. Clean your audio in seconds not hours!
+[Audo Studio](https://audo.ai/) - Automatically removes background noise and enhances your speech using the latest advancement in audio processing and artificial intelligence. Clean your audio in seconds not hours!
 
-[Cleanvoice](https://aiinfinity.blogspot.com/p/audiocleanvoice.html) - Cleanvoice is an artificial intelligence which removes filler sounds, stuttering and mouth sounds from your podcast or audio recording.
+[Cleanvoice](https://cleanvoice.ai/) - Cleanvoice is an artificial intelligence which removes filler sounds, stuttering and mouth sounds from your podcast or audio recording.
 
-[Krisp](https://aiinfinity.blogspot.com/p/audiokrisp.html) - Krisp’s AI removes background voices, noises and echo from all your calls, giving you peace of mind.
+[Krisp](https://krisp.ai/) - Krisp’s AI removes background voices, noises and echo from all your calls, giving you peace of mind.
 
-[Lalal AI](https://aiinfinity.blogspot.com/p/audiolalal-ai.html) - Extract vocal, accompaniment and various instruments from any audio.
+[Lalal AI](https://www.lalal.ai/) - Extract vocal, accompaniment and various instruments from any audio.
 
-[Nonoisy](https://aiinfinity.blogspot.com/p/audiononoisy.html) - AI for podcast audio editing.
+[Nonoisy](https://www.nonoisy.com/) - AI for podcast audio editing.
 
-[Podcast AI](https://aiinfinity.blogspot.com/p/audiopodcast-ai.html) - The AI-generated podcast.
+[Podcast AI](https://podcast.ai/) - The AI-generated podcast.
 
-[Podcastle](https://aiinfinity.blogspot.com/p/audiopodcastle.html) - Studio-quality recording, AI-powered editing, and seamless exporting – all in a single web-based platform.
+[Podcastle](https://podcastle.ai/) - Studio-quality recording, AI-powered editing, and seamless exporting – all in a single web-based platform.
 
-[VoiceMod](https://aiinfinity.blogspot.com/p/audiovoicemod.html) - Free Real-Time Voice Changer.
+[VoiceMod](https://www.voicemod.net/) - Free Real-Time Voice Changer.
 
 ### •Avatars:
 
-[AI Time Machine](https://aiinfinity.blogspot.com/p/avatarsai-time-machine.html) - Create and share mind-blowing AI avatars.
+[AI Time Machine](https://www.myheritage.com/ai-time-machine/) - Create and share mind-blowing AI avatars.
 
-[AIVatar](https://aiinfinity.blogspot.com/p/avatarsaivatar.html) - Create unlimited unique AI-generated magic avatars of yourself Upload a few sample photos of yourself and get hundreds of themed avatars generated by AI.
+[Arti Pics](https://www.arti.pics/) - Arti.pics is AI-powered avatar maker. It allows you to upload a few photos of yourself and generates more than 200 cool-looking avatars in different styles.
 
-[Anime AI](https://aiinfinity.blogspot.com/p/avatarsanimeai.html) - Become an anime hero with AI.
+[Avatar AI](https://photoai.com/ai-avatars?ref=avatarai) - Create your own Al-generated avatars.
 
-[Arti Pics](https://aiinfinity.blogspot.com/p/avatarsartipics.html) - Arti.pics is AI-powered avatar maker. It allows you to upload a few photos of yourself and generates more than 200 cool-looking avatars in different styles.
+[Beb](https://beb.ai/) - Make your own avatars using Al.
 
-[Avatar AI](https://aiinfinity.blogspot.com/p/avatarsavatar-ai.html) - Create your own Al-generated avatars.
+[Dreampic AI](https://dreampic.ai/) - Take your personal brand to the next level. Create stunning, personalized images of yourself in a variety of styles.
 
-[Avatarify](https://aiinfinity.blogspot.com/p/avatarsavatarify.html) - Elevate your online presence with personalized avatars.
+[Gemsouls](https://www.mygemsouls.com/) - Gemsouls is an artificial intelligence platform powering virtual characters and their connections to the real world.
 
-[Beb](https://aiinfinity.blogspot.com/p/avatarsbeb.html) - Make your own avatars using Al.
+[HairGen AI](https://www.hairgen.ai/) - See your hairline lowered with AI right now.
 
-[Dreampic AI](https://aiinfinity.blogspot.com/p/avatarsdreampic-ai.html) - Take your personal brand to the next level. Create stunning, personalized images of yourself in a variety of styles.
-
-[Gemsouls](https://aiinfinity.blogspot.com/p/avatarsgemsouls.html) - Gemsouls is an artificial intelligence platform powering virtual characters and their connections to the real world.
-
-[HairGen AI](https://aiinfinity.blogspot.com/p/avatarshairgenai.html) - See your hairline lowered with AI right now.
-
-[HairStyle AI](https://aiinfinity.blogspot.com/p/avatarshairstyleai.html) - Try new hairstyles
+[HairStyle AI](https://www.hairstyleai.com/) - Try new hairstyles
 with the power of AI.
 
-[HeroPack](https://aiinfinity.blogspot.com/p/avatarsheropack.html) - Make gaming avatars with AI, inspired by video games.
+[HeroPack](https://www.heropack.me/) - Make gaming avatars with AI, inspired by video games.
 
-[In3D](https://aiinfinity.blogspot.com/p/avatarsin3d.html) - Turn people into realistic avatars,Realistic and customizable avatars created with a phone camera within a minute for your metaverse, game, or app.
+[In3D](https://in3d.io/) - Turn people into realistic avatars,Realistic and customizable avatars created with a phone camera within a minute for your metaverse, game, or app.
 
-[Lensa](https://aiinfinity.blogspot.com/p/avatarslensa.html) - Transform your selfies into customised portraits.
+[Lensa](https://prisma-ai.com/lensa) - Transform your selfies into customised portraits.
 
-[Magic AI Avatars](https://aiinfinity.blogspot.com/p/avatarsmagicai-avatar.html) - Get 200+ custom avatars made by artificial intelligence.
+[Magic AI Avatars](https://magicaiavatars.com/) - Get 200+ custom avatars made by artificial intelligence.
 
-[Neural](https://aiinfinity.blogspot.com/p/avatarsneural.html) - Generate Any image or avatar of yourself using AI.
+[Neural](https://neural.cam/studio/) - Generate Any image or avatar of yourself using AI.
 
-[PhotoAI](https://aiinfinity.blogspot.com/p/avatarsphotoai.html) - Create AI photos of yourself.
+[PhotoAI](https://www.photoai.me/) - Create AI photos of yourself.
 
-[Photoshot](https://aiinfinity.blogspot.com/p/avatarsphotoshot.html) - Generate avatars that perfectly capture your unique style.
+[Photoshot](https://photoshot.app/) - Generate avatars that perfectly capture your unique style.
 
-[PictoDream](https://aiinfinity.blogspot.com/p/avatarspictodream.html) - Generate any images of yourself (or another person) in any style or setting using a simple text description.
+[PictoDream](https://pictodream.com/) - Generate any images of yourself (or another person) in any style or setting using a simple text description.
 
-[Profile Picture AI](https://aiinfinity.blogspot.com/p/avatarsprofile-picture-ai.html) - Create your perfect profile picture with AI.
+[Profile Picture AI](https://www.profilepicture.ai/) - Create your perfect profile picture with AI.
 Choose Your Character, Create Magical Avatars.
 
-[ReadyPlayer Me](https://aiinfinity.blogspot.com/p/avatarsreadyplayer-me.html) - Cross-game Avatar Platform for the Metaverse.
+[ReadyPlayer Me](https://readyplayer.me/) - Cross-game Avatar Platform for the Metaverse.
 
-[Reface](https://aiinfinity.blogspot.com/p/avatarsreface.html) - express yourself online with ai avatar.
+[Reface](https://reface.ai/) - express yourself online with ai avatar.
 
-[Unrealme](https://aiinfinity.blogspot.com/p/avatarsunrealme.html) - Get AI generated images of you.
+[Unrealme](https://unrealme.io/) - Get AI generated images of you.
 
-[Vana](https://aiinfinity.blogspot.com/p/avatarsvana.html) - "Portrait” by Vana is a generative art studio that can create self-portraits of you in infinite styles.
+[Vana](https://portrait.vana.com/) - "Portrait” by Vana is a generative art studio that can create self-portraits of you in infinite styles.
 
 ### •Chat:
 
-[AskNow](https://aiinfinity.blogspot.com/p/chatasknow.html) - Ask Anyone, Anything.
+[AskThee](https://askthee.vercel.app/) - Ever wanted to ask a question to a big thinker, artist or scientist? now is your chance.
 
-[AskThee](https://aiinfinity.blogspot.com/p/chataskthee.html) - Ever wanted to ask a question to a big thinker, artist or scientist? now is your chance.
+[Chai](https://www.chai-research.com/) - Chat with AI.
 
-[Chai](https://aiinfinity.blogspot.com/p/chatchai.html) - Chat with AI.
-
-[Character AI](https://aiinfinity.blogspot.com/p/chatcharacter-ai.html) - Character AI lets you create Characters and talk to them.
+[Character AI](https://c.ai) - Character AI lets you create Characters and talk to them.
 
 [Chativon](https://apps.apple.com/us/app/ai-friend-chat-fun-chativon/id6449495972) - Chativon, the ultimate AI friend simulator and virtual companion app! Immerse yourself in a world of exciting conversations with AI companions who are here to be your confidants, advisors, and role-play friends.
 
-[Context](https://aiinfinity.blogspot.com/p/chatcontext.html) - Context is your AI-powered assistant for learning from your favorite websites, e-books, podcasts, videos, and more.
+[Didi AI](https://didiai.vercel.app/) - Didi AI is a digital diviner that can be consulted to answer questions based on artificial intelligence.
 
-[Didi AI](https://aiinfinity.blogspot.com/p/chatdidi-ai.html) - Didi AI is a digital diviner that can be consulted to answer questions based on artificial intelligence.
+[Hello History](https://www.hellohistory.ai/) - Chat with AI generated historical figures.
 
-[Hello History](https://aiinfinity.blogspot.com/p/chathello-history.html) - Chat with AI generated historical figures.
-
-[Poe](https://aiinfinity.blogspot.com/p/chatpoe.html) - Quora's chatbot including Sage, Dragonfly, ChatGPT & Claude!
+[Poe](https://poe.com/) - Quora's chatbot including Sage, Dragonfly, ChatGPT & Claude!
 
 ### •Coding Tools:
 
