@@ -349,6 +349,8 @@ Switch marketing to autopilot and grow.
 
 [Tiledesk](https://aiinfinity.blogspot.com/p/customer-supporttiledesk.html) - The all-in-one customer engagement platform! From lead-gen to post-sales, from WhatsApp to your website.With omni-channel live chat and chatbots
 
+[Twig](https://www.twig.so/) - Twig is an AI assistant that resolves customer issues instantly, supporting both users and support agents 24/7.
+
 [Typewise](https://aiinfinity.blogspot.com/p/customer-supporttypewise.html) - AI Writing Solution for Customer Service and Sales teams.
 
 [Vee](https://aiinfinity.blogspot.com/p/customer-supportvee.html) - effectively implementing business processes for dozens of companies from various industries.
