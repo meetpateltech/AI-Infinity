@@ -936,6 +936,8 @@ Without knowing how to code, and for free!
 
 [Taskade](https://www.taskade.com) - AI-Powered Productivity Suite. Generate Mind Maps, Flow Charts, Workflows Instantly. Organize and Manage Tasks and Projects with AI.
 
+[TextCraft](https://github.com/suncloudsmoon/TextCraft) - Add-in for Microsoft Word that seamlessly integrates essential AI tools, including text generation, proofreading, and more, directly into the user interface.
+
 [TinyWow](https://aiinfinity.blogspot.com/p/productivitytinywow.html) - PDF, video, image and other online tools to make your life easier.
 
 [typly](https://aiinfinity.blogspot.com/p/productivitytyply.html) - Typly is the ultimate cutting edge AI keyboard that helps you to answer all your messages with a single click!
