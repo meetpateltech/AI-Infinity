@@ -1243,3 +1243,5 @@ into podcasts.Listen to any article, PDF, email,etc in your podcast app.
 [Waymark](https://aiinfinity.blogspot.com/p/video-generatorwaymark.html) - Waymark's AI scans the web for local business data and automatically produces a video based on your brand.
 
 [Wowto](https://aiinfinity.blogspot.com/p/video-generatorwowto.html) - Create how-to videos and host an engaging video knowledge base in minutes.
+
+- [Expify - Ultimate AI Tools Directory](https://www.expify.ai) - [GitHub](https://github.com/kherona/expify.ai)
