@@ -206,6 +206,8 @@ Choose Your Character, Create Magical Avatars.
 
 [Hey,GitHub](https://githubnext.com/projects/hey-github/) - Write code without the keyboard! Difficulty typing? Use your voice to code without spelling things out by talking with GitHub Copilot.
 
+[GoCodeo](https://www.gocodeo.com/)- AI agent that lets you build and deploy full-stack apps effortlessly, with one click Vercel deployment and seamless Supabase integration
+
 [Kodezi AI](https://aiinfinity.blogspot.com/p/codingkodezi-ai.html) - Let Kodezi auto generate/correct/comment/optimize your code in seconds.
 
 [Kombai](https://kombai.com/) - A new AI model that you can prompt with UI designs.
