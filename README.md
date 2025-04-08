@@ -928,17 +928,15 @@ Without knowing how to code, and for free!
 
 ### •Real Estate:
 
-[AI Room Planner](https://aiinfinity.blogspot.com/p/real-estateai-room-planner.html) - Get hundreds of interior design ideas for your room - free with no limit.
+[AI Room Planner](https://airoomplanner.com/) - Get hundreds of interior design ideas for your room - free with no limit.
 
-[CoolAlid](https://aiinfinity.blogspot.com/p/real-estatecoolalid.html) - Interior design ideas using AI.
+[GetFloorPlan](https://getfloorplan.com/) - Вoost your sales in real estate!
 
-[GetFloorPlan](https://aiinfinity.blogspot.com/p/real-estategetfloorplan.html) - Вoost your sales in real estate!
+[InteriorAI](https://interiorai.com/) - Interior Design by AI!
 
-[InteriorAI](https://aiinfinity.blogspot.com/p/real-estateinteriorai.html) - Interior Design by AI!
+[Maket](https://www.maket.ai/) - Generative Design for Architectural Planning.
 
-[Maket](https://aiinfinity.blogspot.com/p/real-estatemaket.html) - Generative Design for Architectural Planning.
-
-[RoomGPT](https://aiinfinity.blogspot.com/p/search-engineroomgpt.html) - Generating dream rooms using AI for everyone.
+[RoomGPT](https://www.roomgpt.io/) - Generating dream rooms using AI for everyone.
 
 ### •Research:
 
@@ -1026,21 +1024,15 @@ Without knowing how to code, and for free!
 
 ### •Spreadsheets:
 
-[Arcwise](https://aiinfinity.blogspot.com/p/spreadsheetsarcwise.html) - Your copilot for Google Sheets Instantly understand, clean, and ingest data in Sheets with the AI behind ChatGPT.
-
-[Charm](https://aiinfinity.blogspot.com/p/spreadsheetscharm.html) - Eliminate mundane spreadsheet work.
+[Arcwise](https://arcwise.app/) - Your copilot for Google Sheets Instantly understand, clean, and ingest data in Sheets with the AI behind ChatGPT.
 
 [Excel Formula Bot](https://excelformulabot.com/) - Transform your text instructions into Excel formulas in seconds with the help of AI for free.
 
-[Flowshot](https://aiinfinity.blogspot.com/p/spreadsheets-flowshot.html) - Instantly upgrade your Google Sheets workflow!
+[Flowshot](https://flowshot.ai/) - Instantly upgrade your Google Sheets workflow!
 
-[Formula Generator](https://aiinfinity.blogspot.com/p/spreadsheets-formula-generator.html) - Easily generate excel formulas using our free AI toolkit powered by fine-tuned GPT models.
+[Numerous](https://numerous.ai/) - Numerous can reformat and categorize your cells, generate formulas,and let you access ChatGPT directly inside your sheets.
 
-[Goodlookup](https://www.goodlookup.com/) - Goodlookup is a smart function for spreadsheet users.
-
-[Numerous](https://aiinfinity.blogspot.com/p/spreadsheetsnumerous-ai.html) - Numerous can reformat and categorize your cells, generate formulas,and let you access ChatGPT directly inside your sheets.
-
-[PromptLoop](https://aiinfinity.blogspot.com/p/spreadsheets-promptloop.html) - Use PromptLoop in Google Sheets to transform, extract, or summarize any text with a simple formula that works just like SUM or VLOOKUP and generates answers with powerful AI models.
+[PromptLoop](https://www.promptloop.com/) - Use PromptLoop in Google Sheets to transform, extract, or summarize any text with a simple formula that works just like SUM or VLOOKUP and generates answers with powerful AI models.
 
 [Sheet AI](https://www.sheetai.app/) - ChatGPT inside Sheets.
 
@@ -1055,145 +1047,133 @@ Updating...
 
 ### •Summarizer:
 
-[Bearly](https://aiinfinity.blogspot.com/p/summarybearly.html) - Drop in research papers, pdfs, articles, word docs and more to get a thorough summary of the content.
+[Bearly](https://bearly.ai/) - Drop in research papers, pdfs, articles, word docs and more to get a thorough summary of the content.
 
-[Detengle](https://aiinfinity.blogspot.com/p/summarydetengle.html) - Summarize any legal doc/email/video/audio/article/book etc so you can focus on what matters.
+[Detengle](https://detangle.ai/) - Summarize any legal doc/email/video/audio/article/book etc so you can focus on what matters.
 
-[ExplainThis](https://aiinfinity.blogspot.com/p/summaryexplainthis.html) - Your assistant on the internet to explain key concepts and understand what you're reading.
+[Genei](https://www.genei.io/) - Automatically summarise background reading and produce blogs, articles, and reports faster.
 
-[Genei](https://aiinfinity.blogspot.com/p/summarygenei.html) - Automatically summarise background reading and produce blogs, articles, and reports faster.
+[Otter AI](https://otter.ai/) - Otter is your AI assistant that writes and summarizes meeting notes for your team, 30x faster than you can. 
 
-[Otter AI](https://aiinfinity.blogspot.com/p/summaryotter-ai.html) - Otter is your AI assistant that writes and summarizes meeting notes for your team, 30x faster than you can. 
+[Scholarcy](https://www.scholarcy.com/) - The AI-powered article summarizer.
 
-[Scholarcy](https://aiinfinity.blogspot.com/p/summaryscholarcy.html) - The AI-powered article summarizer.
+[Summarize Tech](https://www.summarize.tech/) - Get a summary of any long YouTube video, like a lecture, live event or a government meeting. Powered by GPT-3.
 
-[Summari](https://aiinfinity.blogspot.com/p/summarysummari.html) - Useful summaries delivered thoughtfully to your audience.
+[Summate](https://summate.it/) - Quickly summarize web articles with OpenAI.
 
-[Summarize Tech](https://aiinfinity.blogspot.com/p/summarysummarize-tech.html) - Get a summary of any long YouTube video, like a lecture, live event or a government meeting. Powered by GPT-3.
+[SummerEyes](https://summereyes.ai/) - Summarize any text on the internet in one click.
 
-[Summate](https://aiinfinity.blogspot.com/p/summarysummate.html) - Quickly summarize web articles with OpenAI.
+[theGist](https://www.thegist.ai/) - Summarize any Slack channel or thread in one click.
 
-[SummerEyes](https://aiinfinity.blogspot.com/p/summarysummereyes.html) - Summarize any text on the internet in one click.
+[TLDR this](https://www.tldrthis.com/) - TLDR This helps you summarize any piece of text into concise, easy to digest content so you can free yourself from information overload.
 
-[theGist](https://aiinfinity.blogspot.com/p/summarythegist.html) - Summarize any Slack channel or thread in one click.
-
-[TLDR this](https://aiinfinity.blogspot.com/p/summarytldr-this.html) - TLDR This helps you summarize any piece of text into concise, easy to digest content so you can free yourself from information overload.
-
-[Upword](https://aiinfinity.blogspot.com/p/summaryupword.html) - Create online summary docs.Grow your knowledge.
+[Upword](https://www.upword.ai/) - Create online summary docs.Grow your knowledge.
 
 ### •Text To Speech:
 
-[Ad Auris](https://aiinfinity.blogspot.com/p/text2speechad-auris.html) - Create a playlist of articles and listen to them on Spotify, Apple Podcasts, and Google Podcasts.
+[Ad Auris](https://www.adauris.ai/) - Create a playlist of articles and listen to them on Spotify, Apple Podcasts, and Google Podcasts.
 
-[Article Audio](https://aiinfinity.blogspot.com/p/text2speech-article-audio.html) - Convert Articles To Audio.
+[Article Audio](https://article.audio/) - Convert Articles To Audio.
 
-[Ask my Book](https://aiinfinity.blogspot.com/p/text2speechask-my-book.html) - This is an experiment in using AI to make my book's content more accessible.
-
-[Audioread](https://aiinfinity.blogspot.com/p/text2speechaudioread.html) - Turn your reads
+[Audioread](https://audioread.com/) - Turn your reads
 into podcasts.Listen to any article, PDF, email,etc in your podcast app.
 
-[ConvAI](https://aiinfinity.blogspot.com/p/text2speechconvai.html) - Easy to use, Conversational AI APIs for Speech Recognition, Language Understanding and generation, and Text To Speech to design your games and speech enabled applications.
+[ConvAI](https://www.convai.com/) - Easy to use, Conversational AI APIs for Speech Recognition, Language Understanding and generation, and Text To Speech to design your games and speech enabled applications.
 
-[Coqui](https://aiinfinity.blogspot.com/p/text2speechcoqui.html) - Direct emotive, generative AI voices for video games, post-production, dubbing and much more…
+[Coqui](https://coqui.ai/) - Direct emotive, generative AI voices for video games, post-production, dubbing and much more…
 
-[Descript](https://aiinfinity.blogspot.com/p/text2speechdescript.html) - Descript's Overdub lets you create a text-to-speech model of your voice or select one from our ultra-realistic stock voices.
+[Descript](https://www.descript.com/regenerate) - Descript's Overdub lets you create a text-to-speech model of your voice or select one from our ultra-realistic stock voices.
 
-[ElevenLabs](https://aiinfinity.blogspot.com/p/text2speechelevenlabs.html) - The most realistic and versatile AI speech software, ever. Eleven brings the most compelling, rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling.
+[ElevenLabs](https://elevenlabs.io/) - The most realistic and versatile AI speech software, ever. Eleven brings the most compelling, rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling.
 
-[FakeYou](https://aiinfinity.blogspot.com/p/text2speechfakeyou.html) - Use FakeYou deep fake tech to say stuff with your favorite characters.
+[FakeYou](https://fakeyou.com/) - Use FakeYou deep fake tech to say stuff with your favorite characters.
 
-[Listnr](https://aiinfinity.blogspot.com/p/text2speechlistnr.html) - AI enabled Text to Voice Generator AI Voice Generator with over 600+ voiceovers in 80+ language.
+[Listnr](https://listnr.ai/) - AI enabled Text to Voice Generator AI Voice Generator with over 600+ voiceovers in 80+ language.
 
-[Murf AI](https://aiinfinity.blogspot.com/p/text2speechmurfai.html) - Go from text to speech with a versatile AI voice generator.
+[Murf AI](https://murf.ai/) - Go from text to speech with a versatile AI voice generator.
 
-[Play ht](https://aiinfinity.blogspot.com/p/text2speechplay-ht.html) - Generate realistic Text to Speech (TTS) audio using our online AI Voice Generator and the best synthetic voices. Instantly convert text in to natural-sounding speech and download as MP3 and WAV audio files.
+[Play ht](https://play.ht/) - Generate realistic Text to Speech (TTS) audio using our online AI Voice Generator and the best synthetic voices. Instantly convert text in to natural-sounding speech and download as MP3 and WAV audio files.
 
-[Resemble AI](https://aiinfinity.blogspot.com/p/text2speech-resemble-ai.html) - AI Voice Generator that sounds real. Create speech-to-speech and text-to-speech AI voices with Resemble's realtime voice cloning software.
+[Resemble AI](https://www.resemble.ai/) - AI Voice Generator that sounds real. Create speech-to-speech and text-to-speech AI voices with Resemble's realtime voice cloning software.
 
-[Speechify](https://aiinfinity.blogspot.com/p/text2speechspeechify.html) - Power through docs, articles, PDFs, email — anything you read — by listening with our leading text-to-speech reader.
+[Speechify](https://speechify.com/) - Power through docs, articles, PDFs, email — anything you read — by listening with our leading text-to-speech reader.
 
-[Symbl AI](https://aiinfinity.blogspot.com/p/text2speechsymbl-ai.html) - Integrate real-time speech-to-text and context understanding, powered by advanced deep learning models, to enable live captioning, track user intents, generate summaries and more from unstructured conversation data.   
+[Symbl AI](https://symbl.ai/) - Integrate real-time speech-to-text and context understanding, powered by advanced deep learning models, to enable live captioning, track user intents, generate summaries and more from unstructured conversation data.   
 
-[Uberduck](https://aiinfinity.blogspot.com/p/text2speechuberduck.html) - Make AI voiceovers with 5,000+ expressive voices.
+[Uberduck](https://www.uberduck.ai/) - Make AI voiceovers with 5,000+ expressive voices.
 
-[Wellsaidlabs](https://aiinfinity.blogspot.com/p/text2speechwellsaidlabs.html) - Beautiful voices at your fingertips with text-to-speech that captivates.
+[Wellsaidlabs](https://www.wellsaid.io/) - Beautiful voices at your fingertips with text-to-speech that captivates.
 
 ### •Transcriber:
 
-[AssembleAI](https://aiinfinity.blogspot.com/p/transcriberassembleai.html) - Access powerful AI models to transcribe and understand speech.
+[AssembleAI](https://www.assemblyai.com/) - Access powerful AI models to transcribe and understand speech.
 
-[Contentfries](https://aiinfinity.blogspot.com/p/transcribercontentfries.html) - Repurpose your long-form videos (we call them potatoes) into crispy bite-sized content fries. Create contextual content for weeks or months ahead faster than ever before.
+[Contentfries](https://www.contentfries.com/) - Repurpose your long-form videos (we call them potatoes) into crispy bite-sized content fries. Create contextual content for weeks or months ahead faster than ever before.
 
-[Fireflies AI](https://aiinfinity.blogspot.com/p/transcriberfireflies-ai.html) - Fireflies.ai helps your team record, transcribe, search, and analyze voice conversations.
+[Fireflies AI](https://fireflies.ai/) - Fireflies.ai helps your team record, transcribe, search, and analyze voice conversations.
 
-[Free Subtitle AI](https://aiinfinity.blogspot.com/p/transcriberfree-subtitle-ai.html) - Video to Subtitle Converter.
+[Free Subtitle AI](https://freesubtitles.ai/) - Video to Subtitle Converter.
 
-[Noty AI](https://aiinfinity.blogspot.com/p/transcribernoty-ai.html) - Bye-Bye notepads! We've got Noty.ai, an AI-powered meeting assistant - transforming meetings into Transcriptions.
+[Noty AI](https://noty.ai/) - Bye-Bye notepads! We've got Noty.ai, an AI-powered meeting assistant - transforming meetings into Transcriptions.
 
-[Peech](https://aiinfinity.blogspot.com/p/transcriberpeech.html) - Automatically transcribe, edit, repurpose, and brand your video content.
+[Peech](https://www.peech-ai.com/) - Automatically transcribe, edit, repurpose, and brand your video content.
 
-[Steno](https://aiinfinity.blogspot.com/p/transcribersteno.html) - Your favorite podcasts, fully transcribed.
+[Steno](https://www.steno.ai/) - Your favorite podcasts, fully transcribed.
 
-[Supertranslate](https://aiinfinity.blogspot.com/p/transcribersupertranslate.html) - The fastest way to add English subtitles to any language video Powered by OpenAI's Whisper.
+[Supertranslate](https://www.supertranslate.ai/) - The fastest way to add English subtitles to any language video Powered by OpenAI's Whisper.
 
-[Type Studio](https://aiinfinity.blogspot.com/p/transcribertype-studio.html) - Type Studio is a text-based video editor that takes your video and transcribes it into text automatically.
+[Type Studio](https://streamlabs.com/podcast-editor/features/video-to-text) - Type Studio is a text-based video editor that takes your video and transcribes it into text automatically.
 
-[Whisper Memos](https://aiinfinity.blogspot.com/p/transcriberwhisper-memos.html) - Whisper Memos uses the latest AI technology to turn your voice memos into accurate transcripts.
+[Whisper Memos](https://whispermemos.com/) - Whisper Memos uses the latest AI technology to turn your voice memos into accurate transcripts.
 
-[YouTube Transcript](https://aiinfinity.blogspot.com/p/transcriberyoutube-transcript.html) - Enter Youtube Video URL and get a transcript text.
+[YouTube Transcript](https://youtubetranscript.com/) - Enter Youtube Video URL and get a transcript text.
 
 ### •Video Editing:
 
-[Clickdrop](https://aiinfinity.blogspot.com/p/video-editingclickdrop.html) - Create stunning visuals in seconds
+[Clickdrop](https://clipdrop.co/) - Create stunning visuals in seconds
 
-[Dubverse](https://aiinfinity.blogspot.com/p/video-editingdubverse.html) - Easiest (and magical) way to Dub videos.
+[Dubverse](https://dubverse.ai/) - Easiest (and magical) way to Dub videos.
 
-[Elai](https://aiinfinity.blogspot.com/p/video-editingelai.html) - Build customized AI videos with a presenter in minutes without using a camera, studio and a greenscreen.
+[Elai](https://elai.io/) - Build customized AI videos with a presenter in minutes without using a camera, studio and a greenscreen.
 
-[Gling](https://aiinfinity.blogspot.com/p/video-editinggling.html) - Our AI will cut silences and bad takes for you so you can focus on your YouTube videos.
+[Gling](https://www.gling.ai/) - Our AI will cut silences and bad takes for you so you can focus on your YouTube videos.
 
-[Papercup](https://aiinfinity.blogspot.com/p/video-editingpapercup.html) - Discover the faster, more affordable way to go global with your existing video content using AI dubbing.
+[Papercup](https://www.papercup.com/) - Discover the faster, more affordable way to go global with your existing video content using AI dubbing.
 
-[Perfectly Clear Video](https://aiinfinity.blogspot.com/p/video-editingperfectly-clear-video.html) - Power Your Video with Perfectly Clear’s AI Automatic Video Enhancement.
+[Perfectly Clear Video](https://eyeq.photos/automatic-ai-video-enhancement/) - Power Your Video with Perfectly Clear’s AI Automatic Video Enhancement.
 
-[Pictory](https://aiinfinity.blogspot.com/p/video-editingpictory.html) - Automatically create short, highly-sharable branded videos from your long form content.
+[Pictory](https://pictory.ai/) - Automatically create short, highly-sharable branded videos from your long form content.
 
-[Runwayml](https://aiinfinity.blogspot.com/p/video-editingrunwayml.html) - With 30+ AI Magic Tools, real-time video editing, collaboration, and more, Runway is your next-generation content creation suite.
+[Runwayml](https://runwayml.com/) - With 30+ AI Magic Tools, real-time video editing, collaboration, and more, Runway is your next-generation content creation suite.
 
-[Topaz Video AI](https://aiinfinity.blogspot.com/p/video-editingtopaz-video-ai.html) - Unlimited access to the world’s leading production-grade neural networks for video upscaling, deinterlacing, motion interpolation, and shake stabilization.
+[Topaz Video AI](https://www.topazlabs.com/topaz-video-ai) - Unlimited access to the world’s leading production-grade neural networks for video upscaling, deinterlacing, motion interpolation, and shake stabilization.
 
-[Unscreen](https://aiinfinity.blogspot.com/p/video-editingunscreen.html) - Remove Video Background.
+[Unscreen](https://www.unscreen.com/) - Remove Video Background.
 
-[Veed](https://aiinfinity.blogspot.com/p/video-editingveed.html) - Your audience prefers video. Wow them with VEED, the fastest and easiest way to make professional-quality videos.
+[Veed](https://www.veed.io/) - Your audience prefers video. Wow them with VEED, the fastest and easiest way to make professional-quality videos.
 
-[Xpression Camera](https://aiinfinity.blogspot.com/p/video-editingxpression-camera.html) - The only real-time generative AI app for video chatting and live streaming.
+[Xpression Camera](https://xpressioncamera.com/) - The only real-time generative AI app for video chatting and live streaming.
 
 ### •Video Generator:
 
-[Colossyan](https://aiinfinity.blogspot.com/p/video-generatorcolossyan.html) - Simply type in your text and have a video ready in 70+ languages within minutes.
+[Colossyan](https://www.colossyan.com/) - Simply type in your text and have a video ready in 70+ languages within minutes.
 
-[Studio (D-ID)](https://aiinfinity.blogspot.com/p/video-generatorstudio-d-id.html) - You can now create videos of Digital Humans at an unbelievable scale.Combine your ideas with our tech to create astonishing visuals that are high quality and customized to your needs.
+[Studio (D-ID)](https://studio.d-id.com/) - You can now create videos of Digital Humans at an unbelievable scale.Combine your ideas with our tech to create astonishing visuals that are high quality and customized to your needs.
 
-[Fliki](https://aiinfinity.blogspot.com/p/video-generatorfliki.html) - Turn text into videos with AI voices.
+[Fliki](https://fliki.ai/) - Turn text into videos with AI voices.
 
-[Hourone](https://aiinfinity.blogspot.com/p/video-generatorhourone.html) - Boost your content within minutes by converting text into highly engaging videos with virtual human presenters.
+[Hourone](https://hourone.ai/) - Boost your content within minutes by converting text into highly engaging videos with virtual human presenters.
 
-[InVideo](https://aiinfinity.blogspot.com/p/video-generatorinvideo.html) - Convert your script, article, or blog into video in minutes using InVideo’s AI based Text-to-Video editor.
+[InVideo](https://invideo.io/) - Convert your script, article, or blog into video in minutes using InVideo’s AI based Text-to-Video editor.
 
-[Movio](https://aiinfinity.blogspot.com/p/video-generatormovio.html) - Turn text into spokesperson video by typing and clicking.
+[Movio](https://www.heygen.com/?from=moviola) - Turn text into spokesperson video by typing and clicking.
 
-[OASIS](https://aiinfinity.blogspot.com/p/video-generatoroasis.html) - Create Video With Your Voice, Powered by Generative AI.
+[Shuffll](https://shuffll.com/) - With the power of AI, we create videos that people ACTUALLY want to watch.
 
-[Opus](https://aiinfinity.blogspot.com/p/video-generatoropus.html) - TURNS TEXT TO VIDEO.
+[Steve AI](https://www.steve.ai/) - With our patented AI technology, you can make professional videos in MINUTES. See the MAGIC happen as the AI picks the right creative media assets for your Video.
 
-[Phenaki](https://aiinfinity.blogspot.com/p/video-generatorphenaki.html) - Realistic video generation from open-domain textual descriptions.
+[Synthesia](https://www.synthesia.io/) - Create videos from plain text in minutes.
 
-[Shuffll](https://aiinfinity.blogspot.com/p/video-generatorshuffll.html) - With the power of AI, we create videos that people ACTUALLY want to watch.
+[Waymark](https://waymark.com/) - Waymark's AI scans the web for local business data and automatically produces a video based on your brand.
 
-[Steve AI](https://aiinfinity.blogspot.com/p/video-generatorsteve-ai.html) - With our patented AI technology, you can make professional videos in MINUTES. See the MAGIC happen as the AI picks the right creative media assets for your Video.
-
-[Synthesia](https://aiinfinity.blogspot.com/p/video-generatorsynthesia.html) - Create videos from plain text in minutes.
-
-[Waymark](https://aiinfinity.blogspot.com/p/video-generatorwaymark.html) - Waymark's AI scans the web for local business data and automatically produces a video based on your brand.
-
-[Wowto](https://aiinfinity.blogspot.com/p/video-generatorwowto.html) - Create how-to videos and host an engaging video knowledge base in minutes.
+[Wowto](https://wowto.ai/) - Create how-to videos and host an engaging video knowledge base in minutes.
