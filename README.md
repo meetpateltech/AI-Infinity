@@ -451,15 +451,13 @@ without writing any code.
 
 ### •Education:
 
-[Caktus](https://aiinfinity.blogspot.com/p/educationcaktus.html) - Writing,Coding,CV,Resume Maker!
+[Caktus](https://caktus.ai/) - Writing,Coding,CV,Resume Maker!
 
-[MindSmith](https://aiinfinity.blogspot.com/p/educationmindsmith.html) - Mindsmith is a learning platform that uses generative AI to make it easy to create and share course material and training.
+[MindSmith](https://www.mindsmith.ai/) - Mindsmith is a learning platform that uses generative AI to make it easy to create and share course material and training.
 
-[Quizgecko](https://aiinfinity.blogspot.com/p/educationquizgecko.html) - Quizgecko is a fast, free text to question generator, powered by AI.
+[Quizgecko](https://quizgecko.com/) - Quizgecko is a fast, free text to question generator, powered by AI.
 
-[TutorAI](https://aiinfinity.blogspot.com/p/educationtutorai.html) - Learn anything  
-
-[Yip](https://aiinfinity.blogspot.com/p/educationyip.html) - Enter your Notes or any URL and Yip 🤖 will generate a quiz automatically from them.
+[TutorAI](https://tutorai.me/) - Learn anything  
 
 [MathSolver](mathsolver.top) - A FREE AI Math Problem Solver to Provide Step-by-Step Solution and Personalized Tutoring. 25% higher accuracy than ChatGPT
 
@@ -525,41 +523,31 @@ create personalized cold emails that get more replies at scale.
 
 ### •Fashion:
 
-[Botika](https://aiinfinity.blogspot.com/p/fashionbotika.html) - Reinvent fashion photoshoots! Generate an endless variety of hyper-realistic on-model photos. 10X faster, at a fraction of the costs.
+[Botika](https://botika.io/) - Reinvent fashion photoshoots! Generate an endless variety of hyper-realistic on-model photos. 10X faster, at a fraction of the costs.
 
-[Cala](https://aiinfinity.blogspot.com/p/fashioncala.html) - CALA is the leading fashion design interface that unifies the entire design process – from product ideation all the way through e-commerce enablement and order fulfillment – into a single digital platform. 
-
-[FashionAdvisorAI](https://aiinfinity.blogspot.com/p/fashionfashionadvisorai.html) - having trouble deciding what to wear with what? i had to so here i am writing about it.
-
-[VisualHound](https://aiinfinity.blogspot.com/p/fashionvisualhound.html) - Prototype your fashion design ideas with AI.
+[Cala](https://www.ca.la/) - CALA is the leading fashion design interface that unifies the entire design process – from product ideation all the way through e-commerce enablement and order fulfillment – into a single digital platform.
 
 ### •Fun:
 
-[Excuses Generator](https://aiinfinity.blogspot.com/p/funexcuses.html) - Generate excuses with AI for when you mess up.
+[Excuses Generator](https://excuses.ai/) - Generate excuses with AI for when you mess up.
 
 [Roasted by AI](https://www.roastedby.ai/) - roast chat with AI.
 
 ### •Gift Ideas:
 
-[Cool Gift Ideas](https://aiinfinity.blogspot.com/p/giftcool-gift-ideas.html) - Give the perfect gift! Discover creative gift ideas for anyone based on who they are.
+[Cool Gift Ideas](https://www.coolgiftideas.io/) - Give the perfect gift! Discover creative gift ideas for anyone based on who they are.
 
-[Elf Help](https://aiinfinity.blogspot.com/p/giftelf-help.html) - Elf Help is your ultimate gift-giving assistant, offering creative and personalized suggestions for everyone on your list, all for free.
+[Giftastic AI](https://www.intelli.gift/) - Describe the person you want the gift for as accurately as possible, and we recommend suitable and personalized gifts for your special one!
 
-[Giftastic AI](https://aiinfinity.blogspot.com/p/giftgiftastic-ai.html) - Describe the person you want the gift for as accurately as possible, and we recommend suitable and personalized gifts for your special one!
-
-[Gifts Genie](https://aiinfinity.blogspot.com/p/giftgifts-genie.html) - Describe your loved one's interests!
-
-[Suggest Gift](https://aiinfinity.blogspot.com/p/giftsuggest-gift.html) - AI Powered Gift Suggestions!
+[Gifts Genie](https://gen.gifts/) - Describe your loved one's interests!
 
 ### •Healthcare:
 
-[Cradle](https://aiinfinity.blogspot.com/p/healthcarecradle.html) - Cradle helps biologists design improved proteins in record time using powerful prediction algorithms and AI design suggestions.
+[Cradle](https://www.cradle.bio/) - Cradle helps biologists design improved proteins in record time using powerful prediction algorithms and AI design suggestions.
 
-[Medical Diagnosis Assistant](https://aiinfinity.blogspot.com/p/healthcaremedical-diagnosis-assistant.html) - Experience the future of healthcare with our ChatGPT-powered medical diagnostic and symptom checking tool.
+[Medical Diagnosis Assistant](https://medicaldiagnosticassistant.streamlit.app/) - Experience the future of healthcare with our ChatGPT-powered medical diagnostic and symptom checking tool.
 
-[Symptom Checker](https://aiinfinity.blogspot.com/p/healthcaresymptom-checker.html) - AI Powered Medical Symptom Checker.
-
-[Whisper AI](https://aiinfinity.blogspot.com/p/healthcarewhisper-ai.html) - Meet Whisper, the new hearing system that gets better over time.
+[Symptom Checker](https://symptomchecker.io/) - AI Powered Medical Symptom Checker.
 
 ### •Image Editing:
 
@@ -662,13 +650,11 @@ SlashDreamer introduces a new command: /dream
 
 ### •Logo Generator:
 
-[Brandmark](https://aiinfinity.blogspot.com/p/logobrandmark.html) - AI-powered design tools to get color and font ideas for your next logo project.
+[Brandmark](https://brandmark.io/tools/) - AI-powered design tools to get color and font ideas for your next logo project.
 
-[Looka](https://aiinfinity.blogspot.com/p/logolooka.html) - Use Looka's AI-powered platform to design a logo and build a brand you love.
+[Looka](https://looka.com/) - Use Looka's AI-powered platform to design a logo and build a brand you love.
 
-[Make Logo AI](https://aiinfinity.blogspot.com/p/logomake-logo-ai.html) - Make Unique logos with AI.
-
-[Tailor Brands](https://aiinfinity.blogspot.com/p/logotailor-brands.html) -  Tailor brands logo creator uses AI to create custom logos in just a few clicks. 
+[Tailor Brands](https://www.tailorbrands.com/logo-maker) -  Tailor brands logo creator uses AI to create custom logos in just a few clicks. 
 
 ### •Music:
 
@@ -852,17 +838,17 @@ Without knowing how to code, and for free!
 
 ### •Presentation:
 
-[Beutiful AI](https://aiinfinity.blogspot.com/p/presentationbeutiful-ai.html) - Presentation software that designs for you.
+[Beutiful AI](https://www.beautiful.ai/) - Presentation software that designs for you.
 
-[GPT for Slides](https://aiinfinity.blogspot.com/p/presentationgpt-for-slides.html) - Generate beautiful presentations in seconds for free with GPT.
+[GPT for Slides](https://www.gptforslides.app/) - Generate beautiful presentations in seconds for free with GPT.
 
-[Magic Slides](https://aiinfinity.blogspot.com/p/presentationmagic-slides.html) - Your Ideas into Professional Presentations in Seconds with AI
+[Magic Slides](https://www.magicslides.app/) - Your Ideas into Professional Presentations in Seconds with AI
 
-[Motionit](https://aiinfinity.blogspot.com/p/presentationmotionit.html) - MotionIt.ai creates professional slides & videos for pitch decks, conference presentations & more.
+[Motionit](https://www.motionit.ai/) - MotionIt.ai creates professional slides & videos for pitch decks, conference presentations & more.
 
-[Powerpresent AI](https://aiinfinity.blogspot.com/p/presentationpowerpresent-ai.html),[Alt Link](https://aiinfinity.blogspot.com/p/presentation-present-yaara.html) - Create amazing presentations 10X faster with AI.
+[Powerpresent AI](https://powerpresent.ai/) - Create amazing presentations 10X faster with AI.
 
-[SlidesAI](https://aiinfinity.blogspot.com/p/presentationslidesai.html) - Create Presentation Slides with AI in seconds.
+[SlidesAI](https://www.slidesai.io/) - Create Presentation Slides with AI in seconds.
 
 ### •Productivity:
 
@@ -956,35 +942,33 @@ Without knowing how to code, and for free!
 
 ### •Research:
 
-[Consensus](https://aiinfinity.blogspot.com/p/researchconsensus.html) - Evidence-Based Answers, Faster!
+[Consensus](https://consensus.app/) - Evidence-Based Answers, Faster!
 
-[Elicit](https://aiinfinity.blogspot.com/p/researchelicit.html) - The AI Research Assistant! Elicit uses language models to help you automate research workflows, like parts of literature review.
+[Elicit](https://elicit.com/) - The AI Research Assistant! Elicit uses language models to help you automate research workflows, like parts of literature review.
 
-[Scispace](https://aiinfinity.blogspot.com/p/researchscispace.html) - Your AI Copilot to decode any research paper.
+[Scispace](https://scispace.com/) - Your AI Copilot to decode any research paper.
 
-[Scite](https://aiinfinity.blogspot.com/p/researchscite.html) - scite is a Brooklyn-based startup that helps researchers better discover and understand research articles through Smart Citations.
+[Scite](https://scite.ai/) - scite is a Brooklyn-based startup that helps researchers better discover and understand research articles through Smart Citations.
 
 ### •Search Engine:
 
-[Andi](https://aiinfinity.blogspot.com/p/search-engineandi.html) - Your smart search assistant.
+[Andi](https://andisearch.com/) - Your smart search assistant.
 
-[ChatGPT](https://aiinfinity.blogspot.com/p/search-enginechatgpt.html) - ChatGPT is an AI-based conversational agent designed to provide answers to a wide range of questions on various topics.
+[ChatGPT](https://chatgpt.com/) - ChatGPT is an AI-based conversational agent designed to provide answers to a wide range of questions on various topics.
 
-[Chatsonic](https://aiinfinity.blogspot.com/p/search-enginechatsonic.html) - ChatGPT Alternative Built With Superpowers!
+[Chatsonic](https://writesonic.com/chat) - ChatGPT Alternative Built With Superpowers!
 
-[Crowdview](https://aiinfinity.blogspot.com/p/search-enginecrowdview.html) - Forum Search Engine!
+[Crowdview](https://crowdview.ai/) - Forum Search Engine!
 
-[FAQx](https://aiinfinity.blogspot.com/p/search-enginefaqx.html) - Say Goodbye to Endless Searches, Get Facts on FAQx.
+[FAQx](https://www.dicer.ai/) - Say Goodbye to Endless Searches, Get Facts on FAQx.
 
-[Metaphor](https://aiinfinity.blogspot.com/p/search-enginemetaphor.html) - Metaphor is a search engine that predicts the next link, similar to the way that GPT-3 predicts the next word.
+[Metaphor](https://exa.ai/) - Metaphor is a search engine that predicts the next link, similar to the way that GPT-3 predicts the next word.
 
-[Neeva](https://aiinfinity.blogspot.com/p/search-engineneeva.html) - Search Powered by AI! Get Answers.Not Ads.
+[Perplexity AI](https://www.perplexity.ai/) - Perplexity AI unlocks the power of knowledge with information discovery and sharing. 
 
-[Perplexity AI](https://aiinfinity.blogspot.com/p/search-engineperplexity-ai.html) - Perplexity AI unlocks the power of knowledge with information discovery and sharing. 
+[Phind](https://www.phind.com/) - The AI search engine for developers.
 
-[Phind](https://aiinfinity.blogspot.com/p/search-enginephind.html) - The AI search engine for developers.
-
-[You](https://aiinfinity.blogspot.com/p/search-engineyou.html) - The AI Search Engine You Control
+[You](https://you.com/) - The AI Search Engine You Control
 
 ### •SEO:
 
@@ -1213,5 +1197,3 @@ into podcasts.Listen to any article, PDF, email,etc in your podcast app.
 [Waymark](https://aiinfinity.blogspot.com/p/video-generatorwaymark.html) - Waymark's AI scans the web for local business data and automatically produces a video based on your brand.
 
 [Wowto](https://aiinfinity.blogspot.com/p/video-generatorwowto.html) - Create how-to videos and host an engaging video knowledge base in minutes.
-
-- [Expify - Ultimate AI Tools Directory](https://www.expify.ai) - [GitHub](https://github.com/kherona/expify.ai)
