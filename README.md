@@ -204,126 +204,108 @@ Choose Your Character, Create Magical Avatars.
 
 ### •CopyWriting:
 
-[Adcreative AI](https://aiinfinity.blogspot.com/p/copywritingadcreative-ai.html) - Generate conversion focused ad creatives and social media post creatives in a matter of seconds using Artificial Intelligence.
+[Adcreative AI](https://www.adcreative.ai/) - Generate conversion focused ad creatives and social media post creatives in a matter of seconds using Artificial Intelligence.
 
-[Anyword](https://aiinfinity.blogspot.com/p/copywritinganyword.html) - Get more conversions and drive more sales with an AI writer that generates and optimizes your copy. Powerful predictive analytics tells you what works before you publish.
+[Anyword](https://www.anyword.com/) - Get more conversions and drive more sales with an AI writer that generates and optimizes your copy. Powerful predictive analytics tells you what works before you publish.
 
-[ArticleForge](https://aiinfinity.blogspot.com/p/copywritingarticleforge.html) - Using advanced artificial intelligence and deep learning, Article Forge writes entire 1,500+ word articles automatically.
+[ArticleForge](https://www.articleforge.com/) - Using advanced artificial intelligence and deep learning, Article Forge writes entire 1,500+ word articles automatically.
 
-[Bertha AI](https://aiinfinity.blogspot.com/p/copywritingbertha-ai.html) - The copywriting assistant for WordPress and beyond.
+[Bertha AI](https://bertha.ai/) - The copywriting assistant for WordPress and beyond.
 
-[Botowski](https://aiinfinity.blogspot.com/p/copywritingbotowski.html) - Botowski is an AI content generator that can be used by copywriters, business owners, and others to create high-quality content. It can create articles, blog posts, and even essays on a variety of topics. Botowski is designed to be user-friendly; all you need to do is input a topic, and it will take care of the rest.
+[Closers Copy](https://www.closerscopy.com/) - Leverage the secrets of the most powerful copy in the world...and let your copywriting robot bring them to life!
 
-[Closers Copy](https://aiinfinity.blogspot.com/p/copywritingclosers-copy.html) - Leverage the secrets of the most powerful copy in the world...and let your copywriting robot bring them to life!
+[Copy.ai](https://www.copy.ai/) - Leverage AI to write your content and copy in minutes.Generate high-converting copy for all your campaigns with just a few clicks.
 
-[Contents](https://aiinfinity.blogspot.com/p/copywritingcontents.html) - The Generative AI platform to make content creation easy and built for performance.
-
-[Copy.ai](https://aiinfinity.blogspot.com/p/copywritingcopy-ai.html) - Leverage AI to write your content and copy in minutes.Generate high-converting copy for all your campaigns with just a few clicks.
-
-[Copymatic](https://aiinfinity.blogspot.com/p/copywritingcopymatic.html) -Generate Content, Copy & Images with AI Use AI to boost your traffic and save hours of work.Automatically write unique, engaging and high-quality copy or content: from long-form blog posts or landing pages to digital ads in seconds.
+[Copymatic](https://copymatic.ai/) -Generate Content, Copy & Images with AI Use AI to boost your traffic and save hours of work.Automatically write unique, engaging and high-quality copy or content: from long-form blog posts or landing pages to digital ads in seconds.
  
-[CopyMonkey](https://aiinfinity.blogspot.com/p/copywritingcopymonkey.html) - CopyMonkey generates and optimizes Amazon listings in seconds. AI helps place all of the important keywords in your Amazon listing to get you ranking organically on the first page.
+[CopyMonkey](https://copymonkey.ai/) - CopyMonkey generates and optimizes Amazon listings in seconds. AI helps place all of the important keywords in your Amazon listing to get you ranking organically on the first page.
 
-[Copysmith](https://aiinfinity.blogspot.com/p/copywritingcopysmith.html) - Copysmith is the AI content creation solution for Enterprise & eCommerce.
+[Copysmith](https://copysmith.ai/) - Copysmith is the AI content creation solution for Enterprise & eCommerce.
 
-[Cowriter](https://aiinfinity.blogspot.com/p/copywritingcowriter.html) - Unlock your best writing. Meet your AI writer to help speed up and inspire your creative writing
+[Cowriter](https://cowriter.org/) - Unlock your best writing. Meet your AI writer to help speed up and inspire your creative writing
 
-[Creator AI](https://aiinfinity.blogspot.com/p/copywritingcreator-ai.html) - Creaitor will help you write content in a more powerful, emotionally expressive way.
+[Creator AI](https://www.creaitor.ai/) - Creaitor will help you write content in a more powerful, emotionally expressive way.
 
-[Daydrm AI](https://aiinfinity.blogspot.com/p/copywritingdaydrm-ai.html) - AI tool for creative advertising ideas
+[Daydrm AI](https://www.daydrm.ai/) - AI tool for creative advertising ideas
 
-[DigitalFirst AI](https://aiinfinity.blogspot.com/p/copywritingdigitalfirst-ai.html) - Find the best growth-hacking tactics for your business with AI
+[DigitalFirst AI](https://www.digitalfirst.ai/) - Find the best growth-hacking tactics for your business with AI
 Switch marketing to autopilot and grow.
 
-[Easy-Peasy AI](https://aiinfinity.blogspot.com/p/copywritingeasy-peasy-ai.html) - Easy-Peasy.AI is the AI Content Generator that helps you and your team break through creative blocks to create amazing, original content 10X faster.
+[Easy-Peasy AI](https://easy-peasy.ai/) - Easy-Peasy.AI is the AI Content Generator that helps you and your team break through creative blocks to create amazing, original content 10X faster.
 
-[Eilla AI](https://aiinfinity.blogspot.com/p/copywritingeilla-ai.html) - Generate content in seconds and save valuable time for your team with the power of AI.
+[Eilla AI](https://eilla.ai/) - Generate content in seconds and save valuable time for your team with the power of AI.
 
-[Go Charlie](https://aiinfinity.blogspot.com/p/copywritinggo-charlie.html) - The Content Creator’s New Best Friend!
+[HelloScribe](https://www.helloscribe.ai/) - HelloScribe's AI writing and brainstorming tools help PR and Marketing professionals work smarter and faster without creative blocks or wasted time.
 
-[HelloScribe](https://aiinfinity.blogspot.com/p/copywritinghelloscribe.html) - HelloScribe's AI writing and brainstorming tools help PR and Marketing professionals work smarter and faster without creative blocks or wasted time.
+[Hypotenuse AI](https://www.hypotenuse.ai/) - Provide a few keywords, and we’ll instantly turn them into full-length articles and marketing content, using our world-class AI with a vast knowledge of the world.
 
-[Hypotenuse AI](https://aiinfinity.blogspot.com/p/copywritinghypotenuse-ai.html) - Provide a few keywords, and we’ll instantly turn them into full-length articles and marketing content, using our world-class AI with a vast knowledge of the world.
+[Jasper](https://www.jasper.ai/) - Jasper is the AI Content Generator that helps you and your team break through creative blocks to create amazing, original content 10X faster.
 
-[Jasper](https://aiinfinity.blogspot.com/p/copywritingjasper.html) - Jasper is the AI Content Generator that helps you and your team break through creative blocks to create amazing, original content 10X faster.
+[Ocoya](https://www.ocoya.com/) - A platform to create, auto-generate and schedule content quicker.Content marketing, copywriting and social media with the power of AI.
 
-[Lek](https://aiinfinity.blogspot.com/p/copywritinglek.html) - Write Anything For Everything The fastest and easiest way to create content and copy.
+[ParagraphAI](https://www.paragraphai.com/) - AI Writing App to Write Better, Faster
 
-[Ocoya](https://aiinfinity.blogspot.com/p/copywritingocoya.html) - A platform to create, auto-generate and schedule content quicker.Content marketing, copywriting and social media with the power of AI.
+[Peppertype AI](https://www.peppercontent.io/peppertype-ai/) - Your Virtual Content Assistant Generate content that converts in seconds.
 
-[ParagraphAI](https://aiinfinity.blogspot.com/p/copywritingparagraph-ai.html) - AI Writing App to Write Better, Faster
+[Rytr](https://rytr.me/) - Rytr is an AI writing assistant that helps you create high-quality content, in just a few seconds, at a fraction of the cost!
 
-[Peppertype AI](https://aiinfinity.blogspot.com/p/copywritingpeppertype-ai.html) - Your Virtual Content Assistant Generate content that converts in seconds.
+[Scalenut](https://www.scalenut.com/features/ai-copywriter) - The AI Copywriting Assistant, You Always Wanted Supercharge your copywriting with the world's best AI copywriter by Scalenut.
 
-[Rytr](https://aiinfinity.blogspot.com/p/copywritingrytr.html) - Rytr is an AI writing assistant that helps you create high-quality content, in just a few seconds, at a fraction of the cost!
+[Simplified](https://simplified.com/ai-writer) - Generate 50+ types of copy in seconds with the AI Writer. Write unique & plagiarism-free content for blogs, articles, ads, products, websites & social media.
 
-[Scalenut](https://aiinfinity.blogspot.com/p/copywritingscalenut.html) - The AI Copywriting Assistant, You Always Wanted Supercharge your copywriting with the world's best AI copywriter by Scalenut.
+[Typli](https://typli.ai/) - The most intuitive AI Content tool which combines AI Writing and an SEO Assistant.
 
-[Simplified](https://aiinfinity.blogspot.com/p/copywritingsimplified.html) - Generate 50+ types of copy in seconds with the AI Writer. Write unique & plagiarism-free content for blogs, articles, ads, products, websites & social media.
+[unbounce](https://unbounce.com/product/smart-copy/) - With Smart Copy, you'll be able to ideate, iterate, and write  custom, high-quality, engaging professional copy for your company, website, or blog quickly and easily. 
 
-[Texti](https://aiinfinity.blogspot.com/p/copywritingtexti.html) - AI that lives in your browser! It will cooperate with you to boost  your content quality!
+[VEG3](https://veg3.ai/) - world's first vegan artificial intelligence marketing assistant.
 
-[Typli](https://aiinfinity.blogspot.com/p/copywritingtypli.html) - The most intuitive AI Content tool which combines AI Writing and an SEO Assistant.
+[WiziShop](https://wizishop.com/ai) - Use WiziShop's Artificial Intelligence to write your product descriptions, find inspiration for your future articles, easily go international, and generate more traffic to your store!
 
-[unbounce](https://aiinfinity.blogspot.com/p/copywritingunbounce.html) - With Smart Copy, you'll be able to ideate, iterate, and write  custom, high-quality, engaging professional copy for your company, website, or blog quickly and easily. 
+[Writesonic](https://writesonic.com/) - Create SEO-optimized and plagiarism-free content for your blogs, ads, emails, and website 10X faster.
 
-[Unbound](https://aiinfinity.blogspot.com/p/copywritingunbound.html) - Leverage all the best AI generation tools in one place designed to automate content creation for small business, online shops and creators.
-
-[VEG3](https://aiinfinity.blogspot.com/p/copywritingveg3.html) - world's first vegan artificial intelligence marketing assistant.
-
-[WiziShop](https://aiinfinity.blogspot.com/p/copywritingwizishop.html) - Use WiziShop's Artificial Intelligence to write your product descriptions, find inspiration for your future articles, easily go international, and generate more traffic to your store!
-
-[Writesonic](https://aiinfinity.blogspot.com/p/copywritingwritesonic.html) - Create SEO-optimized and plagiarism-free content for your blogs, ads, emails, and website 10X faster.
-
-[WordTune](https://aiinfinity.blogspot.com/p/copywritingwordtune.html) - Your thoughts in words! Say exactly what you mean through clear, compelling and authentic writing.
+[WordTune](https://www.wordtune.com/) - Your thoughts in words! Say exactly what you mean through clear, compelling and authentic writing.
 
 ### •Customer Support:
 
-[Adobe Sensei](https://aiinfinity.blogspot.com/p/customer-supportadobe-sensei.html) - Designing and delivering the perfect customer experience can be complicated. Sensei uses AI and machine learning to make it easier.
-
-[BotDistrikt](https://aiinfinity.blogspot.com/p/customer-supportbotdistrikt.html) - BotDistrikt is a complete chatbot solution for your business.
+[Adobe Sensei](https://business.adobe.com/in/ai/adobe-genai.html) - Designing and delivering the perfect customer experience can be complicated. Sensei uses AI and machine learning to make it easier.
 
 [ChatGenius](https://chatgenius.one/?ref=ai-infinity) - ChatGenius is a software company that provides a powerful AI chatbot solution powered by GPT-4 and ChatGPT. Our chatbot offers 24/7 support in over 110 languages and can be integrated seamlessly into your website or platform.
 
-[Cohere](https://aiinfinity.blogspot.com/p/customer-supportcohere.html) - Cohere helps CX teams resolve tickets faster while reducing costs, resulting in happier agents and satisfied customers.
+[Cohere](https://cohere.io/) - Cohere helps CX teams resolve tickets faster while reducing costs, resulting in happier agents and satisfied customers.
 
-[Dear AI](https://www.dearai.online/) - Supercharge Customer Services and boost sales with AI Chatbot
+[Delve](https://www.delve.ai/) - Create personas automatically for your business and for your competitor businesses.
 
-[Delve](https://aiinfinity.blogspot.com/p/customer-supportdelve.html) - Create personas automatically for your business and for your competitor businesses.
+[Ebi AI](https://ebi.ai/) - Create your company’s first high performance AI assistant and start delighting customers within 15 minutes; zero coding or technical know-how required.
 
-[Ebi AI](https://aiinfinity.blogspot.com/p/customer-supportebi-ai.html) - Create your company’s first high performance AI assistant and start delighting customers within 15 minutes; zero coding or technical know-how required.
+[echowin](https://echo.win/) - AI Powered Call Management.
 
-[echowin](https://aiinfinity.blogspot.com/p/customer-supportechowin.html) - AI Powered Call Management.
+[Forethought](https://forethought.ai/) - The Leading Generative AI for Customer Support Automation! Meet SupportGPT, the generative AI automation platform that lowers support costs while providing top-tier service in every customer interaction.
 
-[Forethought](https://aiinfinity.blogspot.com/p/customer-supportforethought.html) - The Leading Generative AI for Customer Support Automation! Meet SupportGPT, the generative AI automation platform that lowers support costs while providing top-tier service in every customer interaction.
+[Harvey](https://hiverhq.com/ai-in-customer-support) - Leave the time-consuming grunt work to Harvey - Hiver’s AI bot. Focus your attention on the more important tasks.
 
-[Harvey](https://aiinfinity.blogspot.com/p/customer-supportharvey.html) - Leave the time-consuming grunt work to Harvey - Hiver’s AI bot. Focus your attention on the more important tasks.
+[Kaizan](https://kaizan.ai/) - Kaizan automates your tasks using conversation intelligence and highlights what will increase client success and revenue.
 
-[Kaizan](https://aiinfinity.blogspot.com/p/customer-supportkaizan.html) - Kaizan automates your tasks using conversation intelligence and highlights what will increase client success and revenue.
+[Kore AI](https://kore.ai/) - Driving AI-Optimized Customer and Employee Experiences.
 
-[Kore AI](https://aiinfinity.blogspot.com/p/customer-supportkore-ai.html) - Driving AI-Optimized Customer and Employee Experiences.
+[Maya](https://crayondata.ai/) - AI-driven personalization:customers, banks, and merchants.
 
-[Maya](https://aiinfinity.blogspot.com/p/customer-supportmaya.html) - AI-driven personalization:customers, banks, and merchants.
+[Poly AI](https://poly.ai/) - Customer-Led Conversational Assistants Answer every call immediately, 24/7.
 
-[Poly AI](https://aiinfinity.blogspot.com/p/customer-supportpoly-ai.html) - Customer-Led Conversational Assistants Answer every call immediately, 24/7.
+[Quickchat](https://www.quickchat.ai/) - Technology to build AI Assistants that talk like a Human.
 
-[Puzzle](https://aiinfinity.blogspot.com/p/customer-supportpuzzle.html) - Bring clarity to your product with an intelligent glossary.
+[Regie](https://www.regie.ai/) - Regie.ai is your all-in-one content creation and management system.
 
-[Quickchat](https://aiinfinity.blogspot.com/p/customer-supportquickchat.html) - Technology to build AI Assistants that talk like a Human.
+[Simple Phones](https://www.simplephones.ai/) - Never miss a call from a customer.Forward your missed calls,or get a new number, and we'll answer it using AI.
 
-[Regie](https://aiinfinity.blogspot.com/p/customer-supportregie.html) - Regie.ai is your all-in-one content creation and management system.
-
-[Simple Phones](https://aiinfinity.blogspot.com/p/customer-supportsimple-phones.html) - Never miss a call from a customer.Forward your missed calls,or get a new number, and we'll answer it using AI.
-
-[Tiledesk](https://aiinfinity.blogspot.com/p/customer-supporttiledesk.html) - The all-in-one customer engagement platform! From lead-gen to post-sales, from WhatsApp to your website.With omni-channel live chat and chatbots
+[Tiledesk](https://tiledesk.com/) - The all-in-one customer engagement platform! From lead-gen to post-sales, from WhatsApp to your website.With omni-channel live chat and chatbots
 
 [Twig](https://www.twig.so/) - Twig is an AI assistant that resolves customer issues instantly, supporting both users and support agents 24/7.
 
-[Typewise](https://aiinfinity.blogspot.com/p/customer-supporttypewise.html) - AI Writing Solution for Customer Service and Sales teams.
+[Typewise](https://www.typewise.app/) - AI Writing Solution for Customer Service and Sales teams.
 
-[Vee](https://aiinfinity.blogspot.com/p/customer-supportvee.html) - effectively implementing business processes for dozens of companies from various industries.
+[Vee](https://vee.ai/en/) - effectively implementing business processes for dozens of companies from various industries.
 
-[viable](https://aiinfinity.blogspot.com/p/customer-supportviable.html) - Save hundreds of hours analyzing feedback.Harness the power of our AI and GPT-3 to automate your qualitative data analysis without compromising quality.
+[viable](https://www.askviable.com/) - Save hundreds of hours analyzing feedback.Harness the power of our AI and GPT-3 to automate your qualitative data analysis without compromising quality.
 
 ### •Design Assistant:
 
