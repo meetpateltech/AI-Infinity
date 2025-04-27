@@ -880,6 +880,8 @@ Without knowing how to code, and for free!
 
 [Xembly](https://aiinfinity.blogspot.com/p/productivityxembly.html) - An automated chief of staff to handle the tasks that slow you down.
 
+[MinutesLink](https://minuteslink.com/) - AI note taker for online meetings. Audio recordings, detailed transcripts, and precise meeting minutes that can be easily edited and shared.
+
 ### •Prompts:
 
 [Dallelist](https://aiinfinity.blogspot.com/p/promptsdallelist.html) - Select category then copy it!
