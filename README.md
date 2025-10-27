@@ -534,6 +534,8 @@ create personalized cold emails that get more replies at scale.
 
 [Medical Diagnosis Assistant](https://medicaldiagnosticassistant.streamlit.app/) - Experience the future of healthcare with our ChatGPT-powered medical diagnostic and symptom checking tool.
 
+[Sleep Calculator](https://calculatorsleep.org/) - Use our sleep cycle calculator to find your ideal bedtime and wake-up time.
+
 [Symptom Checker](https://symptomchecker.io/) - AI Powered Medical Symptom Checker.
 
 ### •Image Editing:
