@@ -620,15 +620,15 @@ SlashDreamer introduces a new command: /dream
 
 ### •Legal Assistant:
 
-[Activazon](https://aiinfinity.blogspot.com/p/legal-assistantactivazon.html) - AI crime analytics for travellers and residence.
+[Activazon](https://www.activazon.com/) - AI crime analytics for travellers and residence.
 
-[Casetext - Cara AI](https://aiinfinity.blogspot.com/p/legal-assistantcara-ai.html) - CARA A.I. recommends relevant cases, statutes, briefs, black letter law, and more.
+[Casetext - Cara AI](https://casetext.com/cara-ai/) - CARA A.I. recommends relevant cases, statutes, briefs, black letter law, and more.
 
-[DoNotPay](https://aiinfinity.blogspot.com/p/legal-assistantdonotpay.html) - The DoNotPay app is the home of the world's first robot lawyer.
+[DoNotPay](https://donotpay.com/) - The DoNotPay app is the home of the world's first robot lawyer.
 
-[Legal Robot](https://aiinfinity.blogspot.com/p/legal-assistantlegal-robot.html) - Automated legal analysis, for everyone.
+[Legal Robot](https://legalrobot.com/) - Automated legal analysis, for everyone.
 
-[Spellbook](https://aiinfinity.blogspot.com/p/legal-assistantspellbook.html) - Spellbook uses GPT-3 to review and suggest language for your contracts, right in Microsoft Word.
+[Spellbook](https://www.spellbook.legal/) - Spellbook uses GPT-3 to review and suggest language for your contracts, right in Microsoft Word.
 
 ### •Logo Generator:
 
@@ -640,35 +640,31 @@ SlashDreamer introduces a new command: /dream
 
 ### •Music:
 
-[Aiva](https://aiinfinity.blogspot.com/p/musicaiva.html) - AIVA, the AI music composer that creates original & personalized music for your projects.
+[Aiva](https://www.aiva.ai/) - AIVA, the AI music composer that creates original & personalized music for your projects.
 
-[Amper Music](https://aiinfinity.blogspot.com/p/musicamper-music.html) - Create the right sound. Define your narrative. Drive emotion with Amper AI.
+[Artistator](https://artistator.com/) - Generate artist names of your favourite music genres.
 
-[Artistator](https://aiinfinity.blogspot.com/p/musicartistator.html) - Generate artist names of your favourite music genres.
+[Beatoven](https://www.beatoven.ai/) - Beatoven.ai uses advanced AI music generation techniques to compose unique mood-based music to suit every part of your video or podcast.
 
-[Beatoven](https://aiinfinity.blogspot.com/p/musicbeatoven.html) - Beatoven.ai uses advanced AI music generation techniques to compose unique mood-based music to suit every part of your video or podcast.
+[Boomy](https://boomy.com/) - Create generative music.
 
-[Boomy](https://aiinfinity.blogspot.com/p/musicboomy.html) - Create generative music.
+[Ecrett Music](https://ecrettmusic.com/) - Royalty Free Music for Creators.
 
-[Ecrett Music](https://aiinfinity.blogspot.com/p/musicecrett-music.html) - Royalty Free Music for Creators.
+[Endel](https://endel.io/) - Personalized soundscapes to help you focus, relax, and sleep.Backed by neuroscience.
 
-[Endel](https://aiinfinity.blogspot.com/p/musicendel.html) - Personalized soundscapes to help you focus, relax, and sleep.Backed by neuroscience.
+[Harmonai](https://www.harmonai.org/) - open-source generative audio tools to make music production more accessible and fun for everyone.
 
-[Harmonai](https://aiinfinity.blogspot.com/p/musicharmonai.html) - open-source generative audio tools to make music production more accessible and fun for everyone.
+[Jukebox](https://openai.com/index/jukebox/) - A neural net that generates music, including rudimentary singing, as raw audio in a variety of genres and artist styles. 
 
-[Jukebox](https://aiinfinity.blogspot.com/p/musicjukebox.html) - A neural net that generates music, including rudimentary singing, as raw audio in a variety of genres and artist styles. 
+[Mubert](https://mubert.com/) - Worldwide copyright-protected AI-generated music via API.
 
-[Mubert](https://aiinfinity.blogspot.com/p/musicmubert.html) - Worldwide copyright-protected AI-generated music via API.
+[RIFFUSION](https://www.riffusion.com/) - Riffusion generates music from text prompts.
 
-[Natural Language Playlists](https://aiinfinity.blogspot.com/p/musicnatural-language-playlists.html) - DALL-E for playlists!
+[SongTell](https://www.songtell.com/) - The first ever AI-generated song meanings repository.
 
-[RIFFUSION](https://aiinfinity.blogspot.com/p/musicriffusion.html) - Riffusion generates music from text prompts.
+[SoundFul](https://soundful.com/) - AI MUSIC GENERATOR Soundful helps you generate unique, royalty-free tracks at the click of a button.
 
-[SongTell](https://aiinfinity.blogspot.com/p/musicsongtell.html) - The first ever AI-generated song meanings repository.
-
-[SoundFul](https://aiinfinity.blogspot.com/p/musicsoundful.html) - AI MUSIC GENERATOR Soundful helps you generate unique, royalty-free tracks at the click of a button.
-
-[Splash](https://aiinfinity.blogspot.com/p/musicsplash.html) - Bringing the joy of music making to everyone.
+[Splash](https://www.splashmusic.com/) - Bringing the joy of music making to everyone.
 
 ### •Low/No Code:
 
@@ -778,23 +774,21 @@ Without knowing how to code, and for free!
 
 ### •Paraphraser:
 
-[Language Tool](https://aiinfinity.blogspot.com/p/paraphraserlanguage-tool.html) - Write. Correct. Paraphrase.
+[Language Tool](https://languagetool.org/) - Write. Correct. Paraphrase.
 
-[LuciaAI](https://aiinfinity.blogspot.com/p/paraphraserluciaai.html) - Lucia will rephrase your text to make it more interesting and engaging.
+[Paraphraser](https://paraphrasetool.com/) - Paraphrase Tool can change any text in many different ways, ensuring that you find the perfect words, tone, style, and expression for all your writing needs.
 
-[Paraphraser](https://aiinfinity.blogspot.com/p/paraphraserparaphraser.html) - Paraphrase Tool can change any text in many different ways, ensuring that you find the perfect words, tone, style, and expression for all your writing needs.
+[Penelope AI](https://penelopeai.com/) - Paraphrase Find a wow text and tweak it. Choose from four options for the appropriate tone for your text.
 
-[Penelope AI](https://aiinfinity.blogspot.com/p/paraphraserpenelope-ai.html) - Paraphrase Find a wow text and tweak it. Choose from four options for the appropriate tone for your text.
+[Quillbot Paraphraser](https://quillbot.com/) - QuillBot's AI-powered paraphrasing tool will enhance your writing.
 
-[Quillbot Paraphraser](https://aiinfinity.blogspot.com/p/paraphraserquillbot.html) - QuillBot's AI-powered paraphrasing tool will enhance your writing.
+[Rephrasely](https://rephrasely.com/) - Your words and thoughts matter, and we’ve designed our Rephrasely to ensure find the best words to match your expression.
 
-[Rephrasely](https://aiinfinity.blogspot.com/p/paraphraserrephrasely.html) - Your words and thoughts matter, and we’ve designed our Rephrasely to ensure find the best words to match your expression.
+[WordAI](https://wordai.com/) - WordAi understands the meaning of each sentence, then rewrites it from scratch while optimizing for uniqueness and readability.
 
-[WordAI](https://aiinfinity.blogspot.com/p/paraphraserwordai.html) - WordAi understands the meaning of each sentence, then rewrites it from scratch while optimizing for uniqueness and readability.
+[WordfixerBot](https://www.wordfixerbot.com/) - WordfixerBot's Paraphrasing Tool is the perfect tool to help you quickly and accurately rephrase any text.
 
-[WordfixerBot](https://aiinfinity.blogspot.com/p/paraphraserwordfixerbot.html) - WordfixerBot's Paraphrasing Tool is the perfect tool to help you quickly and accurately rephrase any text.
-
-[Yaara AI](https://aiinfinity.blogspot.com/p/paraphraseryaara-ai.html) - Your go-to paraphrasing tool for unique and high-performing content.
+[Yaara AI](https://app.yaara.ai/paraphraser) - Your go-to paraphrasing tool for unique and high-performing content.
 
 ### •Personalised Video:
 
@@ -880,31 +874,27 @@ Without knowing how to code, and for free!
 
 ### •Prompts:
 
-[Dallelist](https://aiinfinity.blogspot.com/p/promptsdallelist.html) - Select category then copy it!
+[Eye for Al](https://eyeforai.xyz/) - Visual "prompt builder" to craft complex prompts, easily.
 
-[Eye for Al](https://aiinfinity.blogspot.com/p/promptseye-for-al.html) - Visual "prompt builder" to craft complex prompts, easily.
+[Img2prompt](https://replicate.com/methexis-inc/img2prompt) - Get an approximate text prompt, with style, matching an image.
 
-[Img2prompt](https://aiinfinity.blogspot.com/p/promptsimg2prompt.html) - Get an approximate text prompt, with style, matching an image.
+[Jrnylist](https://www.jrnylist.com/) - Same as dallelist but advanced version.
 
-[Jrnylist](https://aiinfinity.blogspot.com/p/promptsjrnylist.html) - Same as dallelist but advanced version.
+[Krea](https://www.krea.ai/) - Generative visuals for everyone.
 
-[Krea](https://aiinfinity.blogspot.com/p/promptskrea.html) - Generative visuals for everyone.
+[Openart](https://openart.ai/) - Search 10M+ of prompts, and generate AI Art via Stable Diffusion, DALL·E 2.
 
-[Openart](https://aiinfinity.blogspot.com/p/promptsopenart.html) - Search 10M+ of prompts, and generate AI Art via Stable Diffusion, DALL·E 2.
+[PromptBase](https://promptbase.com/) - DALL·E, GPT-3, Midjourney, Stable Diffusion Prompt Marketplace.
 
-[PromptBase](https://aiinfinity.blogspot.com/p/promptspromptbase.html) - DALL·E, GPT-3, Midjourney, Stable Diffusion Prompt Marketplace.
+[PromptHero](https://prompthero.com/) - Search millions of art images by AI models like DALL-E, Stable Diffusion, Midjourney...
 
-[PromptHero](https://aiinfinity.blogspot.com/p/promptsprompthero.html) - Search millions of art images by AI models like DALL-E, Stable Diffusion, Midjourney...
+[Promptist](https://huggingface.co/spaces/microsoft/Promptist) - Promptist is a prompt interface for Stable Diffusion v1-4 that optimizes user input into model-preferred prompts.
 
-[Promptist](https://aiinfinity.blogspot.com/p/promptspromptist.html) - Promptist is a prompt interface for Stable Diffusion v1-4 that optimizes user input into model-preferred prompts.
+[PromptLayer](https://www.promptlayer.com/) - Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions.
 
-[PromptLayer](https://aiinfinity.blogspot.com/p/promptspromptlayer.html) - Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions.
+[PromtBox](https://www.promptbox.ai/) - - Beautifully store your prompts!
 
-[PromtBox](https://aiinfinity.blogspot.com/p/promptspromtbox.html) - - Beautifully store your prompts!
-
-[Public Prompts](https://aiinfinity.blogspot.com/p/promptspublic-prompts.html) - Collection of ‎ High Quality/Free/Public Prompts!
-
-[Pyttipanna](https://aiinfinity.blogspot.com/p/promptspyttipanna.html) - Pyttipanna is an interface for Pytti 5. It allows you to structure, narrate and experiment with prompts for video creation.
+[Public Prompts](https://www.publicprompts.art/) - Collection of ‎ High Quality/Free/Public Prompts!
 
 ### •Real Estate:
 
