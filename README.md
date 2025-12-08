@@ -8,7 +8,7 @@
 
 
 # ⚠️Update:
-> Hello! Thanks for your support on our AI Infinity GitHub repo. We're continually updating it with 1600+ AI tools, adding categories, prices, and descriptions daily on our Notion Database. For the latest tools, visit our [AI Tools Directory on Notion](https://fentolia.github.io/AI-Infinity-Tools/). Your engagement is appreciated! Plus, explore our [ChatGPT Maximizer Tools](https://max-aiinfinity.vercel.app/).
+> Hello! Thanks for your support on our AI Infinity GitHub repo. We're continually updating it with 1600+ AI tools, adding categories, prices, and descriptions daily on our Notion Database. For the latest tools, visit our [AI Tools Directory on Notion](https://aiinfinity-meetpatel.notion.site/AI-Infinity-AI-Tools-Directory-0da673c487124ea2b6f8ebe59b75a231). Your engagement is appreciated! Plus, explore our [ChatGPT Maximizer Tools](https://max-aiinfinity.vercel.app/).
 
 ### Categories:
 - [AI Detection 🕵️](#ai-detection)
@@ -798,21 +798,17 @@ Without knowing how to code, and for free!
 
 ### •Personalised Video:
 
-[Bhuman](https://aiinfinity.blogspot.com/p/personalised-videobhuman.html) - BHuman's AI Studio enables human connections at scale with personalized video.
+[Bhuman](https://www.bhuman.ai/) - BHuman's AI Studio enables human connections at scale with personalized video.
 
-[Colossyan](https://aiinfinity.blogspot.com/p/personalised-videocolossyan.html) - Create videos with AI actors.
+[Colossyan](https://www.colossyan.com/) - Create videos with AI actors.
 
-[InVideo](https://aiinfinity.blogspot.com/p/personalised-videoinvideo.html) - The fastest, easiest way to create pro-quality videos.
+[InVideo](https://invideo.io/) - The fastest, easiest way to create pro-quality videos.
 
-[Maverick](https://aiinfinity.blogspot.com/p/personalised-videomaverick.html) - Maverick uses AI-generated video to help ecommerce stores have personalized interactions with each of their customers across their journey.
+[Maverick](https://www.trymaverick.com/) - Maverick uses AI-generated video to help ecommerce stores have personalized interactions with each of their customers across their journey.
 
-[Rephrase](https://aiinfinity.blogspot.com/p/personalised-videorephrase.html) - create digital avatars of real humans to produce hyper-personalized videos at scale, helping businesses communicate with their stakeholders effectively.
+[Tavus](https://www.tavus.io/) - Tavus is the only video personalization platform with the power to take what you record and automatically transform it into countless AI-generated videos.
 
-[Tavus](https://aiinfinity.blogspot.com/p/personalised-videotavus.html) - Tavus is the only video personalization platform with the power to take what you record and automatically transform it into countless AI-generated videos.
-
-[Vidyo](https://aiinfinity.blogspot.com/p/personalised-videovidyo.html) - Create social ready short clips from your long videos with AI.
-
-[Windsor](https://aiinfinity.blogspot.com/p/personalised-videowindsor.html) - Record one video and use Windsor's AI platform to send millions of personalized videos to your customers.
+[Vidyo](https://quso.ai/) - Create social ready short clips from your long videos with AI.
 
 ### •Phone Calls:
 
@@ -954,21 +950,17 @@ Without knowing how to code, and for free!
 
 ### •SEO:
 
-[Compar](https://aiinfinity.blogspot.com/p/seocompar.html) - AI Powered Content Analyses.
+[CTRify](https://www.ctrify.com/) - AI-Powered SEO Action Platform.
 
-[CTRify](https://aiinfinity.blogspot.com/p/seoctrify.html) - AI-Powered SEO Action Platform.
+[Keywrds AI](https://keywrds.ai/) - Find keywords your competition can only dream of.
 
-[Genie AI](https://aiinfinity.blogspot.com/p/seogenie-ai.html) - GENERATE AI-POWERED METADATA! Title, Description, Tags, and Thumbnail Idea for Various Forms of Digital Content
+[Neuronwriter](https://neuronwriter.com/) - Optimize your website content so Google adores it.
 
-[Keywrds AI](https://aiinfinity.blogspot.com/p/seokeywrds-ai.html) - Find keywords your competition can only dream of.
+[Scalenut](https://www.scalenut.com/) - Scale Traffic from Search.
 
-[Neuronwriter](https://aiinfinity.blogspot.com/p/seoneuronwriter.html) - Optimize your website content so Google adores it.
+[SEO GPT](https://seovendor.co/seo-gpt/) - advanced AI technology generates unique, keyword-optimized content that is specifically tailored to your target audience.
 
-[Scalenut](https://aiinfinity.blogspot.com/p/seoscalenut.html) - Scale Traffic from Search.
-
-[SEO GPT](https://aiinfinity.blogspot.com/p/seoseo-gpt.html) - advanced AI technology generates unique, keyword-optimized content that is specifically tailored to your target audience.
-
-[Vidlq](https://aiinfinity.blogspot.com/p/seovidlq.html) - Designed to boost your YouTube views.
+[Vidlq](https://vidiq.com/) - Designed to boost your YouTube views.
 
 [Publish7](https://publish7.com/) - Publish7 brings you a groundbreaking suite of unique marketing agents designed to elevate your strategy, streamline your workflow, and optimize your campaigns. From competitor analysis to go-to-market strategies, and SEO insights to social media content creation, our agents are your secret weapon to staying ahead of the competition and delivering impactful results.
 
@@ -976,35 +968,25 @@ Without knowing how to code, and for free!
 
 ### •Social Media Assistant:
 
-[AI Social Bio](https://aiinfinity.blogspot.com/p/smaai-social-bio.html) - Your social media bio, created by artificial intelligence.
+[AI Social Bio](https://aisocialbio.com/) - Your social media bio, created by artificial intelligence.
 
-[Contentada](https://aiinfinity.blogspot.com/p/smacontentada.html) - Create the content your audience wants,from content you've already made.
+[Editby](https://www.editby.ai/) - Unlock creativity and grow your Twitter audience with AI.
 
-[Editby](https://aiinfinity.blogspot.com/p/smaeditby.html) - Unlock creativity and grow your Twitter audience with AI.
+[FeedHive](https://www.feedhive.com/) - Create, schedule, publish, and easily manage your social media content at scale with FeedHive's AI-powered platform.
 
-[FeedHive](https://aiinfinity.blogspot.com/p/smafeedhive.html) - Create, schedule, publish, and easily manage your social media content at scale with FeedHive's AI-powered platform.
+[MagicThumbnails](https://www.magicthumbnails.com/l) - Generate YouTube Thumbnails with AI.
 
-[Graham AI](https://aiinfinity.blogspot.com/p/smagraham-ai.html) - Tweet like a genius tech influencer, generated by AI.
+[Ocoya](https://www.ocoya.com/) - Social Media Content 10x Faster.
 
-[InstaSalesAI](https://aiinfinity.blogspot.com/p/smainstasalesai.html) - Unlock your Instagram.Get more organic traffic.Build your credibility and maximize your sales with fresh content using AI.
+[Predis](https://predis.ai/) - Create Stunning Social Media Video/Reels Posts in Seconds!
 
-[MagicThumbnails](https://aiinfinity.blogspot.com/p/smamagicthumbnails.html) - Generate YouTube Thumbnails with AI.
+[SocialBu](https://socialbu.com/) - Easy and Effective Social Media Management Solution.
 
-[Munch](https://aiinfinity.blogspot.com/p/smamunch.html) - Go Viral Using Your Existing Content Automatically.
+[Spatial](https://www.spatial.ai/) - Predict and influence customer behavior with the world's first real-time social media segmentation system.
 
-[Ocoya](https://aiinfinity.blogspot.com/p/smaocoya.html) - Social Media Content 10x Faster.
+[Tweet Hunter](https://tweethunter.io/) - BUILD & MONETIZE YOUR TWITTER AUDIENCE FAST.
 
-[Predis](https://aiinfinity.blogspot.com/p/smapredis.html) - Create Stunning Social Media Video/Reels Posts in Seconds!
-
-[Repl AI](https://aiinfinity.blogspot.com/p/smarepl-ai.html) - Get 10x growth with AI-generated replies.
-
-[SocialBu](https://aiinfinity.blogspot.com/p/smasocialbu.html) - Easy and Effective Social Media Management Solution.
-
-[Spatial](https://aiinfinity.blogspot.com/p/smaspatial.html) - Predict and influence customer behavior with the world's first real-time social media segmentation system.
-
-[Tweet Hunter](https://aiinfinity.blogspot.com/p/smatweet-hunter.html) - BUILD & MONETIZE YOUR TWITTER AUDIENCE FAST.
-
-[TweetEmote](https://aiinfinity.blogspot.com/p/smatweetemote.html) - The AI-Powered Tweet Assistant.
+[TweetEmote](https://www.tweetemote.com/) - The AI-Powered Tweet Assistant.
 
 ### •Spreadsheets:
 
