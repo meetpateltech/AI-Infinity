@@ -443,6 +443,8 @@ without writing any code.
 
 [MathSolver](mathsolver.top) - A FREE AI Math Problem Solver to Provide Step-by-Step Solution and Personalized Tutoring. 25% higher accuracy than ChatGPT
 
+[AxisY](https://axisy.tech) - Turn any concept into an interactive visualization map for easier understanding.
+
 ### •Email Assistant:
 
 [ChatGPT Writer](https://aiinfinity.blogspot.com/p/email-assistantchatgpt-writer.html) - Free Chrome extension to generate entire emails and messages using ChatGPT AI. All sites are supported and enhanced support for Gmail.
