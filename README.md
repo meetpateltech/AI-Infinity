@@ -309,125 +309,88 @@ Switch marketing to autopilot and grow.
 
 ### •Design Assistant:
 
-[AI2image](https://aiinfinity.blogspot.com/p/design-assistantai2image.html) - You can generate images for your website,blogs or social media from a simple description in English.
+[AI2image](https://www.ai2image.com/) - You can generate images for your website,blogs or social media from a simple description in English.
 
-[AIGraphics](https://aiinfinity.blogspot.com/p/design-assistantaigraphics.html) - Create Beautiful, Bespoke Graphics in Seconds with AI!
+[Autodraw](https://autodraw.com/) - Fast drawing for everyone.
 
-[Autodraw](https://aiinfinity.blogspot.com/p/design-assistantautodraw.html) - Fast drawing for everyone.
+[CandyIcons](https://www.candyicons.com/) - Find beautiful app icons for your product!
 
-[CandyIcons](https://aiinfinity.blogspot.com/p/design-assistantcandyicons.html) - Find beautiful app icons for your product!
+[Designs AI](https://designs.ai/) - Designs AI is an integrated Agency-as-a-Service platform that uses A.I. technology to allow users to create, edit, and scale content.
 
-[Clickable](https://aiinfinity.blogspot.com/p/design-assistantclickable.html) - Generate ads in seconds with AI!
+[Flair AI](https://flair.ai/) - THE AI DESIGN TOOL FORBRANDED CONTENT!
 
-[Designs AI](https://aiinfinity.blogspot.com/p/design-assistantdesigns-ai.html) - Designs AI is an integrated Agency-as-a-Service platform that uses A.I. technology to allow users to create, edit, and scale content.
+[IconifyAI](https://www.iconifyai.com/) - Elevate your app's design with AI-generated app icons!
 
-[Diagram](https://aiinfinity.blogspot.com/p/design-assistantdiagram.html) - Design Smarter! Magical new ways to design products.
-
-[Dimensions](https://aiinfinity.blogspot.com/p/design-assistantdimensions.html) - Focus on creativity!
-
-[Flair AI](https://aiinfinity.blogspot.com/p/design-assistantflair-ai.html) - THE AI DESIGN TOOL FORBRANDED CONTENT!
-
-[Hotpot AI](https://aiinfinity.blogspot.com/p/design-assistanthotpot-ai.html) - Your Creative Helper!
-
-[IconifyAI](https://aiinfinity.blogspot.com/p/design-assistanticonifyai.html) - Elevate your app's design with AI-generated app icons!
-
-[IllostrationAI](https://aiinfinity.blogspot.com/p/design-assistantillustration-ai.html) - Create AI-generated illustrations.
+[IllostrationAI](https://www.illostration.com/) - Create AI-generated illustrations.
 Uniqueness in seconds.
 
-[Illustroke](https://aiinfinity.blogspot.com/p/design-assistantillustroke.html) - Stunning vector illustrations from text prompts.
-  
-[Magician (Figma)](https://aiinfinity.blogspot.com/p/design-assistantmagicianfigma.html) - A magical design tool for Figma powered by AI.
+[Illustroke](https://illustroke.com/en/) - Stunning vector illustrations from text prompts.
 
-[Microsoft Designer](https://aiinfinity.blogspot.com/p/design-assistantmicrosoft-designer.html) - Stunning design in a flash with Microsoft Designer.
+[Microsoft Designer](https://designer.microsoft.com/) - Stunning design in a flash with Microsoft Designer.
 
-[Pattern Maker AI](https://aiinfinity.blogspot.com/p/design-assistantpattern-maker-ai.html) - Generate beautiful pattern concepts using Artificial Intelligence.
-
-[Patterned AI](https://aiinfinity.blogspot.com/p/design-assistantpatterned-ai.html) - Generate unique patterns for your product using AI!
+[Patterned AI](https://www.patterned.ai/) - Generate unique patterns for your product using AI!
  
-[Photoroom](https://aiinfinity.blogspot.com/p/design-assistantphotoroom.html) - Create professional designs for free with our all-in-one creative photo editing platform.
+[Photoroom](https://www.photoroom.com/) - Create professional designs for free with our all-in-one creative photo editing platform.
 
-[Pictorial](https://aiinfinity.blogspot.com/p/design-assistantpictorial.html) - Effortlessly create graphics for your ads/blog/website.
+[Pictorial](https://www.pictorial.ai/) - Effortlessly create graphics for your ads/blog/website.
 
-[Pinegraph](https://aiinfinity.blogspot.com/p/design-assistantpinegraph.html) - AI based design tool.
+[RocketAI](https://rocketai.io/) - YOUR GRAPHIC DESIGN CO-PILOT!
 
-[RocketAI](https://aiinfinity.blogspot.com/p/design-assistantrocketai.html) - YOUR GRAPHIC DESIGN CO-PILOT!
+[Scribble Diffusion](https://scribblediffusion.com/) - Turn your sketch into a refined image using AI.
 
-[PixelVibe](https://aiinfinity.blogspot.com/p/design-assistantpixelvibe.html) - Create the exact visual you need.
+[StockImg AI](https://stockimg.ai/) - Create design for logo/poster etc.
 
-[Scribble Diffusion](https://aiinfinity.blogspot.com/p/design-assistantscribble-diffusion.html) - Turn your sketch into a refined image using AI.
+[Uizard](https://uizard.io/) - Visualize and communicate your ideas effortlessly.No design experience required!
 
-[StockImg AI](https://aiinfinity.blogspot.com/p/design-assistantstockimg-ai.html) - Create design for logo/poster etc.
+[Unbound](https://unboundcontent.ai/) - Automate content creation for your small business!
 
-[Uizard](https://aiinfinity.blogspot.com/p/design-assistantuizard.html) - Visualize and communicate your ideas effortlessly.No design experience required!
-
-[Unbound](https://aiinfinity.blogspot.com/p/design-assistantunbound.html) - Automate content creation for your small business!
-
-[Vizcom](https://aiinfinity.blogspot.com/p/design-assistantvizcom.html) - AI tools to express your creativity!
+[Vizcom](https://www.vizcom.com/) - AI tools to express your creativity!
 
 ### •Developer Tools:
 
-[Autobackend](https://aiinfinity.blogspot.com/p/developerautobackend.html) - Describe your backend In one or two sentences, describe what you'd like your backend to do.
-
-[AutoRegex](https://aiinfinity.blogspot.com/p/developerautoregx.html) - Effortless conversions from English to Regex! Regex is difficult to write and comprehend to the average human. 
-
-[Chatbotkit](https://aiinfinity.blogspot.com/p/developerchatbotkit.html) - The simplest way to buildadvanced AI chat bots.
+[Chatbotkit](https://chatbotkit.com/) - The simplest way to buildadvanced AI chat bots.
 Platform makes it easy for developers and non-developers alike to build chatbots that can communicate with users in natural language
 
-[Convai](https://aiinfinity.blogspot.com/p/developerconvai.html) - Design your conversation based Characters and Speech based games.
+[Convai](https://www.convai.com/) - Design your conversation based Characters and Speech based games.
 
-[CSM](https://aiinfinity.blogspot.com/p/developercsm.html) - Common Sense Machines provides APIs, interfaces, and open source software to translate multi-modal inputs and experiences into a digital simulator for AI training and content creation. 
+[CSM](https://csm.ai/) - Common Sense Machines provides APIs, interfaces, and open source software to translate multi-modal inputs and experiences into a digital simulator for AI training and content creation. 
 
-[Dust](https://aiinfinity.blogspot.com/p/developerdust.html) - Design and Deploy Large Language Model Apps.
+[Dust](https://dust.tt/) - Design and Deploy Large Language Model Apps.
 
-[GptDuck](https://aiinfinity.blogspot.com/p/developergptduck.html) - GPTDuck is a tool that helps you find the answer to your questions about a Github repository.
+[HTTPie AI](https://httpie.io/ai) - HTTPie is making APIs simple and intuitive for those building the tools of our time.
 
-[GPUX AI](https://aiinfinity.blogspot.com/p/developergpux-ai.html) - Deploy 'X' Fast.Run anything Dockerized
-Run autoscale Inference!
+[Hugging Face](https://huggingface.co/) - The AI community building the future.Build, train and deploy state of the art models powered by the reference open source in machine learning.
 
-[HTTPie AI](https://aiinfinity.blogspot.com/p/developerhttpie-ai.html) - HTTPie is making APIs simple and intuitive for those building the tools of our time.
+[Lightning AI](https://lightning.ai/) - Use platform to build AI products, train, finetune and deploy models on the cloud without worrying about infrastructure, cost management, scaling, and other technical headaches.
 
-[Hugging Face](https://aiinfinity.blogspot.com/p/developerhugging-face.html) - The AI community building the future.Build, train and deploy state of the art models powered by the reference open source in machine learning.
+[Liner AI](https://liner.ai/) - Liner is a free tool that lets you train your ML models easily. It takes your training data and gives you an easy-to-integrate ML model. No coding or expertise in machine learning required.
 
-[Lightning AI](https://aiinfinity.blogspot.com/p/developerlighting-ai.html) - Use platform to build AI products, train, finetune and deploy models on the cloud without worrying about infrastructure, cost management, scaling, and other technical headaches.
-
-[Liner AI](https://aiinfinity.blogspot.com/p/developerliner-ai.html) - Liner is a free tool that lets you train your ML models easily. It takes your training data and gives you an easy-to-integrate ML model. No coding or expertise in machine learning required.
-
-[Mintlify](https://aiinfinity.blogspot.com/p/developermintlify.html) - Build the documentation you've always wanted. Beautiful out of the box, easy to maintain, and optimized for user engagement.
+[Mintlify](https://www.mintlify.com/) - Build the documentation you've always wanted. Beautiful out of the box, easy to maintain, and optimized for user engagement.
 
 [Maxim AI](https://www.getmaxim.ai/) - A generative AI evaluation and observability platform, empowering modern AI teams to ship products with quality, reliability, and speed
 
-[Nuclia](https://aiinfinity.blogspot.com/p/developernuclia.html) - The AI search engine delivering the right answers from your data!
+[Nuclia](https://nuclia.com/) - The AI search engine delivering the right answers from your data!
 Effortless integration. For any data, including video, wherever it is. 
 
-[Pipeline AI](https://aiinfinity.blogspot.com/p/developerpipeline-ai.html) - Serverless GPU inference for ML models! Pay-per-millisecond API to run ML in production.
+[PromptLayer](https://www.promptlayer.com/) - The first platform built for prompt engineers! Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions.
 
-[PromptLayer](https://aiinfinity.blogspot.com/p/developerpromptlayer.html) - The first platform built for prompt engineers! Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions.
+[Retune](https://retune.so/) - The missing frontend for GPT-3 Build GPT-3 powered apps, without writing any code.
 
-[Retune](https://aiinfinity.blogspot.com/p/developerretune.html) - The missing frontend for GPT-3
-Build GPT-3 powered apps,
-without writing any code.
+[Riku AI](https://www.riku.ai/) - Empowering you to build AI models without code. Use AI through integrations, API, or public share links. Accessible AI for everyone.
 
-[Riku AI](https://aiinfinity.blogspot.com/p/developerriku-ai.html) - Empowering you to build AI models without code. Use AI through integrations, API, or public share links. Accessible AI for everyone.
+[RunPod](https://www.runpod.io/) - Save over 80% on GPUs. GPU rental made easy with Jupyter for PyTorch, Tensorflow or any other AI framework.
 
-[Rtutor](https://aiinfinity.blogspot.com/p/developerrtutor.html) - Chat with your data via AI.
+[Shaped](https://www.shaped.ai/) - Recommendation APIs that increase your metrics 🚀
 
-[RunPod](https://aiinfinity.blogspot.com/p/developerrunpod.html) - Save over 80% on GPUs. GPU rental made easy with Jupyter for PyTorch, Tensorflow or any other AI framework.
+[Stable Diffusion](https://stability.ai/) - Designing and implementing solutions using collective intelligence and augmented technology.
 
-[Shaped](https://aiinfinity.blogspot.com/p/developershaped.html) - Recommendation APIs that increase your metrics 🚀
+[SyntheticAldata](https://syntheticaidata.com/) - Synthetic data is a cost-effective way to train and improve AI models.
 
-[Stable Diffusion](https://aiinfinity.blogspot.com/p/developerstable-diffusion.html) - Designing and implementing solutions using collective intelligence and augmented technology.
+[Teachable Machine](https://teachablemachine.withgoogle.com/) - Train a computer to recognize your own images, sounds, & poses.
 
-[SyntheticAldata](https://aiinfinity.blogspot.com/p/developersyntheticaidata.html) - Synthetic data is a cost-effective way to train and improve AI models.
+[Textomap](https://www.textomap.com/) - Turn text into interactive maps in seconds! Create insightful maps for travel, education, current events, and storytelling.No code, spreadsheets, or complex tools - your words are enough.
 
-[Teachable Machine](https://aiinfinity.blogspot.com/p/developerteachable-machine.html) - Train a computer to recognize your own images, sounds, & poses.
-
-[Textomap](https://aiinfinity.blogspot.com/p/developertexttomap.html) - Turn text into interactive maps in seconds! Create insightful maps for travel, education, current events, and storytelling.No code, spreadsheets, or complex tools - your words are enough.
-
-[Tinq AI-NLP API](https://aiinfinity.blogspot.com/p/developertinq.html) - Tinq.ai is a simple natural language processing tool. It helps you easily implement text analysis within your projects.
-
-[Valyr](https://aiinfinity.blogspot.com/p/developervalyr.html) - Simplify GPT-3 monitoring with one line of code.
-
-[GPTRouter](https://gpt-router.writesonic.com/) - GPTRouter is an open source LLM API Gateway that offers a universal API for 30+ LLMs, vision, and image models, with smart fallbacks based on uptime and latency, automatic retries, and streaming. Stay operational even when OpenAI is down.
+[Valyr](https://valyr.vercel.app/) - Build Reliable AI Apps: The world's fastest-growing AI companies rely on Helicone to route, debug, and analyze their applications.
 
 [Pieces](https://pieces.app/) - AI-enabled productivity tool designed to supercharge developer efficiency,with an on-device copilot that helps capture, enrich, and reuse useful materials, streamline collaboration, and solve complex problems through a contextual understanding of dev workflow
 
@@ -445,63 +408,43 @@ without writing any code.
 
 ### •Email Assistant:
 
-[ChatGPT Writer](https://aiinfinity.blogspot.com/p/email-assistantchatgpt-writer.html) - Free Chrome extension to generate entire emails and messages using ChatGPT AI. All sites are supported and enhanced support for Gmail.
+[ChatGPT Writer](https://chatgptwriter.ai/) - Free Chrome extension to generate entire emails and messages using ChatGPT AI. All sites are supported and enhanced support for Gmail.
 
-[Creatext](https://aiinfinity.blogspot.com/p/email-assistantcreatext.html) - Creatext finds information about your prospects on the entire Internet and AI-generates personalized text snippets.
+[Ellie](https://tryellie.com/) - Meet Ellie, your AI email assistant! Ellie learns from your writing style and crafts replies as if they were written by you.
 
-[DraftLab](https://aiinfinity.blogspot.com/p/email-assistantdraftlab.html) - Your Gmail copilot.Powered by AI.Write better emails faster. Reach Inbox Zero 10x faster with the DraftLab Chrome extension for Gmail.
+[GETitOUT](https://getitout.io/) - Meet GETitOUT’s Persona Generator: Extract personas from competitors. Generate professional texts. Then paste them into all your websites, emails, and marketing tools.
 
-[Effortless Email](https://aiinfinity.blogspot.com/p/email-assistanteffortless-email.html) - QUICKLY TURN BULLET POINTS WRITTEN IN ONE LANGUAGE INTO A FULL EMAIL IN A DIFFERENT LANGUAGE.WRITE EMAILS FASTER!
+[HoppyCopy](https://www.hoppycopy.co/) - Save countless hours writing. Use AI to generate powerful copy for hundreds of different email marketing campaigns, drips, newsletters and more—in seconds ⚡
 
-[Ellie](https://aiinfinity.blogspot.com/p/email-assistantellie.html) - Meet Ellie, your AI email assistant! Ellie learns from your writing style and crafts replies as if they were written by you.
+[Instantly](https://instantly.ai/) - Instantly helps you scale your outreach campaigns through unlimited email sending accounts, unlimited warmup, and smart AI.
 
-[Emilio](https://getemil.io?ref=meetpateltech-ai-infinity) - Stop drowning in emails - Emilio prioritizes and automates your email, saving 60% of your time
+[Lavender](https://www.lavender.ai/) - Lavender helps you get more replies in less time. It's everything you need to personalize faster, write more impactful emails, coach, and improve.
 
-[GETitOUT](https://aiinfinity.blogspot.com/p/email-assistantgetitout.html) - Meet GETitOUT’s Persona Generator: Extract personas from competitors. Generate professional texts. Then paste them into all your websites, emails, and marketing tools.
+[Mentioned](https://mentioned.ai/) - scan your content to identify people and companies you've mentioned, then, send email campaigns to let them know.
 
-[HoppyCopy](https://aiinfinity.blogspot.com/p/email-assistanthoppycopy.html) - Save countless hours writing. Use AI to generate powerful copy for hundreds of different email marketing campaigns, drips, newsletters and more—in seconds ⚡
+[Ortto](https://ortto.com/) - Journeys made simple Your customer data, messaging,and analytics working together.
 
-[Instantly](https://aiinfinity.blogspot.com/p/email-assistantinstantly.html) - Instantly helps you scale your outreach campaigns through unlimited email sending accounts, unlimited warmup, and smart AI.
+[Outplayhq](https://outplay.ai/) - 3x your sales meetings, not your budget.
 
-[Ipso AI](https://aiinfinity.blogspot.com/p/email-assistantipso-ai.html) - Schedule meetings 100x faster! AI assistant that manages calendars & drafts emails based on your unique preferences, powered by GPT-3
+[ParagraphAI](https://www.paragraphai.com/) - AI writing software drafts responses to emails, messages, comments, and more in seconds. Save time on otherwise tedious tasks and enjoy your newfound downtime.
 
-[Lavender](https://aiinfinity.blogspot.com/p/email-assistantlavender.html) - Lavender helps you get more replies in less time. It's everything you need to personalize faster, write more impactful emails, coach, and improve.
+[Pipl AI](https://plusvibe.ai/) - It is hard to send cold emails at scale. We make it a breeze. Connect unlimited inboxes, enjoy free warm-up for ALL your accounts, built-in email validation and data cleansing, AI-powered sequence & template writer and much more…
 
-[Luna](https://aiinfinity.blogspot.com/p/email-assistantluna.html) - Automated messages are dead these days. Get more replies on your cold emails with Luna - World's first software application that uses AI to suggest new high-quality leads every day and send them the personal emails they deserve.
+[PolitePost](https://politepost.net/) - Rewriting your emails with AI to be polite/courteous/professional/safe for work.
 
-[Magicreach](https://aiinfinity.blogspot.com/p/email-assistantmagicreach.html) - Personalized emails get more replies. But you send many emails and you don’t have time.Reach aggregates the info you need and suggests personalized icebreakers for each lead.Personalize more emails and boost replies.
+[Postaga](https://postaga.com/) - No one likes to receive template emails. Postaga’s all-in-one outreach platform helps you build personalized outreach campaigns, with AI-powered tools to connect you with the right people.
 
-[MateAI](https://aiinfinity.blogspot.com/p/email-assistantmateai.html) - Generate Copy and Design for your email campaigns, faster.
+[Regie](https://www.regie.ai/) - Regie.ai is your all-in-one content creation and management system.
 
-[Mentioned](https://aiinfinity.blogspot.com/p/email-assistantmentioned.html) - scan your content to identify people and companies you've mentioned, then, send email campaigns to let them know.
+[Reply IO](https://reply.io/sales-email-assistant/) - Generate human-like sales emails in seconds! Sales Email Assistant by Reply.io is an AI-powered tool that helps you create 100% human-like emails in seconds while focusing on personalization.
 
-[Ortto](https://aiinfinity.blogspot.com/p/email-assistantortto.html) - Journeys made simple Your customer data, messaging,and analytics working together.
+[Robin](https://hellorobin.ai/) - Robin AI writes and sends emails from your email address, adjusting the copy based on the lead information.
 
-[Outplayhq](https://aiinfinity.blogspot.com/p/email-assistantoutplayhq.html) - 3x your sales meetings, not your budget.
+[Smartwriter](https://www.smartwriter.ai/) - Generate 1000s of Personalised Emails that get you 8x more replies within minutes using AI.Never waste time researching or writing'personalised' emails again. Automate your entire outreach process. 40x faster and 6x cheaper than humans.
 
-[ParagraphAI](https://aiinfinity.blogspot.com/p/email-assistantparagraphai.html) - AI writing software drafts responses to emails, messages, comments, and more in seconds. Save time on otherwise tedious tasks and enjoy your newfound downtime.
+[SuperReply](https://superreply.co/) - Improve your productivity and free up time with superReply’s AI-powered email replies.
 
-[Pipl AI](https://aiinfinity.blogspot.com/p/email-assistantpipl-ai.html) - It is hard to send cold emails at scale. We make it a breeze. Connect unlimited inboxes, enjoy free warm-up for ALL your accounts, built-in email validation and data cleansing, AI-powered sequence & template writer and much more…
-
-[PolitePost](https://aiinfinity.blogspot.com/p/email-assistantpolitepost.html) - Rewriting your emails with AI to be polite/courteous/professional/safe for work.
-
-[Postaga](https://aiinfinity.blogspot.com/p/email-assistantpostaga.html) - No one likes to receive template emails. Postaga’s all-in-one outreach platform helps you build personalized outreach campaigns, with AI-powered tools to connect you with the right people.
-
-[Quicklines](https://aiinfinity.blogspot.com/p/email-assistantquicklines.html) - Quicklines helps you 
-create personalized cold emails that get more replies at scale.
-
-[Regie](https://aiinfinity.blogspot.com/p/email-assistantregie.html) - Regie.ai is your all-in-one content creation and management system.
-
-[Reply IO](https://aiinfinity.blogspot.com/p/email-assistantreply-io.html) - Generate human-like sales emails in seconds! Sales Email Assistant by Reply.io is an AI-powered tool that helps you create 100% human-like emails in seconds while focusing on personalization.
-
-
-[Robin](https://aiinfinity.blogspot.com/p/email-assistantrobin.html) - Robin AI writes and sends emails from your email address, adjusting the copy based on the lead information.
-
-[Smartwriter](https://aiinfinity.blogspot.com/p/email-assistantsmartwriter.html) - Generate 1000s of Personalised Emails that get you 8x more replies within minutes using AI.Never waste time researching or writing'personalised' emails again. Automate your entire outreach process. 40x faster and 6x cheaper than humans.
-
-[SuperReply](https://aiinfinity.blogspot.com/p/email-assistantsuperreply.html) - Improve your productivity and free up time with superReply’s AI-powered email replies.
-
-[Warmer AI](https://aiinfinity.blogspot.com/p/email-assistantwarmer-ai.html) - Sky rocket your cold emails with unique personalizations generated by AI.
+[Warmer AI](https://warmer.ai/) - Sky rocket your cold emails with unique personalizations generated by AI.
 
 ### •Fashion:
 
@@ -533,90 +476,59 @@ create personalized cold emails that get more replies at scale.
 
 ### •Image Editing:
 
-[AI Image Enlarger](https://aiinfinity.blogspot.com/p/image-editingai-image-enlarger.html) - All-in-one AI toolkits help you enhance and upscale images. Increases image resolution without losing quality.
+[Befunky](https://www.befunky.com/) - BeFunky has an amazing collection of tools and features for photo editing, collage making, and graphic design. 
 
-[Befunky](https://aiinfinity.blogspot.com/p/image-editingbefunky.html) - BeFunky has an amazing collection of tools and features for photo editing, collage making, and graphic design. 
+[Bgsub](https://bgsub.com/) - Automatically replace the background by AI!
 
-[Bg Eraser](https://aiinfinity.blogspot.com/p/image-editingbg-eraser.html) - Remove objects and Clean up pics.
+[Bria](https://bria.ai/) - The easiest way to find, create, and edit visuals content.
 
-[Bgsub](https://aiinfinity.blogspot.com/p/image-editingbgsub.html) - Automatically replace the background by AI!
- 
-[Booth AI](https://aiinfinity.blogspot.com/p/image-editingbooth-ai.html) - Create pro quality product photography with AI.
+[Designify](https://www.designify.com/) - Pick any image to create AI-powered designs by automatically removing backgrounds, enhancing colors, adjusting smart shadows, and so much more.
 
-[Bria](https://aiinfinity.blogspot.com/p/image-editingbria.html) - The easiest way to find, create, and edit visuals content.
+[Erase bg](https://www.erase.bg/) - Remove background from images of humans, animals or objects and download high-resolution images for free.
 
-[Designify](https://aiinfinity.blogspot.com/p/image-editingdesignify.html) - Pick any image to create AI-powered designs by automatically removing backgrounds, enhancing colors, adjusting smart shadows, and so much more.
+[Evoto AI](https://www.evoto.ai/) - Evoto is a next-generation image editor.
 
-[Erase bg](https://aiinfinity.blogspot.com/p/image-editingerase-bg.html) - Remove background from images of humans, animals or objects and download high-resolution images for free.
+[Getimg AI](https://getimg.ai/) - Stable Diffusion Outpainting with AI Editor.
 
-[Evoto AI](https://aiinfinity.blogspot.com/p/image-editingevoto-ai.html) - Evoto is a next-generation image editor.
+[Green Screen AI](https://greenscreenai.com/) - Change the background of any image with AI.
 
-[Getimg AI](https://aiinfinity.blogspot.com/p/image-editinggetimg-ai.html) - Stable Diffusion Outpainting with AI Editor.
+[Hama-Image Editing](https://www.hama.app/) - Hama is an AI-powered web application that lets you erase objects from your photo with a single brush.
 
-[Green Screen AI](https://aiinfinity.blogspot.com/p/image-editinggreen-screen-ai.html) - Change the background of any image with AI.
+[Let's Enhance](https://letsenhance.io/) - Automatic AI editor to increase image resolution without losing quality.
 
-[Hama-Image Editing](https://aiinfinity.blogspot.com/p/image-editinghama.html) - Hama is an AI-powered web application that lets you erase objects from your photo with a single brush.
+[Magic Eraser](https://magicstudio.com/magiceraser/) - Remove unwanted things in seconds.
 
-[Let's Enhance](https://aiinfinity.blogspot.com/p/image-editinglets-enhance.html) - Automatic AI editor to increase image resolution without losing quality.
+[Palette fm](https://palette.fm/) - Colorize Pictures!
 
-[Magic Eraser](https://aiinfinity.blogspot.com/p/image-editingmagic-eraser.html) - Remove unwanted things in seconds.
+[QuickTools by Picsart](https://tools.picsart.com/image/) - Make stunning edits with our image tools.
 
-[Nostalgia Photo](https://aiinfinity.blogspot.com/p/image-editingnostalgia-photo.html) - Nostalgia Photo brings old photos back to life with the latest cutting-edge Artificial Intelligence.
+[Radiant Photo](https://radiantimaginglabs.com/) - Get superior quality finished photos with perfect color rendition, delivered to you in record time.
 
-[Palette fm](https://aiinfinity.blogspot.com/p/image-editingpalette-fm.html) - Colorize Pictures!
+[Remove bg](https://www.remove.bg/) - Remove Image Background.
 
-[QuickTools by Picsart](https://aiinfinity.blogspot.com/p/image-editingquicktools-by-picsart.html) - Make stunning edits with our image tools.
+[RestorePhotos](https://www.restorephotos.io/) - Restoring old photos using AI for everyone.
 
-[Radiant Photo](https://aiinfinity.blogspot.com/p/image-editingradiant-photo.html) - Get superior quality finished photos with perfect color rendition, delivered to you in record time.
+[Topaz Photo AI](https://www.topazlabs.com/topaz-photo) - Maximize your image quality on autopilot.
 
-[Remove bg](https://aiinfinity.blogspot.com/p/image-editingremove-bg.html) - Remove Image Background.
-
-[RestorePhotos](https://aiinfinity.blogspot.com/p/image-editingrestorephotos.html) - Restoring old photos using AI for everyone.
-
-[Topaz Photo AI](https://aiinfinity.blogspot.com/p/image-editingtopaz-photo.html) - Maximize your image quality on autopilot.
-
-[Visio Studio](https://aiinfinity.blogspot.com/p/image-editingvisio-studio.html) - Advanced background removal tool, powered by computer vision technology.
+[Visio Studio](https://visio.studio/) - Advanced background removal tool, powered by computer vision technology.
 
 ### •Image Generator:
 
-[Aragon-Image Generation](https://aiinfinity.blogspot.com/p/image-generatoraragon.html) - PROFESSIONAL HEADSHOTS
-WITHOUT THE HASSLE
+[Aragon-Image Generation](https://www.aragon.ai/) - PROFESSIONAL HEADSHOTS WITHOUT THE HASSLE
 
-[Artssy](https://aiinfinity.blogspot.com/p/image-generatorartssy.html) - Create unique AI generated images in 1-click.
+[Canva Text to Image](https://www.canva.com/ai-image-generator/) - Type what you'd like to see, and watch it come to life.
 
-[BlueWillow](https://aiinfinity.blogspot.com/p/image-generatorbluewillow.html) - Bring your ideas to life with AI-generated images.
+[Craiyon](https://www.craiyon.com/) - Free online AI image generator from text.(Formerly DALL-E Mini)
 
-[Canva Text to Image](https://aiinfinity.blogspot.com/p/image-generatorcanva-text-to-image.html) - Type what you'd like to see, and watch it come to life.
+[DallE-2](https://openai.com/index/dall-e-2/) - DALL·E 2 can create original, realistic images and art from a text description.It can combine concepts,attributes,and styles.
 
-[Craiyon](https://aiinfinity.blogspot.com/p/image-generatorcraiyon.html) - Free online AI image generator from text.(Formerly DALL-E Mini)
+[Human Generator](https://generated.photos/human-generator) - Generator of Human Photos.
 
-[DallE-2](https://aiinfinity.blogspot.com/p/image-generatordalle-2.html) - DALL·E 2 can create original, realistic images and art from a text description.It can combine concepts,attributes,and styles.
+[Midjourney](https://www.midjourney.com/) - You can generate images with the Midjourney Bot on Discord.
 
-[Diffusion Land](https://aiinfinity.blogspot.com/p/image-generatordiffusion-land.html) - Generate images with AI.
+[Nijijourney](https://nijijourney.com/home) - Let's make magic anime pictures!
 
-[Dreamer](https://aiinfinity.blogspot.com/p/image-generatordreamer.html) - Are you using Notion?
-You want to use AI generated images without friction?
-SlashDreamer introduces a new command: /dream
-
-[Getalpaca](https://aiinfinity.blogspot.com/p/image-generatorgetalpaca.html) - Combining Human skill and AI generative power! Photoshop Plugin.
-
-[Imgcreator](https://aiinfinity.blogspot.com/p/image-generatorimgcreator.html) - AI based image generator.
-
-[Midjourney](https://aiinfinity.blogspot.com/p/image-generatormidjourney.html) - You can generate images with the Midjourney Bot on Discord.
-
-[Nijijourney](https://aiinfinity.blogspot.com/p/image-generatornijijourney.html) - Let's make magic anime pictures!
-
-[Pollinations](https://aiinfinity.blogspot.com/p/image-generatorpollinations.html) - Explain your vision using any language and watch it come to live.
-
-[Soreal AI Studio](https://aiinfinity.blogspot.com/p/image-generatorsoreal.html) - Type anything you want to see. Get custom AI images in seconds.
-
-[Stock AI](https://aiinfinity.blogspot.com/p/image-generatorstock-ai.html) - AI-generated stock photos.
-
-[Stylized](https://aiinfinity.blogspot.com/p/image-generatorstylized.html) - Stunning product photos that sell!
-
-[Xno AI](https://aiinfinity.blogspot.com/p/image-generatorxno-ai.html) - Text to Image Generator.
-
-[Human Generator](https://generated.photos/human-generator) - Generator of Human Photos .
+[Pollinations](https://pollinations.ai/) - Explain your vision using any language and watch it come to live.
 
 ### •Legal Assistant:
 
@@ -668,109 +580,79 @@ SlashDreamer introduces a new command: /dream
 
 ### •Low/No Code:
 
-[10Web](https://aiinfinity.blogspot.com/p/nlc10web.html) - AI-Powered WordPress Platform
+[10Web](https://10web.io/) - AI-Powered WordPress Platform
 
-[AI Surge Cloud](https://aiinfinity.blogspot.com/p/nlcai-surge-cloud.html) - Deploy your predictive model for free.
+[Axiom](https://axiom.ai/) - Browser Automation. Quickly, without code.
 
-[Anybott](https://aiinfinity.blogspot.com/p/nlcanybott.html) - Create AI-based chatbots to automate businesses, quickly and effortlessly.
+[B12 io](https://www.b12.io/) - B12 is the only all-in-one AI website builder that makes it easy for professional service providers to attract, win, and serve clients online.
 
-[AskAI](https://aiinfinity.blogspot.com/p/nlcaskai.html) - Build your own AI Q&A, with any content in minutes. Share it anywhere on the web.
+[Bardeen AI](https://www.bardeen.ai/ai) - Coming in 2023 – Bardeen is introducing breakthrough AI to automate manual workflows, save you time, and empower your creativity.  
 
-[Axiom](https://aiinfinity.blogspot.com/p/nlcaxiom.html) - Browser Automation. Quickly, without code.
+[Berri AI](https://berri.ai/) - Berri lets you easily connect your data and build production-ready chatGPT apps in minutes.
 
-[B12 io](https://aiinfinity.blogspot.com/p/nlcb12-io.html) - B12 is the only all-in-one AI website builder that makes it easy for professional service providers to attract, win, and serve clients online.
+[Block Survey](https://blocksurvey.io/) - BlockSurvey is a privacy-first platform. No ads, no trackers. Protect your respondents' data and privacy. The only survey tool that keeps your data safe.
 
-[Bardeen AI](https://aiinfinity.blogspot.com/p/nlcbardeen-ai.html) - Coming in 2023 – Bardeen is introducing breakthrough AI to automate manual workflows, save you time, and empower your creativity.  
+[Brancher AI](https://www.brancher.ai/) - Connect AI models to build AI apps in minutes, with no code.
 
-[BatchGPT](https://aiinfinity.blogspot.com/p/nlcbatchgpt.html) - Batch Process Your Data With AI.
+[Browse AI](https://www.browse.ai/) - The easiest way to extract and monitor data from any website.
 
-[Berri AI](https://aiinfinity.blogspot.com/p/nlcberri-ai.html) - Berri lets you easily connect your data and build production-ready chatGPT apps in minutes.
+[Build AI](https://www.buildai.space/) - Build your own AI-powered web apps tailored to your business. No technical skills required.
 
-[Block Survey](https://aiinfinity.blogspot.com/p/nlcblock-survey.html) - BlockSurvey is a privacy-first platform. No ads, no trackers. Protect your respondents' data and privacy. The only survey tool that keeps your data safe.
+[Chatbotkit](https://chatbotkit.com/) - The simplest way to build advanced AI chat bots.
 
-[Brancher AI](https://aiinfinity.blogspot.com/p/nlcbrancher-ai.html) - Connect AI models to build AI apps in minutes, with no code.
+[Cogniflow](https://www.cogniflow.ai/) - Boost your productivity. Integrate AI into your workflow.
 
-[Browse AI](https://aiinfinity.blogspot.com/p/nlcbrowse-ai.html) - The easiest way to extract and monitor data from any website.
+[CustomGPT](https://customgpt.ai/) - Build Your Own ChatBOT With Your Data.
 
-[Build AI](https://aiinfinity.blogspot.com/p/nlcbuild-ai.html) - Build your own AI-powered web apps tailored to your business. No technical skills required.
+[Durable](https://durable.co/) - The AI website builder that generates an entire website with images and copy in seconds.
 
-[Chatbotkit](https://aiinfinity.blogspot.com/p/nlcchatbotkit.html) - The simplest way to build advanced AI chat bots.
+[Dystr](https://dystr.com/) - Maximize your productivity - focus on the task at hand and automate the rest.
 
-[ChatGPT Website Builder](https://aiinfinity.blogspot.com/p/nlc-chatgpt-website-builder.html) - Build websites with AI.
+[Gooey AI](https://gooey.ai/) - The best place to build, distribute & find Generative AI apps.
 
-[Cogniflow](https://aiinfinity.blogspot.com/p/nlccogniflow.html) - Boost your productivity. Integrate AI into your workflow.
+[GPTAgent](https://www.gptagent.com/) - The easiest way to build AI apps.
 
-[CustomGPT](https://aiinfinity.blogspot.com/p/nlccustomgpt.html) - Build Your Own ChatBOT With Your Data.
+[IFTTT](https://ifttt.com/) - Quickly and easily automate your favorite apps and devices.
 
-[Durable](https://aiinfinity.blogspot.com/p/nlcdurable.html) - The AI website builder that generates an entire website with images and copy in seconds.
+[Kadoa](https://www.kadoa.com/) - Effortless Data Extraction in Seconds.
 
-[Dust](https://aiinfinity.blogspot.com/p/nlcdust.html) - Make and Deploy Large Language Model Apps.
+[Levity](https://levity.ai/) - Powerful AI that takes care of your daily tasks. Stop manually processing your text, document, and image data. Let AI work its magic, without a single line of code.
 
-[Dystr](https://aiinfinity.blogspot.com/p/nlcdystr.html) - Maximize your productivity - focus on the task at hand and automate the rest.
+[Lighting AI](https://lightning.ai/) - Train, deploy, and ship AI products Lightning fast.
 
-[Felvin](https://aiinfinity.blogspot.com/p/nlcfelvin.html) - Discover and Build your unique AI-enabled app from just a prompt.
+[Liner AI](https://liner.ai/) - Liner is a free tool that lets you train your ML models easily. It takes your training data and gives you an easy-to-integrate ML model. No coding or expertise in machine learning required.
 
-[Gooey AI](https://aiinfinity.blogspot.com/p/nlcgooey-ai.html) - The best place to build, distribute & find Generative AI apps.
+[Lobe](https://lobe.ai/) - Create machine learning models with a free, easy to use tool.
 
-[GPTAgent](https://aiinfinity.blogspot.com/p/nlcgptagent.html) - The easiest way to build AI apps.
+[MarsAI](https://marsx.dev/) - MarsX: Changing the game of software development.Code + NoCode + AI
 
-[IFTTT](https://aiinfinity.blogspot.com/p/nlcifttt.html) - Quickly and easily automate your favorite apps and devices.
+[Nanonets](https://nanonets.com/) - Automate Manual Data Entry Using AI.Capture data from documents instantly. Reduce turn around times and the manual effort required.
 
-[Kadoa](https://aiinfinity.blogspot.com/p/nlckadoa.html) - Effortless Data Extraction in Seconds.
+[Obviously AI](https://www.obviously.ai/) - Turn AI into ROI by going from raw data to industry leading predictive models in minutes, not months.
 
-[Levity](https://aiinfinity.blogspot.com/p/nlclevity.html) - Powerful AI that takes care of your daily tasks. Stop manually processing your text, document, and image data. Let AI work its magic, without a single line of code.
+[Outset AI](https://outset.ai/) - Power your products with the cutting edge models behind ChatGPT. No AI-expertise required.
 
-[Lighting AI](https://aiinfinity.blogspot.com/p/nlclightning-ai.html) - Train, deploy, and ship AI products Lightning fast.
+[Pliny](https://www.pliny.app/) - Pliny provides a lightweight interface to turn your prompt into a shareable app. Anyone can run your app for free on their own inputs, or remix it to create a new version.
 
-[Liner AI](https://aiinfinity.blogspot.com/p/nlcliner-ai.html) - Liner is a free tool that lets you train your ML models easily. It takes your training data and gives you an easy-to-integrate ML model. No coding or expertise in machine learning required.
+[Roboflow](https://roboflow.com/) - With a few images, you can deploy a computer vision model in an afternoon. 
 
-[Lobe](https://aiinfinity.blogspot.com/p/nlclobe.html) - Create machine learning models with a free, easy to use tool.
+[Sitekick](https://www.sitekick.ai/) - Sitekick is an AI landing page builder. It allows you to create beautiful landing pages without the need for coding, design or copywriting skills.
 
-[Magick](https://aiinfinity.blogspot.com/p/nlcmagick.html) - Cutting-edge AI tools at your fingertips. Powerful and production-ready with no code, no deployment, and no headache.
+[Softr](https://www.softr.io/) - Softr offers pre-built and functional blocks like Lists, Charts, Forms, Tables, Calendar, Maps out of the box, so you don’t need to reinvent them from scratch. Put together your app in a few minutes with drag and drop, without developers.
 
-[MarsAI](https://aiinfinity.blogspot.com/p/nlcmarsx.html) - MarsX: Changing the game of software development.Code + NoCode + AI
+[Steamship](https://www.steamship.com/) - Steamship is a Managed Backend for AI services.
 
-[Nanonets](https://aiinfinity.blogspot.com/p/nlcnanonets.html) - Automate Manual Data Entry Using AI.Capture data from documents instantly. Reduce turn around times and the manual effort required.
+[Stunning](https://stunning.so/) - Build websites with AI.
 
-[Obviously AI](https://aiinfinity.blogspot.com/p/nlc-obviously-ai.html) - Turn AI into ROI by going from raw data to industry leading predictive models in minutes, not months.
+[Tally](https://tally.so/) - Create forms for all purposes in seconds. Without knowing how to code, and for free!
 
-[Onu](https://aiinfinity.blogspot.com/p/nlconu.html) - Onu is a developer-first tool that allows engineers to quickly turn their scripts or workflows into production-ready internal tools without writing any frontend code at all.
+[TextToMap](https://www.textomap.com/) - Generate insightful maps from text & questions containing locations.
 
-[Outset AI](https://aiinfinity.blogspot.com/p/nlc-outset-ai.html) - Power your products with the cutting edge models behind ChatGPT. No AI-expertise required.
+[Visily AI](https://www.visily.ai/) - Design stunning app wireframes at light speed.
 
-[Pliny](https://aiinfinity.blogspot.com/p/nlcpliny.html) - Pliny provides a lightweight interface to turn your prompt into a shareable app. Anyone can run your app for free on their own inputs, or remix it to create a new version.
+[Wand AI](https://wand.ai/) - Wand gives everyone the AI power to solve business problems and create value faster than ever before.
 
-[Prisms AI](https://aiinfinity.blogspot.com/p/nlcprisms-ai.html) - The no-code platform for building AI‑powered apps.
-
-[Retune](https://aiinfinity.blogspot.com/p/nlcretune.html) - The missing frontend for GPT-3,
-Build GPT-3 powered apps,without writing any code.
-
-[Riku AI](https://aiinfinity.blogspot.com/p/nlcriku-ai.html) - Empowering you to build AI models without code. Use AI through integrations, API, or public share links. Accessible AI for everyone.
-
-[Roboflow](https://aiinfinity.blogspot.com/p/nlcroboflow.html) - With a few images, you can deploy a computer vision model in an afternoon. 
-
-[Sitekick](https://aiinfinity.blogspot.com/p/nlc-sitekick.html) - Sitekick is an AI landing page builder. It allows you to create beautiful landing pages without the need for coding, design or copywriting skills.
-
-[Softr](https://aiinfinity.blogspot.com/p/nlcsoftr.html) - Softr offers pre-built and functional blocks like Lists, Charts, Forms, Tables, Calendar, Maps out of the box, so you don’t need to reinvent them from scratch. Put together your app in a few minutes with drag and drop, without developers.
-
-[Steamship](https://aiinfinity.blogspot.com/p/nlc-steamship.html) - Steamship is a Managed Backend for AI services.
-
-[Tally](https://aiinfinity.blogspot.com/p/nlctally.html) - Create forms for all purposes in seconds.
-Without knowing how to code, and for free!
-
-[Teachable Machine](https://aiinfinity.blogspot.com/p/nlcteachable-machine.html) - A fast, easy way to create machine learning models for your sites, apps, and more – no expertise or coding required.
-
-[TextToMap](https://aiinfinity.blogspot.com/p/nlctexttomap.html) - Generate insightful maps from text & questions containing locations.
-
-[VFitter](https://aiinfinity.blogspot.com/p/nlcvfitter.html) - Create custom no-code AI tools that speed everything up!
-
-[Visily AI](https://aiinfinity.blogspot.com/p/nlc-visily-ai.html) - Design stunning app wireframes at light speed.
-
-[Wand AI](https://aiinfinity.blogspot.com/p/nlcwand-ai.html) - Wand gives everyone the AI power to solve business problems and create value faster than ever before.
-
-[Water](https://aiinfinity.blogspot.com/p/nlcwater.html) - No code ChatGPT builder.
-
-[Zapier](https://aiinfinity.blogspot.com/p/nlczapier.html) - Zapier empowers you to automate your work across 5,000+ apps—so you can move forward, faster.
+[Zapier](https://zapier.com/) - Zapier empowers you to automate your work across 5,000+ apps—so you can move forward, faster.
 
 ### •Paraphraser:
 
@@ -824,53 +706,33 @@ Without knowing how to code, and for free!
 
 ### •Productivity:
 
-[Albus](https://aiinfinity.blogspot.com/p/productivityalbus.html) - Albus is not just an Assistant He is a Friend/mentor.
+[Buster](https://www.buster.so/) - Ask any data question in plain english. Get answers in the form of charts, graphs, tables, etc - instantly.
 
-[Buster](https://aiinfinity.blogspot.com/p/productivitybuster.html) - Ask any data question in plain english. Get answers in the form of charts, graphs, tables, etc - instantly.
+[ChatGPT Chrome Extension](https://chromewebstore.google.com/detail/zuvu-ai-the-ultimate-ai-a/feeonheemodpkdckaljcjogdncpiiban)- Display ChatGPT response alongside Google, Bing, DuckDuckGo Search results.
 
-[ChatGPT Chrome Extension](https://aiinfinity.blogspot.com/p/productivitychatgpt-chrome-extension.html)- Display ChatGPT response alongside Google, Bing, DuckDuckGo Search results.
+[DeepL](https://www.deepl.com/en/translator) - Millions translate with DeepL every day.
 
-[ChatGPT Writer](https://aiinfinity.blogspot.com/p/productivitychatgpt-writer.html) - Free Chrome extension to generate entire emails and messages using ChatGPT AI. 
+[Mem AI](https://get.mem.ai/) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
 
-[Cogniflow](https://aiinfinity.blogspot.com/p/productivitycogniflow.html) - Boost your productivity. Integrate AI into your workflow.
+[Merlin](https://www.getmerlin.com/) - Open AI’s GPT powered extension to use anywhere!
 
-[DeepL](https://aiinfinity.blogspot.com/p/productivitydeepl.html) - Millions translate with DeepL every day.
+[MinutesLink](https://minuteslink.com/) - AI note taker for online meetings. Audio recordings, detailed transcripts, and precise meeting minutes that can be easily edited and shared.
 
-[Ipso AI](https://aiinfinity.blogspot.com/p/productivityipso-ai.html) - AI assistant that manages calendars & drafts emails based on your unique preferences, powered by GPT-3.
+[Nanonets](https://nanonets.com/) - Automate Manual Data Entry Using AI.Capture data from documents instantly. Reduce turn around times and the manual effort required.
 
-[Maester App](https://aiinfinity.blogspot.com/p/productivitymaester.html) - Unlock the full potential of GPT-3 with our intuitive Template Engine.Quickly generate custom output tailored to your repeated needs and share them with the world.
+[Notion AI](https://www.notion.com/product/ai) - Leverage the limitless power of AI in any Notion page. Write faster, think bigger, and augment your creativity. Like magic!
 
-[Mem AI](https://aiinfinity.blogspot.com/p/productivitymem-ai.html) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
+[Reclaim AI](https://reclaim.ai/) - Reclaim creates the perfect schedule for your team's priorities, and saves up to 40% of the workweek with intelligent, flexible and adaptive time orchestration.
 
-[Merlin](https://aiinfinity.blogspot.com/p/productivitymerlin.html) - Open AI’s GPT powered extension to use anywhere!
+[Scale](https://scale.com/) - Better data leads to more performant models. Performant models lead to faster deployment. Deliver value from your AI investments faster with better data.
 
-[Nanonets](https://aiinfinity.blogspot.com/p/productivitynanonets.html) - Automate Manual Data Entry Using AI.Capture data from documents instantly. Reduce turn around times and the manual effort required.
-
-[Notion AI](https://aiinfinity.blogspot.com/p/productivitynotion-ai.html) - Leverage the limitless power of AI in any Notion page. Write faster, think bigger, and augment your creativity. Like magic!
-
-[Personal AI](https://aiinfinity.blogspot.com/p/productivitypersonal-ai.html) - Built-in Personal AI messaging for an everlasting connection with the people and ideas in your world.
-
-[Puzzle](https://aiinfinity.blogspot.com/p/productivitypuzzle.html) - The AI-powered glossary for your end customers/community.
-
-[Rationale](https://aiinfinity.blogspot.com/p/productivityrationale.html) - A revolutionary Al to assist business owners, managers, and individuals in making tough decisions.
-
-[Reclaim AI](https://aiinfinity.blogspot.com/p/productivityreclaim-ai.html) - Reclaim creates the perfect schedule for your team's priorities, and saves up to 40% of the workweek with intelligent, flexible and adaptive time orchestration.
-
-[Scale](https://aiinfinity.blogspot.com/p/productivityscale.html) - Better data leads to more performant models. Performant models lead to faster deployment. Deliver value from your AI investments faster with better data.
-
-[Supernormal](https://aiinfinity.blogspot.com/p/productivitysupernormal.html) - Supernormal helps you create amazing meeting notes without lifting a finger.
+[Supernormal](https://www.supernormal.com/) - Supernormal helps you create amazing meeting notes without lifting a finger.
 
 [Taskade](https://www.taskade.com) - AI-Powered Productivity Suite. Generate Mind Maps, Flow Charts, Workflows Instantly. Organize and Manage Tasks and Projects with AI.
 
 [TextCraft](https://github.com/suncloudsmoon/TextCraft) - Add-in for Microsoft Word that seamlessly integrates essential AI tools, including text generation, proofreading, and more, directly into the user interface.
 
-[TinyWow](https://aiinfinity.blogspot.com/p/productivitytinywow.html) - PDF, video, image and other online tools to make your life easier.
-
-[typly](https://aiinfinity.blogspot.com/p/productivitytyply.html) - Typly is the ultimate cutting edge AI keyboard that helps you to answer all your messages with a single click!
-
-[Xembly](https://aiinfinity.blogspot.com/p/productivityxembly.html) - An automated chief of staff to handle the tasks that slow you down.
-
-[MinutesLink](https://minuteslink.com/) - AI note taker for online meetings. Audio recordings, detailed transcripts, and precise meeting minutes that can be easily edited and shared.
+[TinyWow](https://tinywow.com/) - PDF, video, image and other online tools to make your life easier.
 
 ### •Prompts:
 
