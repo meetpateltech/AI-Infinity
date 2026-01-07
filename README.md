@@ -431,7 +431,7 @@ without writing any code.
 
 [Pieces](https://pieces.app/) - AI-enabled productivity tool designed to supercharge developer efficiency,with an on-device copilot that helps capture, enrich, and reuse useful materials, streamline collaboration, and solve complex problems through a contextual understanding of dev workflow
 
-[FlyonUI](https://flyonui.com/) - FlyonUI is an open-source Tailwind CSS component library designed to streamline the development of modern, responsive, and interactive user interfaces.
+[FlyonUI](https://flyonui.com/ide-extension) - Design visually and ship faster with FlyonUI, an open-source Tailwind CSS component library with AI assistance, right in your browser or IDE.
 
 ### •Education:
 
