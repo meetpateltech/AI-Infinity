@@ -818,6 +818,8 @@ Effortless integration. For any data, including video, wherever it is. 
 
 [OnRanko](https://onranko.com) - OnRanko helps businesses grow organically with a personalized SEO strategy and free AI-powered Agetns for SEO and digital marketing.
 
+[Serplux](https://serplux.com/) - Supercharge your SEO and content workflows with Serplux's AI-powered agents. Automate insights, accelerate organic growth, and unlock revenue - all without lifting a finger.
+
 ### •Social Media Assistant:
 
 [AI Social Bio](https://aisocialbio.com/) - Your social media bio, created by artificial intelligence.
