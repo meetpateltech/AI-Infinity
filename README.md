@@ -408,6 +408,8 @@ Effortless integration. For any data, including video, wherever it is. 
 
 [MathSolver](mathsolver.top) - A FREE AI Math Problem Solver to Provide Step-by-Step Solution and Personalized Tutoring. 25% higher accuracy than ChatGPT
 
+[AxisY](https://axisy.tech) - Turn any concept into an interactive visualization map for easier understanding.
+
 ### •Email Assistant:
 
 [ChatGPT Writer](https://chatgptwriter.ai/) - Free Chrome extension to generate entire emails and messages using ChatGPT AI. All sites are supported and enhanced support for Gmail.
