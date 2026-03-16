@@ -11,43 +11,48 @@
 > Hello! Thanks for your support on our AI Infinity GitHub repo. We're continually updating it with 1600+ AI tools, adding categories, prices, and descriptions daily on our Notion Database. For the latest tools, visit our [AI Tools Directory on Notion](https://aiinfinity-meetpatel.notion.site/AI-Infinity-AI-Tools-Directory-0da673c487124ea2b6f8ebe59b75a231). Your engagement is appreciated! Plus, explore our [ChatGPT Maximizer Tools](https://max-aiinfinity.vercel.app/).
 
 ### Categories:
-- [AI Detection 🕵️](#ai-detection)
-- [Audio 📣](#audio)
-- [Avatars 👤](#avatars)
-- [Chat 💬](#chat)
-- [Coding 🖥️](#coding-tools)
-- [Copywriting ⌨️](#copywriting)
-- [Customer Support 💁](#customer-support)
-- [Design Assistant 🎨](#design-assistant)
-- [Developer 👨‍💻](#developer-tools)
-- [Education 👨‍🏫️](#education)
-- [Email 📧](#email-assistant)
-- [Fashion 👜](#fashion)
-- [Gift Ideas 🎁](#gift-ideas)
-- [Healthcare 🏥](#healthcare)
-- [Image Editing 📷](#image-editing)
-- [Image Generator 🖼️](#image-generator)
-- [Legal Assistant ⚖️](#legal-assistant)
-- [Logo Generator 👨‍🎨️](#logo-generator)
-- [Music 🎵](#music)
-- [No/Low Code 🧩](#lowno-code)
-- [Paraphraser 📝](#paraphraser)
-- [Personalised Video 📼](#personalised-video)
-- [Phone Calls 📞](#phone-calls)
-- [Presentation 📖](#presentation)
-- [Productivity 💻](#productivity)
-- [Prompts 💭](#prompts)
-- [Real Estate 🏠](#real-estate)
-- [Research 🔬](#research)
-- [Search Engine 🔍](#search-engine)
-- [SEO 🌐](#seo)
-- [Social Media Assistant 📱](#social-media-assistant)
-- [Spreadsheets 🗂️](#spreadsheets)
-- [Summarizer 📃](#summarizer)
-- [Text To Speech 📜🎙️](#text-to-speech)
-- [Transcriber 🎧](#transcriber)
-- [Video Editing 📽️](#video-editing)
-- [Video Generator 📹](#video-generator)
+- [⚠️Update:](#️update)
+    - [Categories:](#categories)
+    - [•AI Detection:](#ai-detection)
+    - [•Audio:](#audio)
+    - [•Avatars:](#avatars)
+    - [•Chat:](#chat)
+    - [•Coding Tools:](#coding-tools)
+    - [•CopyWriting:](#copywriting)
+    - [•Customer Support:](#customer-support)
+    - [•Design Assistant:](#design-assistant)
+    - [•Developer Tools:](#developer-tools)
+    - [•Education:](#education)
+    - [•Email Assistant:](#email-assistant)
+    - [•Fashion:](#fashion)
+    - [•Fun:](#fun)
+    - [•Gift Ideas:](#gift-ideas)
+    - [•Healthcare:](#healthcare)
+    - [•Image Editing:](#image-editing)
+    - [•Image Generator:](#image-generator)
+    - [•Legal Assistant:](#legal-assistant)
+    - [•Logo Generator:](#logo-generator)
+    - [•Music:](#music)
+    - [•Low/No Code:](#lowno-code)
+    - [•Paraphraser:](#paraphraser)
+    - [•Personalised Video:](#personalised-video)
+    - [•Phone Calls:](#phone-calls)
+    - [•Presentation:](#presentation)
+    - [•Productivity:](#productivity)
+    - [•Prompts:](#prompts)
+    - [•Real Estate:](#real-estate)
+    - [•Screen Tools:](#screen-tools)
+    - [•Research:](#research)
+    - [•Search Engine:](#search-engine)
+    - [•SEO:](#seo)
+    - [•Social Media Assistant:](#social-media-assistant)
+    - [•Spreadsheets:](#spreadsheets)
+    - [•Startup Tools:](#startup-tools)
+    - [•Summarizer:](#summarizer)
+    - [•Text To Speech:](#text-to-speech)
+    - [•Transcriber:](#transcriber)
+    - [•Video Editing:](#video-editing)
+    - [•Video Generator:](#video-generator)
 
 
 ### •AI Detection:
@@ -474,6 +479,8 @@ Effortless integration. For any data, including video, wherever it is. 
 
 [Medical Diagnosis Assistant](https://medicaldiagnosticassistant.streamlit.app/) - Experience the future of healthcare with our ChatGPT-powered medical diagnostic and symptom checking tool.
 
+[Sleep Calculator](https://calculatorsleep.org/) - Use our sleep cycle calculator to find your ideal bedtime and wake-up time.
+
 [Symptom Checker](https://symptomchecker.io/) - AI Powered Medical Symptom Checker.
 
 ### •Image Editing:
@@ -771,6 +778,10 @@ Effortless integration. For any data, including video, wherever it is. 
 [Maket](https://www.maket.ai/) - Generative Design for Architectural Planning.
 
 [RoomGPT](https://www.roomgpt.io/) - Generating dream rooms using AI for everyone.
+
+### •Screen Tools:
+
+[Pink Screen](https://pinkscreen.org/) - Professional white screen tool for gentle ambient lighting, display testing, and creative backgrounds.
 
 ### •Research:
 
