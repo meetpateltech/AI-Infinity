@@ -247,6 +247,8 @@ Switch marketing to autopilot and grow.
 
 [Peppertype AI](https://www.peppercontent.io/peppertype-ai/) - Your Virtual Content Assistant Generate content that converts in seconds.
 
+[RapidTextAI](https://app.rapidtextai.com/) - Advanced AI article generator powered by GPT-4, Grok, Gemini, Deepseek and more. Create comprehensive, SEO-optimized content from 3,000+ word blog posts to converting ad copy in minutes. Features built-in AI detection bypass and humanization tools to ensure your content remains undetectable and authentic
+
 [Rytr](https://rytr.me/) - Rytr is an AI writing assistant that helps you create high-quality content, in just a few seconds, at a fraction of the cost!
 
 [Scalenut](https://www.scalenut.com/features/ai-copywriter) - The AI Copywriting Assistant, You Always Wanted Supercharge your copywriting with the world's best AI copywriter by Scalenut.
