@@ -496,6 +496,8 @@ Effortless integration. For any data, including video, wherever it is. 
 
 [Hama-Image Editing](https://www.hama.app/) - Hama is an AI-powered web application that lets you erase objects from your photo with a single brush.
 
+[igly.ai](https://igly.ai) - AI image editing platform for background removal, inpainting, upscaling, and generative fill.
+
 [Let's Enhance](https://letsenhance.io/) - Automatic AI editor to increase image resolution without losing quality.
 
 [Magic Eraser](https://magicstudio.com/magiceraser/) - Remove unwanted things in seconds.
