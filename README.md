@@ -476,6 +476,8 @@ Effortless integration. For any data, including video, wherever it is. 
 
 [Symptom Checker](https://symptomchecker.io/) - AI Powered Medical Symptom Checker.
 
+[Telo](https://blynkai.app/telo/) - AI wellness companion for iPhone that uses Apple Health context and daily logs to reflect on readiness, recovery, sleep, and body-state trends.
+
 ### •Image Editing:
 
 [Befunky](https://www.befunky.com/) - BeFunky has an amazing collection of tools and features for photo editing, collage making, and graphic design. 
@@ -735,6 +737,8 @@ Effortless integration. For any data, including video, wherever it is. 
 [TextCraft](https://github.com/suncloudsmoon/TextCraft) - Add-in for Microsoft Word that seamlessly integrates essential AI tools, including text generation, proofreading, and more, directly into the user interface.
 
 [TinyWow](https://tinywow.com/) - PDF, video, image and other online tools to make your life easier.
+
+[Tudo](https://blynkai.app/tudo/) - AI task manager for iPhone that turns voice notes, screenshots, shared content, and goals into organized tasks.
 
 ### •Prompts:
 
