@@ -658,6 +658,8 @@ Effortless integration. For any data, including video, wherever it is. 
 
 ### •Paraphraser:
 
+[Humanize-Text](https://github.com/lynote-ai/humanize-text) - Open-source Python toolkit for multi-stage rewriting of AI-assisted drafts.
+
 [Language Tool](https://languagetool.org/) - Write. Correct. Paraphrase.
 
 [Paraphraser](https://paraphrasetool.com/) - Paraphrase Tool can change any text in many different ways, ensuring that you find the perfect words, tone, style, and expression for all your writing needs.
