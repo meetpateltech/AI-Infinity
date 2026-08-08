@@ -1001,3 +1001,5 @@ into podcasts.Listen to any article, PDF, email,etc in your podcast app.
 [Waymark](https://waymark.com/) - Waymark's AI scans the web for local business data and automatically produces a video based on your brand.
 
 [Wowto](https://wowto.ai/) - Create how-to videos and host an engaging video knowledge base in minutes.
+
+[Vivideo](https://vivideo.ai) - Generate short videos from text prompts or images with synced audio across multiple AI models.
