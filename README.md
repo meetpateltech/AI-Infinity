@@ -990,6 +990,8 @@ into podcasts.Listen to any article, PDF, email,etc in your podcast app.
 
 [InVideo](https://invideo.io/) - Convert your script, article, or blog into video in minutes using InVideo’s AI based Text-to-Video editor.
 
+[videos.social](https://videos.social/?utm_source=ai-infinity&utm_medium=directory&utm_campaign=listing-wave-d) - Turns blogs, PDFs, and prompts into editable faceless videos.
+
 [Movio](https://www.heygen.com/?from=moviola) - Turn text into spokesperson video by typing and clicking.
 
 [Shuffll](https://shuffll.com/) - With the power of AI, we create videos that people ACTUALLY want to watch.
