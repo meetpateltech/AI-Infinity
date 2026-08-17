@@ -478,6 +478,10 @@ Effortless integration. For any data, including video, wherever it is. 
 
 ### •Image Editing:
 
+[FaceSwapAI](https://faceswapai.com/) - AI-powered online face swap tool for photos, videos, GIFs, and group images.
+
+[DeepSwapAI](https://deepswapai.com/) - AI-powered online face swap tool for creating realistic face swaps in photos, videos, GIFs, and multiple faces.
+
 [Befunky](https://www.befunky.com/) - BeFunky has an amazing collection of tools and features for photo editing, collage making, and graphic design. 
 
 [Bgsub](https://bgsub.com/) - Automatically replace the background by AI!
