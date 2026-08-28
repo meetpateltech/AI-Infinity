@@ -938,6 +938,8 @@ into podcasts.Listen to any article, PDF, email,etc in your podcast app.
 
 [Free Subtitle AI](https://freesubtitles.ai/) - Video to Subtitle Converter.
 
+[Memo AI](https://memoai.tech/ru) - AI meeting assistant and transcription service that turns meetings, audio, and video into accurate transcripts, AI summaries, key insights, decisions, action items, and structured reports.
+
 [Noty AI](https://noty.ai/) - Bye-Bye notepads! We've got Noty.ai, an AI-powered meeting assistant - transforming meetings into Transcriptions.
 
 [Peech](https://www.peech-ai.com/) - Automatically transcribe, edit, repurpose, and brand your video content.
