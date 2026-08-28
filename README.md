@@ -514,6 +514,8 @@ Effortless integration. For any data, including video, wherever it is. 
 
 [Visio Studio](https://visio.studio/) - Advanced background removal tool, powered by computer vision technology.
 
+[BulkPicTools](https://bulkpictools.com) - Privacy-First Bulk Image Workspace — Zero Uploads, Local AI.
+
 ### •Image Generator:
 
 [Aragon-Image Generation](https://www.aragon.ai/) - PROFESSIONAL HEADSHOTS WITHOUT THE HASSLE
