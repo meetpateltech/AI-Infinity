@@ -970,6 +970,8 @@ into podcasts.Listen to any article, PDF, email,etc in your podcast app.
 
 [Runwayml](https://runwayml.com/) - With 30+ AI Magic Tools, real-time video editing, collaboration, and more, Runway is your next-generation content creation suite.
 
+[ScaleReach](https://www.scalereach.ai/) - Turn long YouTube and other videos into vertical 9:16 short clips with AI captions and face-tracking crop.
+
 [Topaz Video AI](https://www.topazlabs.com/topaz-video-ai) - Unlimited access to the world’s leading production-grade neural networks for video upscaling, deinterlacing, motion interpolation, and shake stabilization.
 
 [Unscreen](https://www.unscreen.com/) - Remove Video Background.
