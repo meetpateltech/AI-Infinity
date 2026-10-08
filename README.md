@@ -231,6 +231,8 @@ Choose Your Character, Create Magical Avatars.
 [DigitalFirst AI](https://www.digitalfirst.ai/) - Find the best growth-hacking tactics for your business with AI
 Switch marketing to autopilot and grow.
 
+[Dearovo](https://www.dearovo.com/) - AI-assisted relationship message writing with situation-aware tone and length controls.
+
 [Easy-Peasy AI](https://easy-peasy.ai/) - Easy-Peasy.AI is the AI Content Generator that helps you and your team break through creative blocks to create amazing, original content 10X faster.
 
 [Eilla AI](https://eilla.ai/) - Generate content in seconds and save valuable time for your team with the power of AI.
