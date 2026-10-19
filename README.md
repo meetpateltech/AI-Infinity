@@ -778,6 +778,8 @@ Effortless integration. For any data, including video, wherever it is. 
 
 [Elicit](https://elicit.com/) - The AI Research Assistant! Elicit uses language models to help you automate research workflows, like parts of literature review.
 
+[Pulse](https://pulsecorp.co) - AI-moderated market research platform that runs customer interviews at scale.
+
 [Scispace](https://scispace.com/) - Your AI Copilot to decode any research paper.
 
 [Scite](https://scite.ai/) - scite is a Brooklyn-based startup that helps researchers better discover and understand research articles through Smart Citations.
