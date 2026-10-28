@@ -297,6 +297,8 @@ Switch marketing to autopilot and grow.
 
 [Simple Phones](https://www.simplephones.ai/) - Never miss a call from a customer.Forward your missed calls,or get a new number, and we'll answer it using AI.
 
+[SwiftCall](https://swiftcall.org/ai-agents) - AI phone agent that answers every call for a small business, qualifies the caller and books the appointment.
+
 [Tiledesk](https://tiledesk.com/) - The all-in-one customer engagement platform! From lead-gen to post-sales, from WhatsApp to your website.With omni-channel live chat and chatbots
 
 [Twig](https://www.twig.so/) - Twig is an AI assistant that resolves customer issues instantly, supporting both users and support agents 24/7.
