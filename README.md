@@ -879,6 +879,8 @@ Updating...
 
 [Otter AI](https://otter.ai/) - Otter is your AI assistant that writes and summarizes meeting notes for your team, 30x faster than you can. 
 
+[OneMira C1](https://onemira.com/products/c1) - Standalone AI voice recorder with Local AI summaries, automatic Speaker ID, Zero Cloud privacy ($0/mo), and open [MCP server](https://github.com/onemira-space/onemira-mcp).
+
 [Scholarcy](https://www.scholarcy.com/) - The AI-powered article summarizer.
 
 [Summarize Tech](https://www.summarize.tech/) - Get a summary of any long YouTube video, like a lecture, live event or a government meeting. Powered by GPT-3.
