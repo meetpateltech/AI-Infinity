@@ -970,6 +970,8 @@ into podcasts.Listen to any article, PDF, email,etc in your podcast app.
 
 [Runwayml](https://runwayml.com/) - With 30+ AI Magic Tools, real-time video editing, collaboration, and more, Runway is your next-generation content creation suite.
 
+[ToHD](https://tohd.video/) - Make low-res video HD in your browser. ToHD upscales 360p and 480p clips to 720p or 1080p with AI on your own GPU: free, no signup, no upload.
+
 [Topaz Video AI](https://www.topazlabs.com/topaz-video-ai) - Unlimited access to the world’s leading production-grade neural networks for video upscaling, deinterlacing, motion interpolation, and shake stabilization.
 
 [Unscreen](https://www.unscreen.com/) - Remove Video Background.
