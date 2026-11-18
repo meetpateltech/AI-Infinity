@@ -769,6 +769,7 @@ Effortless integration. For any data, including video, wherever it is. 
 [InteriorAI](https://interiorai.com/) - Interior Design by AI!
 
 [Maket](https://www.maket.ai/) - Generative Design for Architectural Planning.
+[MotionCasa](https://motioncasa.com/) - Create real estate listing videos from property photographs.
 
 [RoomGPT](https://www.roomgpt.io/) - Generating dream rooms using AI for everyone.
 
